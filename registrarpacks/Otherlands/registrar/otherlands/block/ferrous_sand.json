@@ -1,0 +1,11 @@
+{
+  "$schema": "https://schema.amogus-sa.ga/mc-registar/block.schema.json",
+ "title": "Ferrous Sand", 
+ "type": "falling",
+  "material": "minecraft:sand",
+  "destroyTime":  0.75,
+  "explosionResistance":  0.5,
+  "soundType": "minecraft:sand",
+  "dustColor": "ffffff",
+  "creativeTab": "otherlands:otherlands"
+}

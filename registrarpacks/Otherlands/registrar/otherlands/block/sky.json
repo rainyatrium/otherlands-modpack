@@ -1,0 +1,9 @@
+{
+  "$schema": "https://schema.amogus-sa.ga/mc-registar/block.schema.json",
+ "type": "basic",
+  "material": "minecraft:stone",
+  "destroyTime":  -1,
+  "explosionResistance":  -1,
+  "dustColor": "ffffff",
+  "creativeTab": "otherlands:otherlands"
+}

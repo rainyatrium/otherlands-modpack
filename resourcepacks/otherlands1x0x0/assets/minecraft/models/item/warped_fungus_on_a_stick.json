@@ -1,0 +1,17 @@
+{
+	"parent": "item/handheld",
+		"textures": {
+			"layer0": "item/warped_fungus_on_a_stick"
+			},
+
+		"overrides": [
+			{ "predicate": { "custom_model_data": 0}, "model": "item/innate/innate_blank"			},
+			{ "predicate": { "custom_model_data": 1}, "model": "item/innate/innate_blackhole"		},
+			{ "predicate": { "custom_model_data": 2}, "model": "item/innate/innate_cool"			},
+			{ "predicate": { "custom_model_data": 3}, "model": "item/innate/innate_flight"			},
+			{ "predicate": { "custom_model_data": 4}, "model": "item/innate/innate_invisibility" 	},
+			{ "predicate": { "custom_model_data": 5}, "model": "item/innate/innate_telekinesis" 	},
+			{ "predicate": { "custom_model_data": 6}, "model": "item/innate/innate_vampirism" 		},
+			{ "predicate": { "custom_model_data": 7}, "model": "item/innate/innate_voidsnipe"		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://schema.amogus-sa.ga/mc-registar/block.schema.json",
+ "title": "Ferrous Grass", 
+ "type": "basic",
+  "material": "minecraft:grass",
+  "soundType": "minecraft:grass",
+  "destroyTime":  0.9,
+  "explosionResistance":  0.6,
+  "dustColor": "ffffff",
+  "creativeTab": "otherlands:otherlands"
+}

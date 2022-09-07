@@ -1,0 +1,12 @@
+{
+	"otherlands.intro":{
+		"sounds": [
+			"otherlands/intro"
+		]
+	},
+	"otherlands.endstorm":{
+		"sounds": [
+			"otherlands/endstorm"
+		]
+	}
+}
