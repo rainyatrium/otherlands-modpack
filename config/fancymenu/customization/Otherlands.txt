@@ -1,0 +1,958 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/curtainsmall.png
+  action = texturizebackground
+}
+
+customization {
+  baseheight = 979
+  action = autoscale
+  basewidth = 1680
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-left
+  x = 9
+  action = movebutton
+  y = -193
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -410
+  action = movebutton
+  y = -103
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 72
+  action = resizebutton
+  height = 30
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-left
+  x = -800
+  action = movebutton
+  y = -100
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-left
+  x = 7
+  action = movebutton
+  y = 1
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-left
+  x = 8
+  action = movebutton
+  y = -162
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-left
+  x = 45
+  action = movebutton
+  y = -128
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-left
+  x = 10
+  action = movebutton
+  y = -130
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 262
+  action = deep_customization_element:title_screen_branding
+  actionid = 6dba1c3f-1c04-4cbb-8902-3c74781a61281665646278034
+  y = 478
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 523
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 66e6bf64-6a34-4bf9-bf75-f1c16d85b5ae1665646278042
+  y = 222
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 283
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 3aca307f-685f-425b-ab4e-508da8e456001665646278042
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = f79948f3-9cca-437c-9281-4506b2e285bc1665646278042
+  y = -10
+  height = 30
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = -282
+  width = 41
+  actionid = c84ada9f-ca6e-487d-951d-61e03ddb45251665714133200
+  action = addbutton
+  y = -390
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 812
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = -365
+  width = 42
+  actionid = a97d496e-4f59-4b9a-ba92-e44a3fb97d1b1665714108034
+  action = addbutton
+  y = -375
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 764
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = -596
+  width = 231
+  actionid = 38c9b570-08cd-4ce4-937d-f9b15babb7e81665713853307
+  action = addbutton
+  y = -382
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 775
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = -323
+  width = 41
+  actionid = 17dc058f-52b2-4cdf-9792-8daf0833f2e81665714115413
+  action = addbutton
+  y = -359
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 784
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = -241
+  width = 41
+  actionid = bccdf4ae-3367-4afd-9751-4d7a726640e31665714136811
+  action = addbutton
+  y = -374
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 788
+}
+
+customization {
+  orientation = element
+  vr:showif:serveronline = true
+  vr:value:serveronline = 132.145.111.114:25565
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  name = eyeanim
+  x = -34
+  width = 452
+  actionid = 818ccbd5-94d5-426c-a01f-d9a2aea564ba1665737423101
+  action = addanimation
+  y = -79
+  height = 400
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = -200
+  width = 42
+  actionid = e95e1b2a-1015-416e-872c-c276b644ea201665714173660
+  action = addbutton
+  y = -385
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 801
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = -158
+  width = 42
+  actionid = 8edb4d54-5a24-4684-8016-d048ac6978f81665714187891
+  action = addbutton
+  y = -388
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 795
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = -116
+  width = 46
+  actionid = f32772a6-f9ba-457e-9139-5186133e30391665714190693
+  action = addbutton
+  y = -389
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 810
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = -70
+  width = 46
+  actionid = 6703acf5-e0f2-45a7-ad2e-397e698d5d9a1665714193889
+  action = addbutton
+  y = -369
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 780
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = -24
+  width = 46
+  actionid = 1acf11f0-d4f8-4036-a9a7-3c7a59fdc1c31665714350515
+  action = addbutton
+  y = -375
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 795
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = 22
+  width = 46
+  actionid = ef8ea949-4f26-412d-b67a-d8679f599aed1665715826847
+  action = addbutton
+  y = -382
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 795
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = 68
+  width = 44
+  actionid = 3fd6057a-3329-47b6-8bab-3816727def561665715879408
+  action = addbutton
+  y = -403
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 881
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = 112
+  width = 42
+  actionid = 901d527d-29a5-4d4c-925a-4d6195f4d5901665715884797
+  action = addbutton
+  y = -415
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 850
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = 154
+  width = 42
+  actionid = 185a827c-1c2c-4b7e-b9e8-ab61c4907a1b1665715892130
+  action = addbutton
+  y = -404
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 854
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = 196
+  width = 42
+  actionid = 15f79bba-74dc-4831-945f-5d125e2470551665715898024
+  action = addbutton
+  y = -372
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 804
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = 238
+  width = 42
+  actionid = bf6c79a0-9d79-4a79-a5ec-5c992f23b6491665715902748
+  action = addbutton
+  y = -396
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 859
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = 280
+  width = 42
+  actionid = ee933228-d52c-4432-b043-970feb1589ed1665715908295
+  action = addbutton
+  y = -374
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 835
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = 322
+  width = 42
+  actionid = b456f243-1f28-44c1-8df9-94d04b482f9a1665715916678
+  action = addbutton
+  y = -386
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 867
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = 
+  loopbackgroundanimations = true
+  x = 364
+  width = 199
+  actionid = 8abe0b1a-d900-4dce-b440-2ba71563adfe1665715920754
+  action = addbutton
+  y = -442
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 
+  height = 876
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = 6703acf5-e0f2-45a7-ad2e-397e698d5d9a1665714193889
+  path = resources/EyeLook/-1.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = b9375e70-6812-4059-9896-e82a8dadafaa1665651489574
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = f32772a6-f9ba-457e-9139-5186133e30391665714190693
+  path = resources/EyeLook/-2.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = b9375e70-6812-4059-9896-e82a8dadafaa1665651489574
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = 8edb4d54-5a24-4684-8016-d048ac6978f81665714187891
+  path = resources/EyeLook/-3.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = 47d5dd42-7da5-4803-82cc-66dc2544037f1665651498694
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = e95e1b2a-1015-416e-872c-c276b644ea201665714173660
+  path = resources/EyeLook/-4.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = d0b6a74c-5b8a-4987-9ccd-3f61cbfc93da1665651519938
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = bccdf4ae-3367-4afd-9751-4d7a726640e31665714136811
+  path = resources/EyeLook/-5.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = 67b38304-ce77-4738-a813-31a9c97aef191665651532060
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = c84ada9f-ca6e-487d-951d-61e03ddb45251665714133200
+  path = resources/EyeLook/-6.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = cecb387d-4e60-4f09-99ee-3e3abe65aa5a1665651560764
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = 17dc058f-52b2-4cdf-9792-8daf0833f2e81665714115413
+  path = resources/EyeLook/-7.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = 5054c635-5d5c-49ef-8b68-a6853f4716e11665651571721
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = a97d496e-4f59-4b9a-ba92-e44a3fb97d1b1665714108034
+  path = resources/EyeLook/-8.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = 893f0a16-408b-4e09-a164-fd378a26699c1665651589413
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = 38c9b570-08cd-4ce4-937d-f9b15babb7e81665713853307
+  path = resources/EyeLook/-9.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = 567edeed-2251-4af8-86cd-5a5b3b2a2ee71665651595515
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = ef8ea949-4f26-412d-b67a-d8679f599aed1665715826847
+  path = resources/EyeLook/1.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = d1e58a75-a6bc-49f4-9e61-d66cb3d4f0f71665651607275
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = 3fd6057a-3329-47b6-8bab-3816727def561665715879408
+  path = resources/EyeLook/2.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = 565c9aac-9fc7-4f6c-aa74-494c8fa804111665651615458
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = 901d527d-29a5-4d4c-925a-4d6195f4d5901665715884797
+  path = resources/EyeLook/3.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = 98f368fe-7a91-4720-823b-ee1c222d10c71665651621296
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = 185a827c-1c2c-4b7e-b9e8-ab61c4907a1b1665715892130
+  path = resources/EyeLook/4.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = c377535d-e69b-4f3c-b47b-09d79efb1d5e1665651627483
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = 15f79bba-74dc-4831-945f-5d125e2470551665715898024
+  path = resources/EyeLook/5.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = f2bc453e-5c3f-44cf-91ad-49ac2e2089ee1665651633519
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = bf6c79a0-9d79-4a79-a5ec-5c992f23b6491665715902748
+  path = resources/EyeLook/6.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = 07a44a02-5bb6-43af-8680-d1189b53b8221665651639190
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = ee933228-d52c-4432-b043-970feb1589ed1665715908295
+  path = resources/EyeLook/7.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = ee5f73f2-aac8-466d-bec8-6faca6585f6b1665651643783
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = b456f243-1f28-44c1-8df9-94d04b482f9a1665715916678
+  path = resources/EyeLook/8.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = bb0ce89e-4cc9-4d28-a127-5b9c6d3c86e71665651648476
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = 8abe0b1a-d900-4dce-b440-2ba71563adfe1665715920754
+  path = resources/EyeLook/9.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = b38baba1-05a4-432d-acc7-c9c0b7de98531665651652803
+  y = -10
+  height = 220
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  vr:value:serveronline = 132.145.111.114:25565
+  vr:value:buttonhovered = 1acf11f0-d4f8-4036-a9a7-3c7a59fdc1c31665714350515
+  path = resources/EyeLook/0.png
+  vr:showif:serveronline = true
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  x = 2
+  width = 384
+  action = addtexture
+  actionid = 4b3d01e9-f866-4f10-94a3-3994660fc6b11665652063244
+  y = -10
+  height = 220
+}
+
+customization {
+  path = resources/EyeLook/eyeframe.png
+  orientation = mid-centered
+  x = -200
+  width = 384
+  action = addtexture
+  actionid = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  y = -120
+  height = 220
+}
+
+customization {
+  orientation = mid-centered
+  vr:value:serveronline = 132.145.111.114:25565
+  delayappearanceseconds = 0.0
+  vr:showif:serveronline = false
+  fadein = true
+  fadeinspeed = 0.5
+  name = closedeyeanim
+  x = -234
+  width = 452
+  actionid = 485fd773-2611-4f12-8e37-06bdcd2891701665987550242
+  action = addanimation
+  y = -199
+  delayappearance = true
+  delayappearanceeverytime = false
+  height = 400
+}
+
+customization {
+  orientation = element
+  vr:showif:serveronline = true
+  vr:value:serveronline = 132.145.111.114:25565
+  orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
+  name = eyeanim
+  x = -34
+  width = 452
+  actionid = 818ccbd5-94d5-426c-a01f-d9a2aea564ba1665737423101
+  action = addanimation
+  y = -79
+  height = 400
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  vr:value:serveronline = 132.145.111.114:25565
+  buttonaction = mimicbutton
+  backgroundhovered = resources\EyeLook\buttontest.png
+  label = 
+  loopbackgroundanimations = true
+  vr:showif:serveronline = false
+  x = -63
+  width = 114
+  actionid = 3b7fca3c-863d-450b-be34-4b9bf49e39461665989805030
+  action = addbutton
+  y = 41
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = net.minecraft.class_442:button_compatibility_id:mc_titlescreen_language_button
+  height = 132
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = set_variable
+  vr_custom:showif:fancymenu_visibility_requirement_is_variable_value = true
+  backgroundhovered = resources\EyeLook\buttontest.png
+  label = 
+  loopbackgroundanimations = true
+  vr_custom:value:fancymenu_visibility_requirement_is_variable_value = optcontext:1
+  orientation_element = d7c32709-7106-44bd-9909-01c31c8cc6701665911654720
+  x = 53
+  width = 119
+  actionid = ac2d7345-9bc1-457a-b04d-305497c253ff1665989805030
+  action = addbutton
+  y = 221
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = optcontext:0
+  height = 132
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  backgroundhovered = resources\EyeLook\buttontest.png
+  label = 
+  loopbackgroundanimations = true
+  orientation_element = d7c32709-7106-44bd-9909-01c31c8cc6701665911654720
+  x = 284
+  width = 114
+  actionid = 0e7666c5-e658-4ddb-93ab-8f7cc71c3efe1665989805030
+  action = addbutton
+  y = 221
+  backgroundnormal = resources\EyeLook\buttontest.png
+  value = 132.145.111.114:25565
+  height = 132
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  orientation_element = cd9cc387-473c-435b-be67-17db9965c9c11665911937003
+  name = rightselect
+  x = -20
+  width = 452
+  actionid = fee1a68d-ed55-46bd-a3ef-3d5f1926c7811665989805030
+  action = addanimation
+  y = -64
+  vr:value:buttonhovered = 3262950f-8f20-494e-9304-efad06dea6101665975400607
+  height = 400
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  orientation_element = cd9cc387-473c-435b-be67-17db9965c9c11665911937003
+  name = leftlash
+  x = -50
+  width = 452
+  actionid = c3a0984d-e69b-4e27-84ab-3b80d3bfcd361665989805030
+  action = addanimation
+  y = -61
+  vr:value:buttonhovered = 266dd79f-27a8-4077-a781-80d791e134e11665912370126
+  height = 400
+}
+
+customization {
+  orientation = element
+  vr:showif:buttonhovered = true
+  orientation_element = cd9cc387-473c-435b-be67-17db9965c9c11665911937003
+  name = midlash
+  x = -32
+  width = 452
+  actionid = 73d09040-3eb6-4174-91f4-4f78dc5a56b31665989805030
+  action = addanimation
+  y = -60
+  vr:value:buttonhovered = 99b6d4b0-e84a-4814-8970-9ea57679a7bd1665975418003
+  height = 400
+}
+

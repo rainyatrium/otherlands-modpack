@@ -7,7 +7,7 @@
   "perspective": true,
   "default3rdPersonFront": false,
   "showicon": true,
-  "enableNSFW": false,
+  "enableNSFW": true,
   "debug": true,
   "validate": false,
   "validationThreshold": 8.0,
@@ -22,6 +22,12 @@
   "neverRemoveBadIcon": false,
   "exportBuiltin": false,
   "hideWarning": false,
-  "fastmenu": {},
+  "fastmenu": {
+    "9": {
+      "4": "b2dae985-0000-0000-0000-000000000000",
+      "5": "01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a",
+      "6": "f9f6669d-f1b3-4170-8bc5-475a9a600439"
+    }
+  },
   "keys": {}
 }

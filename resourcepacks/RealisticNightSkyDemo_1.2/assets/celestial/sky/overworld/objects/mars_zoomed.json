@@ -1,0 +1,18 @@
+{
+	"texture": "celestial:sky/overworld/objects/mars_highres.png",
+	"display": {
+		"scale": "4",
+		"pos_x": "0",
+		"pos_y": "0",
+		"pos_z": "0",
+		"distance": "-100"
+	},
+	"rotation": {
+		"degrees_x": "25",
+		"degrees_y": "(360 - #skyAngle) + 120",
+		"degrees_z": "90"
+	},
+	"properties": {
+		"alpha": "#isUsing(minecraft:spyglass)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"texture": "celestial:sky/overworld/objects/uranus.png",
+	"display": {
+		"scale": "1",
+		"pos_x": "0",
+		"pos_y": "0",
+		"pos_z": "0",
+		"distance": "-380"
+	},
+	"rotation": {
+		"degrees_x": "20",
+		"degrees_y": "(360 - #skyAngle) + 240",
+		"degrees_z": "90"
+	},
+	"properties": {
+		"alpha": "1 - #isUsing(minecraft:spyglass)"
+	}
+}

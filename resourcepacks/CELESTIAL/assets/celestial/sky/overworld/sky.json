@@ -1,0 +1,26 @@
+{
+	"sky_objects": [
+		"moon",
+		"sun",
+		"stars",
+		"island1",
+		"island2"
+	],
+	"render_type": "normal",
+	"environment": {
+		"fog_color": "c0d8ff",
+		"sky_color": "78a7ff",
+		"twilight_color": "b23333",
+		"twilight_alpha": "1",
+		"clouds": {
+			"height": 330,
+			"color": "ffffff"
+		},
+		"fog": {
+			"has_thick_fog": false,
+			"fog_start": "-1",
+			"fog_end": "-1"
+		},
+		"sky_darkness": "0"
+	}
+}

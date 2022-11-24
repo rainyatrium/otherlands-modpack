@@ -1,0 +1,124 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 262
+  action = deep_customization_element:title_screen_branding
+  actionid = 4bb39963-69c1-4ffd-82d7-e4019cc3db861665994518112
+  y = 478
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 523
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 7f8273d7-8061-4639-8f92-9bf6b33642bb1665994518112
+  y = 222
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 283
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 8ee22f60-3ace-4e1c-b2d7-36a0904fd3921665994518112
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 3dd91233-a905-4c8c-b7ad-2d06d6022b3e1665994518112
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = top-left
+  vr:value:serveronline = 132.145.111.114:25565
+  delayappearanceseconds = 2.0
+  path = resources/curtainsmall.png
+  vr:showif:serveronline = false
+  fadein = true
+  fadeinspeed = 2.0
+  x = 0
+  width = %guiwidth%
+  action = addtexture
+  actionid = 4fc9e6ce-f40d-4748-aa6c-a61a5addfd2e1665994561052
+  y = 0
+  delayappearance = true
+  delayappearanceeverytime = false
+  height = %guiheight%
+}
+

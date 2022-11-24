@@ -1,0 +1,19 @@
+{
+	"texture": "celestial:sky/overworld/objects/moon_phases_highres.png",
+	"display": {
+		"scale": "20",
+		"pos_x": "0",
+		"pos_y": "0",
+		"pos_z": "0",
+		"distance": "-100"
+	},
+	"rotation": {
+		"degrees_x": "#skyAngle + 90",
+		"degrees_y": "0",
+		"degrees_z": "0"
+	},
+	"properties": {
+		"has_moon_phases": true,
+		"alpha": "#isUsing(minecraft:spyglass)"
+	}
+}

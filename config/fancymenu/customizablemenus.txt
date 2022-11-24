@@ -1,2 +1,23 @@
 type = customizablemenus
 
+net.minecraft.class_424 {
+}
+
+net.minecraft.class_3928 {
+}
+
+net.minecraft.class_412 {
+}
+
+net.minecraft.class_442 {
+}
+
+com.terraformersmc.modmenu.gui.ModsScreen {
+}
+
+net.minecraft.class_526 {
+}
+
+net.minecraft.class_500 {
+}
+
