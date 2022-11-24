@@ -1,2 +1,2 @@
 # otherlands modpack
-modpack for the Otherlands rp server.
+Modpack for the Otherlands rp server. Here be spoilers!
