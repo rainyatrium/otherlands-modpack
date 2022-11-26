@@ -18,5 +18,15 @@
 		"sounds": [
 			"otherlands/library/ticketmachine/voice1"
 		]
+	},
+	"otherlands.boom":{
+		"sounds": [
+			"otherlands/library/boom"
+		]
+	},
+	"otherlands.rumble":{
+		"sounds": [
+			"otherlands/library/rumble"
+		]
 	}
 }
