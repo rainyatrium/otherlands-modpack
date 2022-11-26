@@ -8,5 +8,15 @@
 		"sounds": [
 			"otherlands/endstorm"
 		]
+	},
+	"otherlands.libraryintro":{
+		"sounds": [
+			"otherlands/libraryintro"
+		]
+	},
+	"otherlands.ticketmachine":{
+		"sounds": [
+			"otherlands/library/ticketmachine/voice1"
+		]
 	}
 }
