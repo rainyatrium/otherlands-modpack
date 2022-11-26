@@ -1,6 +1,12 @@
 {
   "$schema": "https://schema.amogus-sa.ga/mc-registar/item.schema.json",
   "type": "basic",
-  "stackSize": 64,
-  "creativeTab": "otherlands:otherlands"
+  "stackSize": 16,
+  "food": {
+    "hunger": 2, 
+    "saturationModifier": 0.3,
+    "meat": false,
+    "fast": true, 
+    "canAlwaysEat": true 
+  }
 }
