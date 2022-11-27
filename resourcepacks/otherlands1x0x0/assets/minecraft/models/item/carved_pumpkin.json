@@ -10,6 +10,7 @@
 		{ "predicate": { "custom_model_data": 7 }, "model": "item/monster/shadowhands" 					},
 		{ "predicate": { "custom_model_data": 8 }, "model": "item/monster/ceo" 							},
 		{ "predicate": { "custom_model_data": 9 }, "model": "item/cosmetic/amulet_growth" 				},
+		{ "predicate": { "custom_model_data": 10 }, "model": "item/cosmetic/npc_kalamazoo" 				},
 		{ "predicate": { "custom_model_data": 300 }, "model": "item/stuff/defenseaura" 					},
 		{ "predicate": { "custom_model_data": 2000 }, "model": "item/olmagic/start" 					},
 		{ "predicate": { "custom_model_data": 2001 }, "model": "item/olmagic/0" 						},
