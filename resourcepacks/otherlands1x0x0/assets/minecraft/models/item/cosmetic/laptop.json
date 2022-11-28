@@ -1,0 +1,73 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [38, 12],
+	"textures": {
+		"0": "custom/laptop",
+		"particle": "custom/laptop"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 1, 12],
+			"faces": {
+				"north": {"uv": [0.42105, 0, 5.47368, 1.33333], "texture": "#0"},
+				"east": {"uv": [5.89474, 0, 10.94737, 1.33333], "texture": "#0"},
+				"south": {"uv": [0.42105, 13.33333, 5.47368, 14.66667], "texture": "#0"},
+				"west": {"uv": [5.89474, 0, 10.94737, 1.33333], "texture": "#0"},
+				"up": {"uv": [10.94737, 13.33333, 16, 1.33333], "texture": "#0"},
+				"down": {"uv": [5.89474, 1.33333, 10.94737, 13.33333], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 1, 12],
+			"to": [16, 13, 13],
+			"faces": {
+				"north": {"uv": [0.42105, 1.33333, 5.47368, 13.33333], "texture": "#0"},
+				"east": {"uv": [0, 1.33333, 0.42105, 13.33333], "texture": "#0"},
+				"south": {"uv": [5.89474, 1.33333, 10.94737, 13.33333], "texture": "#0"},
+				"west": {"uv": [5.47368, 1.33333, 5.89474, 13.33333], "texture": "#0"},
+				"up": {"uv": [0.42105, 0, 5.47368, 1.33333], "texture": "#0"},
+				"down": {"uv": [0.42105, 13.33333, 5.47368, 14.66667], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [60, -180, 0],
+			"translation": [-2, 4.75, 3],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [60, -180, 0],
+			"translation": [-2, 4.75, 3],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 150, 0],
+			"translation": [0, 7, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 150, 0],
+			"translation": [0, 7, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"translation": [0, 4, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"rotation": [25, 135, 0],
+			"translation": [0.25, 1.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"translation": [0, 0.5, 2.5]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 4, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}
