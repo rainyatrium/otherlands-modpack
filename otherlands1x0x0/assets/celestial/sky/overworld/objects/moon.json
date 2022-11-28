@@ -1,7 +1,7 @@
 {
 	"texture": "minecraft:textures/environment/moon_phases.png",
 	"display": {
-		"scale": "20",
+		"scale": "30",
 		"pos_x": "0",
 		"pos_y": "0",
 		"pos_z": "0",
@@ -14,7 +14,7 @@
 	},
 	"properties": {
 		"has_moon_phases": true,
-		"alpha": "#rainGradient",
+		"alpha": "1",
 		"red": "1",
 		"blue": "1",
 		"green": "1"
