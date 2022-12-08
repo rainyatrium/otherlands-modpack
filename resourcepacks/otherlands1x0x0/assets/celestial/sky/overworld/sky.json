@@ -10,21 +10,11 @@
 	"environment": {
 		"fog_color": {
 	"update_frequency": 0,
-	"base_color": "inherit",
-	"colors": [{
-			"color": "c4ac6a",
-			"alpha": 1
-		}
-	]
+	"base_color": "inherit"
 },
 		"sky_color": {
 	"update_frequency": 0,
-	"base_color": "inherit",
-	"colors": [{
-			"color": "c4ac6a",
-			"alpha": "#distanceToBiome(desert)"
-		}
-	]
+	"base_color": "inherit"
 },
 		"twilight_color": "b23333",
 		"twilight_alpha": "1",
