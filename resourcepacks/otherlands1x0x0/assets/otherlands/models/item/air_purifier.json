@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "otherlands:block/air_purifier_top",
+    "front": "otherlands:block/air_purifier_front",
+    "side": "otherlands:block/air_purifier_side"
+  }
+}

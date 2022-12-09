@@ -22,6 +22,8 @@
 		{ "predicate": { "custom_model_data": 2007 }, "model": "item/olmagic/6" 						},
 		{ "predicate": { "custom_model_data": 2008 }, "model": "item/olmagic/7" 						},
 		{ "predicate": { "custom_model_data": 2009 }, "model": "item/olmagic/8" 						},
-		{ "predicate": { "custom_model_data": 2010 }, "model": "item/olmagic/fire" 						}
+		{ "predicate": { "custom_model_data": 2010 }, "model": "item/olmagic/fire" 						},
+		{ "predicate": { "custom_model_data": 4000 }, "model": "item/object/atm_fan" 					},
+		{ "predicate": { "custom_model_data": 4001 }, "model": "item/object/atm_rod" 					}
 	]
 }

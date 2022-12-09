@@ -1,0 +1,11 @@
+{
+  "$schema": "https://schema.amogus-sa.ga/mc-registar/block.schema.json",
+ "title": "Air Purifier", 
+ "type": "basic",
+  "material": "minecraft:metal",
+  "soundType": "minecraft:metal",
+  "destroyTime":  3.0,
+  "explosionResistance":  3600000,
+  "dustColor": "ffffff",
+  "creativeTab": "otherlands:otherlands"
+}
