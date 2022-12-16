@@ -4,8 +4,6 @@
 		{ "predicate": { "custom_model_data": 1 }, "model": "item/monster/dexter_portal" 				},
 		{ "predicate": { "custom_model_data": 2 }, "model": "item/cosmetic/pc_charliegogglesup" 		},
 		{ "predicate": { "custom_model_data": 3 }, "model": "item/cosmetic/pc_charliegogglesdown" 		},
-		{ "predicate": { "custom_model_data": 4 }, "model": "item/cosmetic/corus_h" 					},
-		{ "predicate": { "custom_model_data": 5 }, "model": "item/cosmetic/corus_v" 					},
 		{ "predicate": { "custom_model_data": 6 }, "model": "item/monster/scout" 						},
 		{ "predicate": { "custom_model_data": 7 }, "model": "item/monster/shadowhands" 					},
 		{ "predicate": { "custom_model_data": 8 }, "model": "item/monster/ceo" 							},
@@ -24,6 +22,8 @@
 		{ "predicate": { "custom_model_data": 2009 }, "model": "item/olmagic/8" 						},
 		{ "predicate": { "custom_model_data": 2010 }, "model": "item/olmagic/fire" 						},
 		{ "predicate": { "custom_model_data": 4000 }, "model": "item/object/atm_fan" 					},
-		{ "predicate": { "custom_model_data": 4001 }, "model": "item/object/atm_rod" 					}
+		{ "predicate": { "custom_model_data": 4001 }, "model": "item/object/atm_rod" 					},
+		{ "predicate": { "custom_model_data": 4002 }, "model": "item/object/corus_h" 					},
+		{ "predicate": { "custom_model_data": 4003 }, "model": "item/object/corus_v" 					}
 	]
 }
