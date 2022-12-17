@@ -37,7 +37,7 @@
   "wardrobe_button": "key.keyboard.unknown",
   "button_location": 0,
   "update_channel": 1,
-  "default_trust": 1,
+  "default_trust": 3,
   "chat_emojis": false,
   "easter_eggs": true,
   "connection_toasts": true,
