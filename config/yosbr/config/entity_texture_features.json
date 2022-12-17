@@ -13,13 +13,13 @@
   "enableEmissiveTextures": true,
   "enableEmissiveBlockEntities": true,
   "fullBrightEmissives": false,
+  "emissiveRenderMode": "DULL",
   "specialEmissiveShield": true,
   "alwaysCheckVanillaEmissiveSuffix": true,
-  "skinFeaturesEnabled": true,
+  "skinFeaturesEnabled": false,
   "skinFeaturesEnableTransparency": true,
   "skinFeaturesEnableFullTransparency": true,
   "skinFeaturesPrintETFReadySkin": false,
-  "ignoreConfigWarnings": false,
   "enableEnemyTeamPlayersSkinFeatures": true,
   "enableBlinking": true,
   "blinkFrequency": 150,
@@ -29,5 +29,11 @@
   "elytraThicknessFix": false,
   "advanced_IncreaseCacheSizeModifier": 1.0,
   "debugLoggingMode": "None",
-  "temporary_fixIrisPBR": false
+  "removePixelsUnderEmissiveElytra": true,
+  "removePixelsUnderEmissiveArmour": true,
+  "removePixelsUnderEmissivePlayers": true,
+  "removePixelsUnderEmissiveMobs": true,
+  "removePixelsUnderEmissiveBlockEntity": true,
+  "ignoredConfigs": [],
+  "hideConfigButton": false
 }
