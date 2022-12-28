@@ -6,6 +6,7 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/monster/lake_hand" 				},
 		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/clockhand" 				},
-		{ "predicate": { "custom_model_data": 3}, "model": "minecraft:item/structure_void" 				}
+		{ "predicate": { "custom_model_data": 3}, "model": "minecraft:item/structure_void" 			},
+		{ "predicate": { "custom_model_data": 4}, "model": "item/monster/nft" 						}
 	]
 }
