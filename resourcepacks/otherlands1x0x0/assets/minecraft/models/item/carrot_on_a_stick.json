@@ -5,6 +5,7 @@
 			},
 
 		"overrides": [
+			{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/drizzler_sword"	},
 			{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/key_tier_1"		},
 			{ "predicate": { "custom_model_data": 3}, "model": "item/cosmetic/key_tier_2"		},
 			{ "predicate": { "custom_model_data": 9}, "model": "item/cosmetic/taglock"			},

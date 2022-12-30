@@ -1,0 +1,68 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "drizzler_sword",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "custom/drizzler_sword_shield",
+		"particle": "custom/drizzler_sword_shield"
+	},
+	"elements": [
+		{
+			"name": "1",
+			"from": [4, 31, 3],
+			"to": [12, 32, 11],
+			"faces": {
+				"north": {"uv": [0, 15.25, 2, 15.5], "texture": "#0"},
+				"east": {"uv": [1.75, 13.5, 2, 15.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 13.5, 2, 13.75], "texture": "#0"},
+				"west": {"uv": [0, 13.5, 0.25, 15.5], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [0, 13.5, 2, 15.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 13.5, 2, 15.5], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [15, 30, 0],
+			"translation": [1, 0.75, 1.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [15, 30, 0],
+			"translation": [1, 0.75, 1.75]
+		},
+		"firstperson_righthand": {
+			"translation": [0.5, 0.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"translation": [0.5, 0.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"rotation": [25, 0, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [17, 45, -35],
+			"translation": [-0.75, -3.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"head": {
+			"translation": [0, -36, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [1, -4.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	},
+	"groups": [
+		{
+			"name": "Shield",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}
