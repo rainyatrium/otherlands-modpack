@@ -7,5 +7,6 @@
   "layer": "minecraft:solid",
   "noOcclusion": true,
   "soundType": "glass",
+  "collisionShape": [4.0, 0.0, 4.0, 12.0, 16.0, 12.0],
   "creativeTab": "otherlands:otherlands"
 }
