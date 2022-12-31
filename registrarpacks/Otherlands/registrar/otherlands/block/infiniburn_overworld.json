@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "minecraft:netherrack",
-    "minecraft:magma_block",
-	"minecraft:volcanic_sand",
-	"minecraft:lavastone_block"
-  ]
-}

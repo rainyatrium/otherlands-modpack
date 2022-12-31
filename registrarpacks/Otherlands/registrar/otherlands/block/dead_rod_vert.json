@@ -1,0 +1,11 @@
+{
+  "$schema": "https://schema.amogus-sa.ga/mc-registar/block.schema.json",
+ "type": "basic",
+  "material": "minecraft:glass",
+  "destroyTime": 2.25,
+  "explosionResistance":  1.5,
+  "layer": "minecraft:solid",
+  "noOcclusion": true,
+  "soundType": "glass",
+  "creativeTab": "otherlands:otherlands"
+}
