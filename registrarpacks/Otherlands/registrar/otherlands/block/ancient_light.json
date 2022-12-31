@@ -7,5 +7,6 @@
   "destroyTime":  -1,
   "explosionResistance":  3600000,
   "dustColor": "ffffff",
-  "creativeTab": "otherlands:otherlands"
+  "creativeTab": "otherlands:otherlands",
+  "lightLevel": 15
 }
