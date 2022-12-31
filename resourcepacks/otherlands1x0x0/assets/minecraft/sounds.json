@@ -28,5 +28,20 @@
 		"sounds": [
 			"otherlands/library/rumble"
 		]
+	},
+	"otherlands.aral.chime":{
+		"sounds": [
+			"otherlands/toxic/chime"
+		]
+		},
+	"otherlands.aral.chimequick":{
+		"sounds": [
+			"otherlands/toxic/quickchime"
+		]
+		},
+	"otherlands.aral.overdraw":{
+		"sounds": [
+			"otherlands/toxic/overdraw"
+		]
 	}
 }
