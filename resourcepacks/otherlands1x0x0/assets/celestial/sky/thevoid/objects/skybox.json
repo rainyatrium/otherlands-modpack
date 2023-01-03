@@ -1,0 +1,9 @@
+{
+	"type": "skybox",
+	"skybox": {
+		"texture": "celestial:sky/thevoid/objects/skybox_texture.png",
+		"uv_size": "16",
+		"texture_width": "48",
+		"texture_height": "32"
+		}
+}

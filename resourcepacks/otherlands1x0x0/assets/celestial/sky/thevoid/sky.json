@@ -1,0 +1,19 @@
+{
+	"sky_objects": [
+		"skybox"
+		],
+	"environment": {
+		"fog_color": {
+			"update_frequency": 0,
+			"base_color": "inherit"
+			},
+		"sky_color": {
+			"update_frequency": 0,
+			"base_color": "inherit"
+			},
+		"clouds": {
+			"height": 0,
+			"color": "000000"
+			}
+	}
+}
