@@ -4,6 +4,10 @@
 		"layer0": "item/written_book"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/book_apocryphal" 				}
+		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/book_apocryphal" 	},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/book" 			},
+		{ "predicate": { "custom_model_data": 3}, "model": "item/cosmetic/book_world" 		},
+		{ "predicate": { "custom_model_data": 4}, "model": "item/cosmetic/book_paper" 		},
+		{ "predicate": { "custom_model_data": 5}, "model": "item/cosmetic/book_paper_torn" 	}
 	]
 }
