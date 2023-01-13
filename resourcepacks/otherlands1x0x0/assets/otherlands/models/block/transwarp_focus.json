@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "otherlands:block/transwarp_focus_wall",
+    "north": "otherlands:block/transwarp_focus_wall",
+    "south": "otherlands:block/transwarp_focus_gem",
+    "east": "otherlands:block/transwarp_focus_wall",
+    "west": "otherlands:block/transwarp_focus_wall",
+    "up": "otherlands:block/transwarp_focus_wall",
+    "down": "otherlands:block/transwarp_focus_wall"
+  }
+}

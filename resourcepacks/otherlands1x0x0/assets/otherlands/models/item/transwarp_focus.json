@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "otherlands:block/transwarp_focus_wall",
+    "front": "otherlands:block/transwarp_focus_gem",
+    "side": "otherlands:block/transwarp_focus_wall"
+  }
+}
