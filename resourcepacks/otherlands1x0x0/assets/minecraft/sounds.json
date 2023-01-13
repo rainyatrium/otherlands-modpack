@@ -33,12 +33,17 @@
 		"sounds": [
 			"otherlands/toxic/chime"
 		]
-		},
+	},
 	"otherlands.aral.chimequick":{
 		"sounds": [
 			"otherlands/toxic/quickchime"
 		]
-		},
+	},
+		"otherlands.aral.winerror":{
+		"sounds": [
+			"otherlands/toxic/winerror"
+		]
+	},
 	"otherlands.aral.overdraw":{
 		"sounds": [
 			"otherlands/toxic/overdraw"

@@ -42,12 +42,10 @@
         }
     },
     "overrides": [
-        {	"predicate": {	"blocking": 1			},	"model":"item/shield_blocking"								},
-		{ 	"predicate": { 	"custom_model_data": 1	}, "model": "item/cosmetic/buckler" 							},
-		{ 	"predicate": { 	"custom_model_data": 1, "blocking":1	}, "model": "item/cosmetic/buckler_block" 		},
-		{ 	"predicate": { 	"custom_model_data": 2	}, "model": "item/cosmetic/shield_halt" 						},
-		{ 	"predicate": { 	"custom_model_data": 2, "blocking":1	}, "model": "item/cosmetic/shield_halt_block" 	},
-		{ 	"predicate": { 	"custom_model_data": 3	}, "model": "item/cosmetic/shield_clock" 						},
-		{ 	"predicate": { 	"custom_model_data": 3, "blocking":1	}, "model": "item/cosmetic/shield_clock_block" 	}
+        {	"predicate": {	"blocking": 1			},	"model":"item/shield_blocking"							},
+		{ 	"predicate": { 	"custom_model_data": 1	}, "model": "item/cosmetic/buckler" 						},
+		{ 	"predicate": { 	"custom_model_data": 1, "blocking":1	}, "model": "item/cosmetic/buckler_block" 	},
+		{ 	"predicate": { 	"custom_model_data": 2	}, "model": "item/cosmetic/shield_halt" 					},
+		{ 	"predicate": { 	"custom_model_data": 2, "blocking":1	}, "model": "item/cosmetic/shield_halt_block" }
     ]
 }
