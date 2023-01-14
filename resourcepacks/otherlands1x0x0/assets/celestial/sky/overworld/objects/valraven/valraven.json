@@ -1,0 +1,24 @@
+{
+	"texture": "celestial:sky/overworld/objects/valraven/valraven.png",
+	"display": {
+		"scale": "20",
+		"pos_x": "-100 + ((200/36000) * (#getWorldTime - 40812500))",
+		"pos_y": "0",
+		"pos_z": "50",
+		"distance": "150"
+	},
+	"rotation": {
+		"degrees_x": "0",
+		"degrees_y": "0",
+		"degrees_z": "75 - ((120/36000) * (#getWorldTime - 40812500))",
+		"base_degrees_z": "-180",
+		"base_degrees_y": "-15"
+	},
+	"properties": {
+		"has_moon_phases": false,
+		"alpha": "(#valraven)",
+		"red": "1",
+		"blue": "1",
+		"green": "1"
+	}
+}

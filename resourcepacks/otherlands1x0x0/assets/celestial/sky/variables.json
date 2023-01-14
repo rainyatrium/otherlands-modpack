@@ -7,6 +7,10 @@
 		{
 			"name": "anglePalm",
 			"value": "radians((2762 - #zPos) / (2660 - #xPos)) * (180/#pi)"
+		},
+				{
+			"name": "valraven",
+			"value": "((#getWorldTime)>40812500)=((#getWorldTime)<43247850)"
 		}
 	]
 }
