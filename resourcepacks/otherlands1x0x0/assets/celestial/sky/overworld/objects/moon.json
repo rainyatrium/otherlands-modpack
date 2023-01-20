@@ -14,7 +14,7 @@
 	},
 	"properties": {
 		"has_moon_phases": true,
-		"alpha": "1",
+		"alpha": "#moonOpacity",
 		"red": "1",
 		"blue": "1",
 		"green": "1"

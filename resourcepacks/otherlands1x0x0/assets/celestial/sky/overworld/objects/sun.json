@@ -13,6 +13,7 @@
 		"degrees_z": "0"
 	},
 	"properties": {
-		"has_moon_phases": false
+		"has_moon_phases": false,
+		"alpha": "#sunOpacity"
 	}
 }

@@ -1,32 +1,69 @@
 {
 	"sky_objects": [
-		"moon",
-		"valraven/valraven",
-		"sun",
+		"valraven/vskybox",
+		"valraven/tail",
 		"stars",
-		"island1",
-		"island2"
+		"valraven/closestars",
+		"valraven/closestarsb",
+		"moon",
+		"sun",
+		"valraven/aura",
+		"valraven/valraven"
 	],
 	"render_type": "normal",
 	"environment": {
-		"fog_color": {
-	"update_frequency": 0,
-	"base_color": "inherit"
-},
-		"sky_color": {
-	"update_frequency": 0,
-	"base_color": "inherit"
-},
-		"twilight_color": "b23333",
-		"twilight_alpha": "1",
-		"clouds": {
+	"fog_color": {
+		"update_frequency": 0,
+		"base_color": "inherit",
+		"colors": [{
+			"color": "#8566C1",
+			"alpha": "#valraven"
+		},
+		{
+			"color": "#FFFFFF",
+			"alpha": "#valraven * (#starAlpha)"
+		}
+		]
+		},
+	"sky_color": {
+			"update_frequency": 0,
+			"base_color": "inherit",
+			"colors": [{
+			"color": "#4D3B70",
+			"alpha": "#valraven"
+		}
+		]
+		},
+	"twilight_color": {
+		"update_frequency": 0,
+		"base_color": "#b23333",
+		"colors": [{
+			"color": "#8566C1",
+			"alpha": "#valraven"
+		}
+		]
+		},
+	"twilight_alpha": "1",
+	"clouds": {
 			"height": 330,
-			"color": "ffffff"
+			"color": {
+			"update_frequency": 0,
+			"base_color": "#ffffff",
+			"colors": [{
+			"color": "#592c94",
+			"alpha": "#valraven"
+		},
+		{
+			"color": "#E6DEF7",
+			"alpha": "#valraven * #starAlpha"
+		}
+		]
+		}
 		},
 		"fog": {
 			"has_thick_fog": false,
-			"fog_start": "-1",
-			"fog_end": "-1"
+			"fog_start": "(#renderDistance - 48) + (#valraven * ((-1 * (#renderDistance - 48))) + ((#renderDistance - 48)) - #renderDistance)",
+			"fog_end": "(#renderDistance) + (#valraven * ((-1 * #renderDistance)) + (#renderDistance - (20 * (#renderDistance / 100))))"
 		},
 		"sky_darkness": "0"
 	}

@@ -1,0 +1,14 @@
+{
+	"type": "skybox",
+	"skybox": {
+		"texture": "celestial:sky/overworld/objects/valraven/vskybox.png",
+		"uv_size": "16",
+		"texture_width": "48",
+		"texture_height": "32"
+		},
+	"properties": {
+		"has_moon_phases": false,
+		"alpha": "#valraven * #starAlpha",
+		"is_solid": "false"
+	}
+}

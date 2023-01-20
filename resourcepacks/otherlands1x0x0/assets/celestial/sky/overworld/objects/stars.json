@@ -6,7 +6,7 @@
 		"degrees_z": "0"
 	},
 	"properties": {
-		"alpha": "(1 - #dayLight) * #rainGradient"
+		"alpha": "#starsOpacity"
 	},
 	"populate": {
 		"count": 500,
@@ -19,8 +19,8 @@
 			"max_degrees_z": 360
 		},
 		"display": {
-			"min_scale": 0.3,
-			"max_scale": 0.42,
+			"min_scale": 0.35,
+			"max_scale": 0.45,
 			"min_pos_x": 0,
 			"max_pos_x": 0,
 			"min_pos_y": 0,

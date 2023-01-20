@@ -1,5 +1,5 @@
 {
-	"texture": "celestial:sky/overworld/objects/valraven/valraven.png",
+	"texture": "celestial:sky/overworld/objects/valraven/oldraven.png",
 	"display": {
 		"scale": "20",
 		"pos_x": "-100 + ((200/36000) * (#getWorldTime - 40812500))",
@@ -10,7 +10,7 @@
 	"rotation": {
 		"degrees_x": "0",
 		"degrees_y": "0",
-		"degrees_z": "75 - ((120/36000) * (#getWorldTime - 40812500))",
+		"degrees_z": "-#valravPath",
 		"base_degrees_z": "-180",
 		"base_degrees_y": "-15"
 	},

@@ -1,0 +1,42 @@
+(((#getWorldTime)>0)=((#getWorldTime)<40812500))
+
+
+
+(((#getWorldTime)>40812500)=((#getWorldTime)<40900000))
+
+
+
+(((#getWorldTime)>40900000)=((#getWorldTime)<43100000))
+
+
+
+(((#getWorldTime)>43100000)=((#getWorldTime)<43247850))
+
+
+
+(((#getWorldTime)>43247850)=(1))
+
+
+
+y=((1/12500)x) - 3264
+
+opacity= ((1/12500)#getWorldTime) - 3264
+
+
+Start fade at 40812000, finish fade at 401813200
+40812500 + 36000 for full event length (about half an hour)
+
+Start fade out at 40847000, finish fade out at 40848000
+
+
+
+one day: 24000
+
+fade out
+(((#getWorldTime)>40847000)=((#getWorldTime)<40848000)) * (((-(1/1000) * #getWorldTime) + 40848))
+
+fade in
+((((#getWorldTime)>40800000)=((#getWorldTime)<40847000)) * ((((1/1200) * #getWorldTime) - 34010)) + 
+
+
+(((#getWorldTime)>40800000)=((#getWorldTime)<43200000)) * 
