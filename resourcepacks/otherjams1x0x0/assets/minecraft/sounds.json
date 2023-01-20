@@ -1,0 +1,72 @@
+{
+	"otherlands.intro":{
+		"sounds": [
+			"otherjams/intro"
+		]
+	},
+	"otherlands.endstorm":{
+		"sounds": [
+			"otherjams/endstorm"
+		]
+	},
+	"otherlands.libraryintro":{
+		"sounds": [
+			"otherjams/libraryintro"
+		]
+	},
+	"otherlands.music.darkages":{
+		"sounds": [
+			"music/game/calm1"
+		]
+	},
+	"otherlands.music.desperatelysafe":{
+		"sounds": [
+			"music/game/calm2"
+		]
+	},
+	"otherlands.music.endofthewilds":{
+		"sounds": [
+			"music/game/calm3"
+		]
+	},
+	"otherlands.music.genshin9":{
+		"sounds": [
+			"music/game/comforting_memories"
+		]
+	},
+	"otherlands.music.nonbinarycode":{
+		"sounds": [
+			"music/game/floating_dream"
+		]
+	},
+	"otherlands.music.oscartango":{
+		"sounds": [
+			"music/game/hal1"
+		]
+	},
+	"otherlands.music.ancientglade":{
+		"sounds": [
+			"music/game/hal2"
+		]
+	},
+	"otherlands.music.raceofathousandants":{
+		"sounds": [
+			"music/game/hal3"
+		]
+	},
+	"otherlands.music.soundofwater":{
+		"sounds": [
+			"music/game/hal4"
+		]
+	},
+	"otherlands.music.wallsarelistening":{
+		"sounds": [
+			"music/game/left_to_bloom"
+		]
+	},
+	"otherlands.music.genshin8":{
+		"sounds": [
+			"music/game/nuance1"
+		]
+	}
+}

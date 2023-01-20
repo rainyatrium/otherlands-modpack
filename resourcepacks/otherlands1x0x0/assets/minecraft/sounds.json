@@ -1,19 +1,4 @@
 {
-	"otherlands.intro":{
-		"sounds": [
-			"otherlands/intro"
-		]
-	},
-	"otherlands.endstorm":{
-		"sounds": [
-			"otherlands/endstorm"
-		]
-	},
-	"otherlands.libraryintro":{
-		"sounds": [
-			"otherlands/libraryintro"
-		]
-	},
 	"otherlands.ticketmachine":{
 		"sounds": [
 			"otherlands/library/ticketmachine/voice1"
