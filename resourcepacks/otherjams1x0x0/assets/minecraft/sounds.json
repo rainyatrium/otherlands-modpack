@@ -1,72 +1,170 @@
 {
+	"otherlands.cawnival":{
+		"sounds": [
+			{
+			"name": "otherjams/cawnival",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.valraven":{
+		"sounds": [
+			{
+			"name": "otherjams/healingtemple",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.library":{
+		"sounds": [
+			{
+			"name": "otherjams/ushabti",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.rain":{
+		"sounds": [
+			{
+			"name": "otherjams/rainyday",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.intothevault":{
+		"sounds": [
+			{
+			"name": "otherjams/intothevault",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.spirit":{
+		"sounds": [
+			{
+			"name": "otherjams/marrow",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.pyramid":{
+		"sounds": [
+			{
+			"name": "otherjams/wallofstones",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.intro":{
 		"sounds": [
-			"otherjams/intro"
+			{
+			"name": "otherjams/intro",
+			"stream": true
+			}
 		]
 	},
 	"otherlands.endstorm":{
 		"sounds": [
-			"otherjams/endstorm"
+			{
+			"name": "otherjams/endstorm",
+			"stream": true
+			}
 		]
 	},
 	"otherlands.libraryintro":{
 		"sounds": [
-			"otherjams/libraryintro"
+			{
+			"name": "otherjams/libraryintro",
+			"stream": true
+			}
 		]
 	},
 	"otherlands.music.darkages":{
 		"sounds": [
-			"music/game/calm1"
+			{
+			"name": "music/game/calm1",
+			"stream": true
+			}
 		]
 	},
 	"otherlands.music.desperatelysafe":{
 		"sounds": [
-			"music/game/calm2"
+			{
+			"name": "music/game/calm2",
+			"stream": true
+			}
 		]
 	},
 	"otherlands.music.endofthewilds":{
 		"sounds": [
-			"music/game/calm3"
+			{
+			"name": "music/game/calm3",
+			"stream": true
+			}
 		]
 	},
 	"otherlands.music.genshin9":{
 		"sounds": [
-			"music/game/comforting_memories"
+			{
+			"name": "music/game/comforting_memories",
+			"stream": true
+			}
 		]
 	},
 	"otherlands.music.nonbinarycode":{
 		"sounds": [
-			"music/game/floating_dream"
+			{
+			"name": "music/game/floating_dream",
+			"stream": true
+			}
 		]
 	},
 	"otherlands.music.oscartango":{
 		"sounds": [
-			"music/game/hal1"
+			{
+			"name": "music/game/hal1",
+			"stream": true
+			}
 		]
 	},
 	"otherlands.music.ancientglade":{
 		"sounds": [
-			"music/game/hal2"
+			{
+			"name": "music/game/hal2",
+			"stream": true
+			}
 		]
 	},
 	"otherlands.music.raceofathousandants":{
 		"sounds": [
-			"music/game/hal3"
+			{
+			"name": "music/game/hal3",
+			"stream": true
+			}
 		]
 	},
 	"otherlands.music.soundofwater":{
 		"sounds": [
-			"music/game/hal4"
+			{
+			"name": "music/game/hal4",
+			"stream": true
+			}
 		]
 	},
 	"otherlands.music.wallsarelistening":{
 		"sounds": [
-			"music/game/left_to_bloom"
+			{
+			"name": "music/game/left_to_bloom",
+			"stream": true
+			}
 		]
 	},
 	"otherlands.music.genshin8":{
 		"sounds": [
-			"music/game/nuance1"
+			{
+			"name": "music/game/nuance1",
+			"stream": true
+			}
 		]
 	}
 }
