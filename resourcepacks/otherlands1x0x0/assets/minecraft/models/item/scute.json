@@ -7,6 +7,10 @@
 		{ "predicate": { "custom_model_data": 1}, "model": "item/monster/lake_hand" 				},
 		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/clockhand" 				},
 		{ "predicate": { "custom_model_data": 3}, "model": "minecraft:item/structure_void" 			},
-		{ "predicate": { "custom_model_data": 4}, "model": "item/monster/nft" 						}
+		{ "predicate": { "custom_model_data": 4}, "model": "item/monster/nft" 						},
+		{ "predicate": { "custom_model_data": 5}, "model": "item/object/libambuletring" 			},
+		{ "predicate": { "custom_model_data": 6}, "model": "item/object/libgem" 					},
+		{ "predicate": { "custom_model_data": 7}, "model": "item/object/alltogethernow" 			},
+		{ "predicate": { "custom_model_data": 8}, "model": "item/object/libambuletmain" 			}
 	]
 }
