@@ -6,7 +6,7 @@
 		"degrees_z": "0"
 	},
 	"properties": {
-		"alpha": "#starsBase"
+		"alpha": "#starsOpacity"
 	},
 	"populate": {
 		"count": 500,
