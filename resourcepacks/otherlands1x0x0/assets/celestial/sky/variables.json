@@ -14,7 +14,11 @@
 		},
 		{
 			"name": "starsOpacity",
-			"value": "(#valraveTF * #valraven) + #starAlpha"
+			"value": "(#valraveTF * #valraven) * #starsBase"
+		},
+		{
+			"name": "starsBase",
+			"value": "(1 - #dayLight) * #rainGradient"
 		},
 				{
 			"name": "cloudsOpacity",
@@ -22,23 +26,31 @@
 		},
 		{
 			"name": "preValraven",
-			"value": "((((#getWorldTime)>40800000)=((#getWorldTime)<40813230)) * ((((1/1200) * #getWorldTime) - 34010)) + ((((#getWorldTime)>40813200)=((#getWorldTime)<40847030)) * ((#getWorldTime)>40800000))) + (((#getWorldTime)>40847000)=((#getWorldTime)<40848000)) * (((-(1/1000) * #getWorldTime) + 40848))"
+			"value": "(((((#getWorldTime)>40800000)=((#getWorldTime)<40813230)) * ((((1/1200) * #getWorldTime) - 34010)) + ((((#getWorldTime)>40813200)=((#getWorldTime)<40847030)) * ((#getWorldTime)>40800000))) + (((#getWorldTime)>40847000)=((#getWorldTime)<40848000)) * (((-(1/1000) * #getWorldTime) + 40848)))"
 		},
 				{
 			"name": "valraven",
-			"value": "((#preValraven<1)|(#preValraven=1) * #preValraven) + (#preValraven>1)"
+			"value": "((((#preValraven)>0)=((#preValraven)<1))|((#preValraven)=1) * #preValraven) + ((#preValraven)>1)"
 		},
 		{
 			"name": "valravPath",
-			"value": "-100 + ((200/36000) * (#getWorldTime - 40812500))"
+			"value": "-100 + ((150/36000) * (#getWorldTime - 40812500))"
 		},
 		{
 			"name": "valraveTF",
-			"value": "(((#getWorldTime)>40800000)=((#getWorldTime)<408480000))"
+			"value": "((#getWorldTime)>40800000)=((#getWorldTime)<40848000)"
 		},
 		{
 			"name": "renderDistance",
 			"value": "#viewDistance * 16"
+		},
+		{
+			"name": "fogStart",
+			"value": "#renderDistance + (10 * (#renderDistance / 100))"
+		},
+		{
+			"name": "fogEnd",
+			"value": "#renderDistance - (81 * (#renderDistance / 100))"
 		}
 	]
 }
