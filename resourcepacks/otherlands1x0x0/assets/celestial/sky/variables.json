@@ -14,11 +14,11 @@
 		},
 		{
 			"name": "starsOpacity",
-			"value": "(#valraveTF * #valraven) * #starsBase"
+			"value": "((((#starsBase)>0)=((#starsBase)<1))|((#starsBase)=1) * #starsBase) + ((#starsBase)>1)"
 		},
 		{
 			"name": "starsBase",
-			"value": "(1 - #dayLight) * #rainGradient"
+			"value": "(#valraveTF * #valraven) + ((1 - #dayLight) * #rainGradient)"
 		},
 				{
 			"name": "cloudsOpacity",
