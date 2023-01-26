@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/object/libambuletring",
+  "textures": {
+    "all": "otherlands:block/library_eye"
+  }
+}
