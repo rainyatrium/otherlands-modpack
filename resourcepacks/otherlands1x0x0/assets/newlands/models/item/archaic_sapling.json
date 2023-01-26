@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/cross",
-  "textures": {
-    "cross": "newlands:block/archaic_sapling"
-  }
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "newlands:block/archaic_sapling"
+	}
 }
