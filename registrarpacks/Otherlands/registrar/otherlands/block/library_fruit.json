@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schema.amogus-sa.ga/mc-registar/block.schema.json",
+ "type": "basic",
+  "material": "minecraft:metal",
+  "destroyTime":  0.3,
+  "explosionResistance":  0.2,
+  "dustColor": "ffffff",
+  "noOcclusion": true,
+  "layer": "minecraft:solid",
+  "soundType": "basalt",
+   "collisionShape": [0.1, 0.0, 0.0, 16.0, 16.0, 16.0],
+  "creativeTab": "otherlands:otherlands"
+}
