@@ -1,0 +1,18 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/ender_sword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-135.19, 32.2, -179.54],
+			"translation": [-5.5, 2.75, 3]
+		},
+		"firstperson_righthand": {
+			"rotation": [167.96, 21.02, 169.42],
+			"translation": [-1.5, 1, -5.25],
+			"scale": [1.01367, 1.01367, 1.01367]
+		}
+	}
+}
