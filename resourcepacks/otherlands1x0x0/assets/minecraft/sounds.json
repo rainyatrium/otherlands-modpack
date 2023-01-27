@@ -33,5 +33,10 @@
 		"sounds": [
 			"otherlands/toxic/overdraw"
 		]
+	},
+	"otherlands.puzzlesolve":{
+		"sounds": [
+			"otherlands/library/puzzle_solve"
+		]
 	}
 }
