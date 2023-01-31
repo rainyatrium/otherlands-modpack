@@ -1,0 +1,8 @@
+{
+    "beacon_beam": false,
+    "end_crystal": true,
+    "item_frame": true,
+    "painting": true,
+	"immersive_paintings:painting": true,
+	"immersive_paintings:glow_painting": true
+}
