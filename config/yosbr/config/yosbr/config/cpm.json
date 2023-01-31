@@ -1,0 +1,27 @@
+{
+  "editorLastVersion": "0.6.1a",
+  "playerSettings": {},
+  "globalSettings": {
+    "safetyProfile": "off"
+  },
+  "blockedList": {},
+  "serverSettings": {
+    "132.145.111.114": {}
+  },
+  "editorUVAreaAlpha": 0.8,
+  "editorSelectMouseButton": 0.0,
+  "titleScreenButton": true,
+  "friendSettings": {},
+  "editorDragMouseButton": -1.0,
+  "editorMenuMouseButton": 1.0,
+  "editorRotateMouseButton": 0.0,
+  "safetyProfiles": {},
+  "editorRecentProjects": [
+    "C:\\Users\\sierr\\AppData\\Roaming\\ATLauncher\\instances\\OtherlandsDev\\aaaa.cpmproject",
+    "C:\\Users\\sierr\\AppData\\Roaming\\ATLauncher\\instances\\OtherlandsDev\\test.cpmproject",
+    "C:\\Users\\sierr\\AppData\\Roaming\\ATLauncher\\instances\\OtherlandsDev\\tet.cpmproject",
+    "C:\\Users\\sierr\\AppData\\Roaming\\ATLauncher\\instances\\OtherlandsDev\\real.cpmproject"
+  ],
+  "friendList": {},
+  "editorScale": 2.0
+}

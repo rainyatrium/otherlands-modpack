@@ -1,6 +1,6 @@
 {
   "check_the_wiki_for_more_information": "https://qouteall.fun/immptl/wiki/Config-Options",
-  "enableWarning": true,
+  "enableWarning": false,
   "enableMirrorCreation": true,
   "maxPortalLayer": 5,
   "sharedBlockMeshBufferOptimization": true,

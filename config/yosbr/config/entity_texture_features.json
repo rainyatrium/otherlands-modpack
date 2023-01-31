@@ -18,7 +18,7 @@
   "alwaysCheckVanillaEmissiveSuffix": true,
   "skinFeaturesEnabled": false,
   "skinFeaturesEnableTransparency": true,
-  "skinFeaturesEnableFullTransparency": true,
+  "skinFeaturesEnableFullTransparency": false,
   "skinFeaturesPrintETFReadySkin": false,
   "enableEnemyTeamPlayersSkinFeatures": true,
   "enableBlinking": true,

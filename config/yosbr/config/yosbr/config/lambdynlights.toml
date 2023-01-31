@@ -1,0 +1,96 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				axolotl = true
+				bee = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				llama = true
+				bat = true
+				hoglin = true
+				rabbit = true
+				firework_rocket = true
+				armor_stand = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				salmon = true
+				wandering_trader = true
+				wither_skeleton = true
+				goat = true
+				ocelot = true
+				item_frame = true
+				horse = true
+				phantom = true
+				leash_knot = true
+				mooshroom = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				enderman = true
+				dragon_fireball = true
+				chicken = true
+				trader_llama = true
+				donkey = true
+				evoker_fangs = true
+				fox = true
+				chest_minecart = true
+				tropical_fish = true
+				slime = true
+				iron_golem = true
+				area_effect_cloud = true
+				zombified_piglin = true
+				piglin = true
+				cat = true
+				zombie = true
+				sheep = true
+				fireball = true
+				player = true
+				pufferfish = true
+				potion = true
+				trident = true
+				wither_skull = true
+				wolf = true
+				villager = true
+				zombie_villager = true
+				boat = true
+				small_fireball = true
+				polar_bear = true
+				strider = true
+				painting = true
+				cod = true
+				witch = true
+				spider = true
+
+			[light_sources.settings.entities.immersive_portals]
+				nether_portal_new = true
+				loading_indicator = true
+				portal = true
+				breakable_mirror = true
+

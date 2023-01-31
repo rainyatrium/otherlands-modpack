@@ -5,6 +5,9 @@
     "create:rope_pulley",
     "minecraft:beacon",
     "create:hose_pulley",
+	"minecrat:sign",
+	"stumped:araucaria_sign",
+	"stumped:araucaria_wall_sign",
     "betterend:eternal_pedestal"
   ],
   "entityWhitelist": [
