@@ -11,6 +11,9 @@
 		{ "predicate": { "custom_model_data": 5}, "model": "item/object/libambuletring" 			},
 		{ "predicate": { "custom_model_data": 6}, "model": "item/object/libgem" 					},
 		{ "predicate": { "custom_model_data": 7}, "model": "item/object/alltogethernow" 			},
-		{ "predicate": { "custom_model_data": 8}, "model": "item/object/libambuletmain" 			}
+		{ "predicate": { "custom_model_data": 8}, "model": "item/object/libambuletmain" 			},
+		{ "predicate": { "custom_model_data": 9}, "model": "item/monster/nurdeactivated" 			},
+		{ "predicate": { "custom_model_data": 10}, "model": "item/monster/nurwalkman" 			},
+		{ "predicate": { "custom_model_data": 11}, "model": "item/monster/nurwalkmanon" 			}
 	]
 }
