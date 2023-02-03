@@ -22,7 +22,6 @@
 		{ "predicate": { "custom_model_data": 4000 }, "model": "item/object/atm_fan" 					},
 		{ "predicate": { "custom_model_data": 4001 }, "model": "item/object/atm_rod" 					},
 		{ "predicate": { "custom_model_data": 4002 }, "model": "item/object/corus_h" 					},
-		{ "predicate": { "custom_model_data": 4003 }, "model": "item/object/corus_v" 					},
 		{ "predicate": { "custom_model_data": 4004 }, "model": "item/cosmetic/drizzler_sword_1" 		},
 		{ "predicate": { "custom_model_data": 4005 }, "model": "item/cosmetic/drizzler_sword_2" 		},
 		{ "predicate": { "custom_model_data": 4006 }, "model": "item/cosmetic/drizzler_sword_3" 		},
