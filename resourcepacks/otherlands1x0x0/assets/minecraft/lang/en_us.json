@@ -134,7 +134,7 @@
   "translation.test.invalid2": "hi %  s",
   "translation.test.args": "%s %s",
   "translation.test.world": "world",
-  "menu.game": "Game Menu",
+  "menu.game": "  ,  ?",
   "menu.singleplayer": "Singleplayer",
   "menu.multiplayer": "Multiplayer",
   "menu.online": "Minecraft Realms",
