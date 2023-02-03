@@ -8,7 +8,7 @@
 		},
 	"properties": {
 		"has_moon_phases": false,
-		"alpha": "#valraven * #starAlpha",
+		"alpha": "(#valraven * #starAlpha) * (1 - (1 * #isInBiome(otherlands:void)))",
 		"is_solid": "false"
 	}
 }

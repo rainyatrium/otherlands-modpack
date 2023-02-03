@@ -8,7 +8,8 @@
 		"moon",
 		"sun",
 		"valraven/aura",
-		"valraven/valraven"
+		"valraven/valraven",
+		"voidskybox"
 	],
 	"render_type": "normal",
 	"environment": {
@@ -51,11 +52,15 @@
 			"base_color": "#ffffff",
 			"colors": [{
 			"color": "#592c94",
-			"alpha": "#valraven"
+			"alpha": "0"
 		},
 		{
 			"color": "#E6DEF7",
 			"alpha": "#valraven * #starAlpha"
+		},
+		{
+			"color": "#000000",
+			"alpha": "#isInBiome(otherlands:void)"
 		}
 		]
 		}

@@ -1,0 +1,58 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 32],
+	"textures": {
+		"0": "otherlands:item/hazmat2",
+		"particle": "otherlands:item/hazmat2"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"faces": {
+				"north": {"uv": [6, 4, 8, 8], "texture": "#0"},
+				"east": {"uv": [4, 4, 6, 8], "texture": "#0"},
+				"south": {"uv": [2, 4, 4, 8], "texture": "#0"},
+				"west": {"uv": [0, 4, 2, 8], "texture": "#0"},
+				"up": {"uv": [2, 0, 4, 4], "texture": "#0"},
+				"down": {"uv": [4, 0, 6, 4], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [150.05, 0.99, 173.98],
+			"translation": [0, 2, -4.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [150.05, 0.99, 173.98],
+			"translation": [0, 2, -4.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [148, 0, 180],
+			"translation": [-8.5, 1.25, -3.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [148, 0, 180],
+			"translation": [-8.5, 1.25, -3.5]
+		},
+		"ground": {
+			"translation": [0, 4.75, 0]
+		},
+		"gui": {
+			"rotation": [25, -34.75, 0],
+			"translation": [0, 4.5, 0],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"head": {
+			"rotation": [180, 0, 180],
+			"translation": [0, 7.5, 0],
+			"scale": [1.9, 1.9, 1.9]
+		},
+		"fixed": {
+			"rotation": [164, 0, -180],
+			"translation": [0, 7, -6.25],
+			"scale": [1.8, 1.8, 1.8]
+		}
+	}
+}
