@@ -102,6 +102,13 @@
 			}
 		}
 	],
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -12.7],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
 	"groups": [
 		{
 			"name": "head",
