@@ -34,5 +34,19 @@
         }
 	  }
 	  ]
-  }
+  },
+  "endcard": {
+    "overlays": [
+      {
+        "texture": "kmhudoverlays:textures/end.png",
+        "layer": 1000
+      }
+    ],
+	"conditions": [
+       {
+        "condition": "is_difficulty",
+        "name": "easy"
+					}
+	  ]
+	  }
 }
