@@ -7,6 +7,14 @@
 			}
 		]
 	},
+	"otherlands.valraven_alt":{
+		"sounds": [
+			{
+			"name": "otherjams/valraven",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.valraven":{
 		"sounds": [
 			{
