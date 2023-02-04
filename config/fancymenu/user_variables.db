@@ -1,0 +1,6 @@
+type = cached_variables
+
+variables {
+  optcontext = 1
+}
+
