@@ -50,6 +50,8 @@
 		{ 	"predicate": { 	"custom_model_data": 3	}, "model": "item/cosmetic/shield_clock" 						},
 		{ 	"predicate": { 	"custom_model_data": 3, "blocking":1	}, "model": "item/cosmetic/shield_clock_block" 	},
 		{ 	"predicate": { 	"custom_model_data": 4	}, "model": "item/cosmetic/ender_sword"							},
-		{ 	"predicate": { 	"custom_model_data": 4, "blocking":1	}, "model": "item/cosmetic/ender_sword_block" 	}
+		{ 	"predicate": { 	"custom_model_data": 4, "blocking":1	}, "model": "item/cosmetic/ender_sword_block" 	},
+		{ 	"predicate": { 	"custom_model_data": 5	}, "model": "item/cosmetic/pc_charlie_crossbar"							},
+		{ 	"predicate": { 	"custom_model_data": 5, "blocking":1	}, "model": "item/cosmetic/pc_charlie_crossbar_block" 	}
     ]
 }
