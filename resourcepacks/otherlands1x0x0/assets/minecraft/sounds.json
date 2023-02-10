@@ -38,5 +38,10 @@
 		"sounds": [
 			"otherlands/library/puzzle_solve"
 		]
+	},
+	"otherlands.ultramass":{
+		"sounds": [
+			"otherlands/ultramass"
+		]
 	}
 }
