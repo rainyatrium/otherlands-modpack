@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/diamond"
+    "layer0": "otherlands:item/miningworld_resource_item"
   }
 }

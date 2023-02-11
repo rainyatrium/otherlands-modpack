@@ -1,5 +1,7 @@
 {
+  "item.otherlands.miningworld_resource_item": "Esoteric Material",
   "block.otherlands.dark_sea_lantern": "Dark Sea Lantern",
+  "block.stumped.araucaria_sign": "Label",
   "block.otherlands.active_wart_eye": "Active Wart Eye",
   "block.otherlands.dead_rod_vert": "Dead Flourescent Lamp",
   "item.otherlands.meat_cube": "Meat Cube",
@@ -28,7 +30,7 @@
   "block.otherlands.transwarp_focus": "Transwarp Focus",
   "block.otherlands.active_toxic_eye": "Active Ferrous Oculus",
   "block.otherlands.library_fruit": "Ringfruit",
-  "block.otherlands.miningworld_resource": "NAME TBD",
+  "block.otherlands.miningworld_resource": "Esoteric Ore",
   "itemGroup.newlands.newlands": "Newlands",
   "block.newlands.stone_fruit_block": "Stone Fruit Block",
   "block.newlands.green_tea_sapling": "Green Tea Sapling",

@@ -28,6 +28,9 @@
 		{ "predicate": { "custom_model_data": 4007 }, "model": "item/cosmetic/drizzler_sword_4" 		},
 		{ "predicate": { "custom_model_data": 4008 }, "model": "item/cosmetic/drizzler_sword_5" 		},
 		{ "predicate": { "custom_model_data": 4009 }, "model": "item/cosmetic/drizzler_sword_6" 		},
-		{ "predicate": { "custom_model_data": 4010 }, "model": "item/object/ultramassspektrometer" 		}
+		{ "predicate": { "custom_model_data": 4010 }, "model": "item/object/ultramassspektrometer" 		},
+		{ "predicate": { "custom_model_data": 4011 }, "model": "item/object/gdrive1" 		},
+		{ "predicate": { "custom_model_data": 4012 }, "model": "item/object/gdrive2" 		},
+		{ "predicate": { "custom_model_data": 4013 }, "model": "item/object/gdrive3" 		}
 	]
 }
