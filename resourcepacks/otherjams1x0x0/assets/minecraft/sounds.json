@@ -7,6 +7,14 @@
 			}
 		]
 	},
+	"otherlands.burrow":{
+		"sounds": [
+			{
+			"name": "otherjams/burrow",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.valraven_alt":{
 		"sounds": [
 			{
