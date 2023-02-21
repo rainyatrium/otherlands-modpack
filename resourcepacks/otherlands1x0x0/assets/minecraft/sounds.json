@@ -9,6 +9,11 @@
 			"otherlands/library/boom"
 		]
 	},
+		"otherlands.rumblestereo":{
+		"sounds": [
+			"otherlands/library/rumblestereo"
+		]
+	},
 	"otherlands.rumble":{
 		"sounds": [
 			"otherlands/library/rumble"
