@@ -2,6 +2,5 @@
   "item": "otherlands:meat_cube",
   "item": "otherlands:rich_fruit",
   "item": "otherlands:lavastone_shard",
-  "item": "otherlands:ferrous_sand",
-  "block": "otherlands:ferrous_sand"
+	"item": "otherlands:miningworld_resource"
 }
