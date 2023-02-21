@@ -75,8 +75,9 @@
 			"translation": [0, -1, 0]
 		},
 		"firstperson_lefthand": {
-			"rotation": [5, 17, 0],
-			"translation": [0, -1, 0]
+			"rotation": [0, -90, 0],
+			"translation": [-15.5, 0.5, -4],
+			"scale": [1.2, 1.2, 1.2]
 		},
 		"ground": {
 			"rotation": [25, 0, 0],
