@@ -9,6 +9,7 @@
 			{ "predicate": { "custom_model_data": 100}, "model": "item/object/artifact_hand" 		},
 			{ "predicate": { "custom_model_data": 101}, "model": "item/object/artifact_horn" 		},
 			{ "predicate": { "custom_model_data": 102}, "model": "item/object/artifact_compassdial" },
-			{ "predicate": { "custom_model_data": 103}, "model": "item/object/artifact_suckersluck" }
+			{ "predicate": { "custom_model_data": 103}, "model": "item/object/artifact_suckersluck" },
+			{ "predicate": { "custom_model_data": 104}, "model": "item/object/artifact_hungry" 		}
 	]
 }
