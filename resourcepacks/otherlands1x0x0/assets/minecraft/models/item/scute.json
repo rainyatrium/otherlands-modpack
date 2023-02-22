@@ -15,6 +15,7 @@
 		{ "predicate": { "custom_model_data": 9}, "model": "item/monster/nurdeactivated" 			},
 		{ "predicate": { "custom_model_data": 10}, "model": "item/monster/nurwalkman" 				},
 		{ "predicate": { "custom_model_data": 11}, "model": "item/monster/nurwalkmanon" 			},
+		{ "predicate": { "custom_model_data": 12}, "model": "item/monster/walkie" 			},
 		{ "predicate": { "custom_model_data": 30}, "model": "item/cosmetic/hazmathelmett1" 			},
 		{ "predicate": { "custom_model_data": 31}, "model": "item/cosmetic/hazmathelmett2" 			},
 		{ "predicate": { "custom_model_data": 32}, "model": "item/cosmetic/hazmathelmett3" 			},
