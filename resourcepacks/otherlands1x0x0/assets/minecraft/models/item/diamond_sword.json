@@ -1,0 +1,17 @@
+{
+	"parent": "item/handheld",
+		"textures": {
+			"layer0": "item/diamond_sword"
+			},
+
+		"overrides": [
+			{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/tot/tot_kobold"		},
+			{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/tot/tot_charlie"		},
+			{ "predicate": { "custom_model_data": 3}, "model": "item/cosmetic/tot/tot_germaine"		},
+			{ "predicate": { "custom_model_data": 4}, "model": "item/cosmetic/tot/tot_germaine_use0"},
+			{ "predicate": { "custom_model_data": 5}, "model": "item/cosmetic/tot/tot_germaine_use1"},
+			{ "predicate": { "custom_model_data": 6}, "model": "item/cosmetic/tot/tot_rattlebones"	},
+			{ "predicate": { "custom_model_data": 7}, "model": "item/cosmetic/tot/tot_astraios"		},
+			{ "predicate": { "custom_model_data": 8}, "model": "item/cosmetic/tot/tot_wynn"		}
+	]
+}

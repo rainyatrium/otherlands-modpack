@@ -52,6 +52,8 @@
 		{ 	"predicate": { 	"custom_model_data": 4	}, "model": "item/cosmetic/ender_sword"							},
 		{ 	"predicate": { 	"custom_model_data": 4, "blocking":1	}, "model": "item/cosmetic/ender_sword_block" 	},
 		{ 	"predicate": { 	"custom_model_data": 5	}, "model": "item/cosmetic/pc_charlie_crossbar"							},
-		{ 	"predicate": { 	"custom_model_data": 5, "blocking":1	}, "model": "item/cosmetic/pc_charlie_crossbar_block" 	}
+		{ 	"predicate": { 	"custom_model_data": 5, "blocking":1	}, "model": "item/cosmetic/pc_charlie_crossbar_block" 	},
+		{ 	"predicate": { 	"custom_model_data": 6	}, "model": "item/cosmetic/tot/tot_ashdown"								},
+		{ 	"predicate": { 	"custom_model_data": 6, "blocking":1	}, "model": "item/cosmetic/tot/tot_ashdown_block" 		}
     ]
 }

@@ -10,6 +10,13 @@
 			{ "predicate": { "custom_model_data": 101}, "model": "item/object/artifact_horn" 		},
 			{ "predicate": { "custom_model_data": 102}, "model": "item/object/artifact_compassdial" },
 			{ "predicate": { "custom_model_data": 103}, "model": "item/object/artifact_suckersluck" },
-			{ "predicate": { "custom_model_data": 104}, "model": "item/object/artifact_hungry" 		}
+			{ "predicate": { "custom_model_data": 104}, "model": "item/object/artifact_hungry" 		},
+			{ "predicate": { "custom_model_data": 200}, "model": "item/cosmetic/tot/tot_jade" 		},
+			{ "predicate": { "custom_model_data": 201}, "model": "item/cosmetic/tot/tot_dante" 		},
+			{ "predicate": { "custom_model_data": 202}, "model": "item/cosmetic/tot/tot_stump" 		},
+			{ "predicate": { "custom_model_data": 203}, "model": "item/cosmetic/tot/tot_01" 		},
+			{ "predicate": { "custom_model_data": 204}, "model": "item/cosmetic/tot/tot_mieranna" 	},
+			{ "predicate": { "custom_model_data": 205}, "model": "item/cosmetic/tot/tot_tomar" 		},
+			{ "predicate": { "custom_model_data": 206}, "model": "item/cosmetic/tot/tot_klarkson" 	}
 	]
 }
