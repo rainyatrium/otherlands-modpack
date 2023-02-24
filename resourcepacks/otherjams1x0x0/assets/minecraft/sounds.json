@@ -7,6 +7,22 @@
 			}
 		]
 	},
+	"otherlands.ragtime":{
+		"sounds": [
+			{
+			"name": "otherjams/ragtime",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.kalamazoo":{
+		"sounds": [
+			{
+			"name": "otherjams/kalamazoo",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.burrow":{
 		"sounds": [
 			{
