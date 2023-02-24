@@ -1,0 +1,70 @@
+{
+  "hazmat_t1": {
+    "overlays": [
+      {
+        "texture": "kmhudoverlays:textures/misc/hazmat.png",
+        "layer": -200
+      }
+    ],
+	"conditions": [
+      {
+        "condition": "has_item",
+        "slot": "armor.helmet",
+        "item": "minecraft:scute",
+		"nbt": {
+          "CustomModelData": "30"
+        }
+	  }
+	  ]
+  },
+   "hazmat_t2": {
+    "overlays": [
+      {
+        "texture": "kmhudoverlays:textures/misc/hazmat.png",
+        "layer": -200
+      }
+    ],
+	"conditions": [
+      {
+        "condition": "has_item",
+        "slot": "armor.helmet",
+        "item": "minecraft:scute",
+		"nbt": {
+          "CustomModelData": "31"
+        }
+	  }
+	  ]
+  },
+     "hazmat_t3": {
+    "overlays": [
+      {
+        "texture": "kmhudoverlays:textures/misc/hazmat.png",
+        "layer": -200
+      }
+    ],
+	"conditions": [
+      {
+        "condition": "has_item",
+        "slot": "armor.helmet",
+        "item": "minecraft:scute",
+		"nbt": {
+          "CustomModelData": "32"
+        }
+	  }
+	  ]
+  },
+  "endcard": {
+    "overlays": [
+      {
+        "texture": "kmhudoverlays:textures/end.png",
+        "layer": 1000
+      }
+    ],
+	"conditions": [
+       {
+        "condition": "is_difficulty",
+        "name": "easy"
+					}
+	  ]
+	  }
+}
