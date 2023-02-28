@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/stone_shovel"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1000 }, "model": "item/olcooking/cast_iron" 				},
+		{ "predicate": { "custom_model_data": 1001 }, "model": "item/olcooking/dutch_oven_closed" 		},
+		{ "predicate": { "custom_model_data": 1002 }, "model": "item/olcooking/dutch_oven_open" 		},
+		{ "predicate": { "custom_model_data": 1003 }, "model": "item/olcooking/flame" 					}
+	]
+}

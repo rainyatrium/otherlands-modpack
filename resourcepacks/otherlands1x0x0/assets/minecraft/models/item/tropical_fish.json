@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/tropical_fish"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1000}, "model": "item/olcooking/food/egg_raw" 	}
+	]
+}

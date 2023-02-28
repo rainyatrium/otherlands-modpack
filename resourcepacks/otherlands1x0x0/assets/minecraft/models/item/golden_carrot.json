@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/golden_carrot"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1000}, "model": "item/olcooking/food/honey_pork" 	}
+	]
+}
