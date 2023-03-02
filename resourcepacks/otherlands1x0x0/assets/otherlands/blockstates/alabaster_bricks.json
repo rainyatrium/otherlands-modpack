@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "otherlands:block/alabaster_bricks",
+        "weight": 20
+      },
+      {
+        "model": "otherlands:block/alabaster_bricks_rough",
+        "weight": 5
+      },
+      {
+        "model": "otherlands:block/alabaster_bricks_sanded",
+        "weight": 3
+      },
+      {
+        "model": "otherlands:block/alabaster_bricks_rough_mossy",
+        "weight": 3
+      }
+    ]
+  }
+}
