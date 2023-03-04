@@ -13,6 +13,7 @@
 		{ "predicate": { "custom_model_data": 7}, "model": "item/food/camari" 					},
 		{ "predicate": { "custom_model_data": 8}, "model": "item/food/spaghetti" 				},
 		{ "predicate": { "custom_model_data": 9}, "model": "item/food/lasagna" 					},
-		{ "predicate": { "custom_model_data": 10}, "model": "item/food/garlic_bread" 			}
+		{ "predicate": { "custom_model_data": 10}, "model": "item/food/garlic_bread" 			},
+		{ "predicate": { "custom_model_data": 11}, "model": "item/food/pizzaball"				}
 	]
 }
