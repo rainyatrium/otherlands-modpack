@@ -1,9 +1,10 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/iron_axe"
+    "layer0": "minecraft:item/iron_sword"
   },
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/crowbar" }
+		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/pc_dasha" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/pc_charlie" }
 	]
 }

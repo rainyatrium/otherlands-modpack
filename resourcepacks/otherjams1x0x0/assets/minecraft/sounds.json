@@ -7,6 +7,14 @@
 			}
 		]
 	},
+	"otherlands.tomb":{
+		"sounds": [
+			{
+			"name": "otherjams/tomb",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.ragtime":{
 		"sounds": [
 			{
