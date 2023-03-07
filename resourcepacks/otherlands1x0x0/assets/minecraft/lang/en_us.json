@@ -1,5 +1,10 @@
 {
+  "subtitles.otherlands.weat": "Weat used",
+  "subtitles.otherlands.nothing_generator.ambient": "Nothing Generator hums",
+  "subtitles.otherlands.nothing_generator.beep": "Nothing Generator beeps",
+  "subtitles.otherlands.nothing_generator.whir": "Nothing Generator whirs",
   "item.otherlands.miningworld_resource_item": "Esoteric Material",
+  "block.otherlands.impossible_material": "Impossible Material",
   "block.otherlands.dark_sea_lantern": "Dark Sea Lantern",
   "block.stumped.araucaria_sign": "Label",
   "block.otherlands.active_wart_eye": "Active Wart Eye",

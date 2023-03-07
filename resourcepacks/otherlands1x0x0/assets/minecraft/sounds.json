@@ -13,7 +13,32 @@
 			"otherlands/weat/weat4",
 			"otherlands/weat/weat5",
 			"otherlands/weat/weat6"
-		]
+		],
+		"subtitle": "subtitles.otherlands.weat"
+	},
+	"otherlands.nothing_generator.ambient":{
+		"sounds": [
+			"otherlands/nothing_generator/amb_0",
+			"otherlands/nothing_generator/amb_1",
+			"otherlands/nothing_generator/amb_2"
+		],
+		"subtitle": "subtitles.otherlands.nothing_generator.ambient"
+	},
+	"otherlands.nothing_generator.beep":{
+		"sounds": [
+			"otherlands/nothing_generator/beeps_0",
+			"otherlands/nothing_generator/beeps_1",
+			"otherlands/nothing_generator/beeps_2"
+		],
+		"subtitle": "subtitles.otherlands.nothing_generator.beep"
+	},
+	"otherlands.nothing_generator.whir":{
+		"sounds": [
+			"otherlands/nothing_generator/whir_0",
+			"otherlands/nothing_generator/whir_1",
+			"otherlands/nothing_generator/whir_2"
+		],
+		"subtitle": "subtitles.otherlands.nothing_generator.whir"
 	},
 	"otherlands.boom":{
 		"sounds": [

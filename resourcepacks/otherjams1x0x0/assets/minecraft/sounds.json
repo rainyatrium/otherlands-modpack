@@ -31,10 +31,10 @@
 			}
 		]
 	},
-	"otherlands.burrow":{
+	"otherlands.jim_button":{
 		"sounds": [
 			{
-			"name": "otherjams/burrow",
+			"name": "otherjams/jim_button",
 			"stream": true
 			}
 		]
