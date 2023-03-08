@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "otherlands:block/impossible_0",
+        "weight": 1
+      },
+      {
+        "model": "otherlands:block/impossible_1",
+        "weight": 1
+      },
+      {
+        "model": "otherlands:block/impossible_2",
+        "weight": 1
+      },
+	  {
+        "model": "otherlands:block/impossible_3",
+        "weight": 1
+      },
+      {
+        "model": "otherlands:block/impossible_4",
+        "weight": 1
+      }
+    ]
+  }
+}

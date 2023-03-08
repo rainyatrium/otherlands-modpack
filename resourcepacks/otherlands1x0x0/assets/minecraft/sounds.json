@@ -24,6 +24,31 @@
 		],
 		"subtitle": "subtitles.otherlands.nothing_generator.ambient"
 	},
+	"otherlands.nothing_generator.on":{
+		"sounds": [
+			"otherlands/nothing_generator/on"
+		]
+	},
+	"otherlands.nothing_generator.off":{
+		"sounds": [
+			"otherlands/nothing_generator/off"
+		]
+	},
+	"otherlands.nothing_generator.phase_0":{
+		"sounds": [
+			"otherlands/nothing_generator/phase_0"
+		]
+	},
+	"otherlands.nothing_generator.phase_1":{
+		"sounds": [
+			"otherlands/nothing_generator/phase_1"
+		]
+	},
+	"otherlands.nothing_generator.phase_2":{
+		"sounds": [
+			"otherlands/nothing_generator/phase_2"
+		]
+	},
 	"otherlands.nothing_generator.beep":{
 		"sounds": [
 			"otherlands/nothing_generator/beeps_0",
