@@ -4,6 +4,11 @@
 			"otherlands/library/ticketmachine/voice1"
 		]
 	},
+	"otherlands.button_crying":{
+		"sounds": [
+			"otherlands/button_crying"
+		]
+	},
 	"otherlands.weat":{
 		"sounds": [
 			"otherlands/weat/weat0",

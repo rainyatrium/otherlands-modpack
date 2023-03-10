@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schema.amogus-sa.ga/mc-registar/item.schema.json",
+  "type": "basic",
+  "stackSize": 1,
+  "food": {
+    "hunger": 0, 
+    "saturationModifier": 0,
+    "meat": false,
+    "fast": false, 
+    "canAlwaysEat": true 
+  }
+}

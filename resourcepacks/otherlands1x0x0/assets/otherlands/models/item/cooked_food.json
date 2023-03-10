@@ -1,0 +1,17 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/apple"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/olcooking/food/baked_apple" 	},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/olcooking/food/egg_cooked" 	},
+		{ "predicate": { "custom_model_data": 3}, "model": "item/olcooking/food/egg_raw" 		},
+		{ "predicate": { "custom_model_data": 4}, "model": "item/olcooking/food/honey_pork" 	},
+		{ "predicate": { "custom_model_data": 5}, "model": "item/olcooking/food/spaghetti" 		},
+		{ "predicate": { "custom_model_data": 6}, "model": "item/olcooking/food/carbonara" 		},
+		{ "predicate": { "custom_model_data": 7}, "model": "item/olcooking/food/bone_marrow" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/olcooking/food/chicky_nug" 		},
+		{ "predicate": { "custom_model_data": 9}, "model": "item/olcooking/food/wienerschnitzel" }
+	]
+}
