@@ -18,6 +18,7 @@
 		{ "predicate": { "custom_model_data": 12}, "model": "item/monster/walkie" 			        	},
 		{ "predicate": { "custom_model_data": 14}, "model": "item/cosmetic/ancient_fragment" 		},
 		{ "predicate": { "custom_model_data": 15}, "model": "item/object/jim_button_radio" 			},
+		{ "predicate": { "custom_model_data": 16}, "model": "item/monster/lake_hand" 					},
 		{ "predicate": { "custom_model_data": 30}, "model": "item/cosmetic/hazmathelmett1" 			},
 		{ "predicate": { "custom_model_data": 31}, "model": "item/cosmetic/hazmathelmett2" 			},
 		{ "predicate": { "custom_model_data": 32}, "model": "item/cosmetic/hazmathelmett3" 			},
