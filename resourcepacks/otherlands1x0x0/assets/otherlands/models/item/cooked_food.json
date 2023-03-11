@@ -20,6 +20,10 @@
 		{ "predicate": { "custom_model_data": 14}, "model": "item/olcooking/food/jerky"				},
 		{ "predicate": { "custom_model_data": 15}, "model": "item/olcooking/food/glow_berry_jam"				},
 		{ "predicate": { "custom_model_data": 16}, "model": "item/olcooking/food/sweet_berry_jam"			},
-		{ "predicate": { "custom_model_data": 17}, "model": "item/olcooking/food/caramel"		}
+		{ "predicate": { "custom_model_data": 17}, "model": "item/olcooking/food/caramel"		},
+		{ "predicate": { "custom_model_data": 19}, "model": "item/olcooking/food/fried_carrot"	},
+		{ "predicate": { "custom_model_data": 20}, "model": "item/olcooking/food/honey_carrot"	},
+		{ "predicate": { "custom_model_data": 21}, "model": "item/olcooking/food/baked_beet"	},
+		{ "predicate": { "custom_model_data": 22}, "model": "item/olcooking/food/fugu"				}
 	]
 }
