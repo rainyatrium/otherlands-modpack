@@ -12,6 +12,8 @@
 		{ "predicate": { "custom_model_data": 6}, "model": "item/olcooking/food/carbonara" 		},
 		{ "predicate": { "custom_model_data": 7}, "model": "item/olcooking/food/bone_marrow" },
 		{ "predicate": { "custom_model_data": 8}, "model": "item/olcooking/food/chicky_nug" 		},
-		{ "predicate": { "custom_model_data": 9}, "model": "item/olcooking/food/wienerschnitzel" }
+		{ "predicate": { "custom_model_data": 9}, "model": "item/olcooking/food/wienerschnitzel" 				},
+		{ "predicate": { "custom_model_data": 10}, "model": "item/olcooking/food/fried_mushroom_brown" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/olcooking/food/fried_mushroom_red"		}
 	]
 }

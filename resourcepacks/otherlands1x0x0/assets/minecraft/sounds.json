@@ -9,6 +9,21 @@
 			"otherlands/button_crying"
 		]
 	},
+	"otherlands.button_voice":{
+		"sounds": [
+			"otherlands/button_voice"
+		]
+	},
+	"otherlands.cooking.food_hit_pan":{
+		"sounds": [
+			"otherlands/cooking/food_hit_pan"
+		]
+	},
+	"otherlands.cooking.food_fry":{
+		"sounds": [
+			"otherlands/cooking/food_fry"
+		]
+	},
 	"otherlands.weat":{
 		"sounds": [
 			"otherlands/weat/weat0",
