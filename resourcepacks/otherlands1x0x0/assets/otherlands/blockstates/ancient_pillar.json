@@ -1,7 +1,18 @@
 {
   "variants": {
-    "": {
-      "model": "otherlands:block/ancient_pillar"
-    }
+    "": [
+      {
+        "model": "otherlands:block/ancient_pillar_0",
+        "weight": 1
+      },
+      {
+        "model": "otherlands:block/ancient_pillar_1",
+        "weight": 1
+      },
+      {
+        "model": "otherlands:block/ancient_pillar_2",
+        "weight": 1
+      }
+    ]
   }
 }

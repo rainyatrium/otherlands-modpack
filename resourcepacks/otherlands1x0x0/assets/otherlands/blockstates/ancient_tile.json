@@ -1,7 +1,18 @@
 {
   "variants": {
-    "": {
-      "model": "otherlands:block/ancient_tile"
-    }
+    "": [
+      {
+        "model": "otherlands:block/ancient_tile_0",
+        "weight": 1
+      },
+      {
+        "model": "otherlands:block/ancient_tile_1",
+        "weight": 1
+      },
+      {
+        "model": "otherlands:block/ancient_tile_2",
+        "weight": 1
+      }
+    ]
   }
 }

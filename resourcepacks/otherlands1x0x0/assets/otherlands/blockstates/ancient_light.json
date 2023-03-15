@@ -1,7 +1,18 @@
 {
   "variants": {
-    "": {
-      "model": "otherlands:block/ancient_light"
-    }
+    "": [
+      {
+        "model": "otherlands:block/ancient_light_0",
+        "weight": 1
+      },
+      {
+        "model": "otherlands:block/ancient_light_1",
+        "weight": 2
+      },
+      {
+        "model": "otherlands:block/ancient_light_2",
+        "weight": 2
+      }
+    ]
   }
 }
