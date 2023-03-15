@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "clownface",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "custom/clownface",
+		"particle": "custom/clownface"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"up": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 8, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -43.25, 0],
+			"scale": [3, 3, 3]
+		}
+	}
+}

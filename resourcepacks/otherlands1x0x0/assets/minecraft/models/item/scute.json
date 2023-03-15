@@ -26,6 +26,8 @@
 		{ "predicate": { "custom_model_data": 100}, "model": "item/monster/investigator" 				},
 		{ "predicate": { "custom_model_data": 101}, "model": "item/monster/cop_flashlight" 			},
 		{ "predicate": { "custom_model_data": 102}, "model": "item/monster/cop_desk" 					},
-		{ "predicate": { "custom_model_data": 103}, "model": "item/monster/button_backstory" 		}
+		{ "predicate": { "custom_model_data": 103}, "model": "item/monster/button_backstory" 		},
+		{ "predicate": { "custom_model_data": 104}, "model": "item/monster/jim_button_portal" 		},
+		{ "predicate": { "custom_model_data": 105}, "model": "item/monster/clownface" 					}
 	]
 }

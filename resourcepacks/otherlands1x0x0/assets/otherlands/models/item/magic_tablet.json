@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/stick"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/olmagic/magic_tablet_blank" 			},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/olmagic/magic_tablet_hydro" 			},
+		{ "predicate": { "custom_model_data": 3}, "model": "item/olmagic/magic_tablet_pyro" 				},
+		{ "predicate": { "custom_model_data": 4}, "model": "item/olmagic/magic_tablet_obscuro" 		},
+		{ "predicate": { "custom_model_data": 5}, "model": "item/olmagic/magic_tablet_electro" 			},
+		{ "predicate": { "custom_model_data": 6}, "model": "item/olmagic/magic_tablet_dendro" 			}
+	]
+}
