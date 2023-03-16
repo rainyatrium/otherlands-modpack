@@ -6,12 +6,24 @@
 	},
 	"otherlands.button_crying":{
 		"sounds": [
-			"otherlands/button_crying"
+			"otherlands/jim_button/crying"
 		]
 	},
 	"otherlands.button_voice":{
 		"sounds": [
-			"otherlands/button_voice"
+			"otherlands/jim_button/talk"
+		]
+	},
+	"otherlands.clownface_laugh":{
+		"sounds": [
+			"otherlands/clownface_laugh_0",
+			"otherlands/clownface_laugh_1"
+		]
+	},
+	"otherlands.button_laugh":{
+		"sounds": [
+			"otherlands/jim_button/laugh_0",
+			"otherlands/jim_button/laugh_1"
 		]
 	},
 	"otherlands.cooking.food_hit_pan":{

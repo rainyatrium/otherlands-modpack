@@ -7,6 +7,14 @@
 			}
 		]
 	},
+	"otherlands.dungeon.distillery":{
+		"sounds": [
+			{
+			"name": "otherjams/dungeon_distillery",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.tomb":{
 		"sounds": [
 			{

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "otherlands:block/ancient_pillar"
+    "all": "otherlands:block/ancient_pillar_0"
   }
 }
