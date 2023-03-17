@@ -15,6 +15,14 @@
 			}
 		]
 	},
+	"otherlands.dungeon.distillery_danger":{
+		"sounds": [
+			{
+			"name": "otherjams/dungeon_distillery_danger",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.tomb":{
 		"sounds": [
 			{
