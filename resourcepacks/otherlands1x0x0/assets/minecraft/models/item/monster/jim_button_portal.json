@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "jim_button_portal",
+	"texture_size": [256, 256],
+	"textures": {
+		"0": "custom/jim_button_portal",
+		"particle": "custom/jim_button_portal"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 8],
+			"to": [32, 32, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 3], "texture": "#missing"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 3], "texture": "#missing"},
+				"up": {"uv": [0, 0, 3, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 3, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -43.25, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}
