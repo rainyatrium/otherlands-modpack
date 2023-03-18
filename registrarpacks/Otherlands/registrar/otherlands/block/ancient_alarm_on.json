@@ -8,5 +8,7 @@
   "explosionResistance":  3600000,
   "dustColor": "ffffff",
   "creativeTab": "otherlands:otherlands",
+  "noOcclusion": true,
+  "layer": "minecraft:translucent",
   "lightLevel": 6
 }
