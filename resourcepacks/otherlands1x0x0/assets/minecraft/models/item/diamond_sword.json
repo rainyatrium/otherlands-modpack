@@ -13,6 +13,8 @@
 			{ "predicate": { "custom_model_data": 6}, "model": "item/cosmetic/tot/tot_rattlebones"	},
 			{ "predicate": { "custom_model_data": 7}, "model": "item/cosmetic/tot/tot_astraios"			},
 			{ "predicate": { "custom_model_data": 8}, "model": "item/cosmetic/tot/tot_wynn"				},
-			{ "predicate": { "custom_model_data": 9}, "model": "item/cosmetic/steppe_sword"			}
+			{ "predicate": { "custom_model_data": 9}, "model": "item/cosmetic/steppe_sword"			},
+			{ "predicate": { "custom_model_data": 9}, "model": "item/cosmetic/tot/tot_stump"			},
+			{ "predicate": { "custom_model_data": 10}, "model": "item/cosmetic/tot/tot_stump_slam"	}
 	]
 }

@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "tot_stump_groundpound",
+	"texture_size": [17, 17],
+	"textures": {
+		"0": "custom/tot/tot_stump_groundpound",
+		"particle": "custom/tot/tot_stump_groundpound"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 15.05882, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 15.05882, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 15.05882, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 15.05882, 0], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -33.5, 0],
+			"scale": [0.4, 1, 0.4]
+		}
+	}
+}
