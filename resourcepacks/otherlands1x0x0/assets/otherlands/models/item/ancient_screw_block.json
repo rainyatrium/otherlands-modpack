@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "otherlands:block/ancient_block",
+    "north": "otherlands:block/ancient_tile_0",
+    "south": "otherlands:block/ancient_tile_1",
+    "east": "otherlands:block/ancient_tile_2",
+    "west": "otherlands:block/ancient_tile_0",
+    "up": "otherlands:block/ancient_alarm_baseplate",
+    "down": "otherlands:block/ancient_screw_block"
+  }
+}

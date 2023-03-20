@@ -23,6 +23,7 @@
 		{ "predicate": { "custom_model_data": 31}, "model": "item/cosmetic/hazmathelmett2" 			},
 		{ "predicate": { "custom_model_data": 32}, "model": "item/cosmetic/hazmathelmett3" 			},
 		{ "predicate": { "custom_model_data": 40}, "model": "item/object/seamoth" 						},
+		{ "predicate": { "custom_model_data": 41}, "model": "item/object/ancient_piston_head" 		},
 		{ "predicate": { "custom_model_data": 100}, "model": "item/monster/investigator" 				},
 		{ "predicate": { "custom_model_data": 101}, "model": "item/monster/cop_flashlight" 			},
 		{ "predicate": { "custom_model_data": 102}, "model": "item/monster/cop_desk" 					},

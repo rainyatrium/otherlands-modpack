@@ -1,0 +1,8 @@
+{
+    "parent": "block/piston_extended",
+    "textures": {
+        "bottom": "otherlands:block/ancient_piston_bottom",
+        "side": "otherlands:block/ancient_piston_side",
+        "inside": "otherlands:block/ancient_piston_inner"
+    }
+}
