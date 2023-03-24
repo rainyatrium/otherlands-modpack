@@ -7,18 +7,10 @@
 			}
 		]
 	},
-	"otherlands.dungeon.distillery":{
+	"otherlands.dungeon_intro":{
 		"sounds": [
 			{
-			"name": "otherjams/dungeon_distillery",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.dungeon.distillery_danger":{
-		"sounds": [
-			{
-			"name": "otherjams/dungeon_distillery_danger",
+			"name": "otherjams/dungeon_intro",
 			"stream": true
 			}
 		]

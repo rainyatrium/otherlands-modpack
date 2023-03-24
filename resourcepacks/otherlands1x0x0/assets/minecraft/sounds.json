@@ -1,7 +1,29 @@
 {
+	"ambient.weather.thunder": {
+		"category": "weather",
+		"sounds": [
+			"ambient/weather/thunder1",
+			"ambient/weather/thunder2",
+			"ambient/weather/thunder3",
+			"ambient/weather/thunder4",
+			"ambient/weather/thunder5"
+		]
+	},
 	"otherlands.ticketmachine":{
 		"sounds": [
 			"otherlands/library/ticketmachine/voice1"
+		]
+	},
+	"otherlands.aktine.ambient":{
+		"sounds": [
+			"otherlands/aktine/ambient_0",
+			"otherlands/aktine/ambient_1",
+			"otherlands/aktine/ambient_2"
+		]
+	},
+	"otherlands.aktine.spawn":{
+		"sounds": [
+			"otherlands/aktine/spawn"
 		]
 	},
 	"otherlands.button_crying":{
