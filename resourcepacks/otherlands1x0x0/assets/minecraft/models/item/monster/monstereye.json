@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "monstereye",
+	"texture_size": [256, 256],
+	"textures": {
+		"0": "custom/aktine_providence",
+		"particle": "custom/aktine_providence"
+	},
+	"elements": [
+		{
+			"from": [0, -16, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"north": {"uv": [13, 8.1875, 14, 9.1875], "texture": "#0"},
+				"east": {"uv": [12, 8.1875, 13, 9.1875], "texture": "#0"},
+				"south": {"uv": [15, 8.1875, 16, 9.1875], "texture": "#0"},
+				"west": {"uv": [14, 8.1875, 15, 9.1875], "texture": "#0"},
+				"up": {"uv": [14, 8.1875, 13, 7.1875], "texture": "#0"},
+				"down": {"uv": [15, 7.1875, 14, 8.1875], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [4, 4, 4]
+		}
+	}
+}

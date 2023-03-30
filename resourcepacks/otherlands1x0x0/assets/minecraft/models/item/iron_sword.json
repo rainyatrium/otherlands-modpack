@@ -5,6 +5,7 @@
   },
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/pc_dasha" },
-		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/pc_charlie" }
+		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/pc_charlie" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/cosmetic/pc_fuzzy_spiritdrainerhilt" }
 	]
 }

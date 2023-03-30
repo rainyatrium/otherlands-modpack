@@ -14,11 +14,63 @@
 			"otherlands/library/ticketmachine/voice1"
 		]
 	},
+	"otherlands.void_explosion_begin":{
+		"sounds": [
+			"otherlands/void_explosion_begin"
+		]
+	},
+	"otherlands.void_explosion_end":{
+		"sounds": [
+			"otherlands/void_explosion_end"
+		]
+	},
+	"otherlands.magic.glyph":{
+		"sounds": [
+			"otherlands/magic/glyph"
+		]
+	},
+	"otherlands.magic.pyro":{
+		"sounds": [
+			"otherlands/magic/pyro"
+		]
+	},
+	"otherlands.magic.spellcast":{
+		"sounds": [
+			"otherlands/magic/spellcast"
+		]
+	},
+	"otherlands.magic.cyto":{
+		"sounds": [
+			"otherlands/magic/cyto"
+		]
+	},
+	"otherlands.magic.dendro":{
+		"sounds": [
+			"otherlands/magic/dendro"
+		]
+	},
+	"otherlands.magic.electro":{
+		"sounds": [
+			"otherlands/magic/electro"
+		]
+	},
+	"otherlands.magic.hydro":{
+		"sounds": [
+			"otherlands/magic/hydro"
+		]
+	},
+	"otherlands.magic.obscuro":{
+		"sounds": [
+			"otherlands/magic/obscuro"
+		]
+	},
 	"otherlands.aktine.ambient":{
 		"sounds": [
 			"otherlands/aktine/ambient_0",
 			"otherlands/aktine/ambient_1",
-			"otherlands/aktine/ambient_2"
+			"otherlands/aktine/ambient_2",
+			"otherlands/aktine/ambient_3",
+			"otherlands/aktine/ambient_4"
 		]
 	},
 	"otherlands.aktine.spawn":{

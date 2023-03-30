@@ -4,7 +4,7 @@
 	"texture_size": [48, 48],
 	"textures": {
 		"0": "custom/corus",
-		"1": "otherlands:block/ancient_light",
+		"1": "otherlands:block/ancient_light_0",
 		"particle": "custom/corus"
 	},
 	"elements": [
