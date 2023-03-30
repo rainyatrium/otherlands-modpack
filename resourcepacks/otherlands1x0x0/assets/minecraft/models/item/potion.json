@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer1": "item/potion",
+		"layer0": "item/potion_overlay"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/bottle_potion" 	}
+	]
+}
