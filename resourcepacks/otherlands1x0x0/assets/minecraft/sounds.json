@@ -78,6 +78,21 @@
 			"otherlands/aktine/spawn"
 		]
 	},
+	"otherlands.architect.ringl":{
+		"sounds": [
+			"otherlands/architect/architect_ring_long"
+		]
+	},
+	"otherlands.architect.ring":{
+		"sounds": [
+			"otherlands/architect/architect_ring"
+		]
+	},
+	"otherlands.architect.hangup":{
+		"sounds": [
+			"otherlands/architect/architect_hangup"
+		]
+	},
 	"otherlands.button_crying":{
 		"sounds": [
 			"otherlands/jim_button/crying"

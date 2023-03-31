@@ -95,6 +95,14 @@
 			}
 		]
 	},
+	"otherlands.architect.phone":{
+		"sounds": [
+			{
+			"name": "music/game/chrysopoeia",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.ending_mild":{
 		"sounds": [
 			{
