@@ -10,6 +10,7 @@
 		{ "predicate": { "custom_model_data": 9 }, "model": "item/cosmetic/amulet_growth" 				},
 		{ "predicate": { "custom_model_data": 10 }, "model": "item/cosmetic/npc_kalamazoo" 				},
 		{ "predicate": { "custom_model_data": 11 }, "model": "item/cosmetic/tot/tot_stump_groundpound" 		},
+		{ "predicate": { "custom_model_data": 12 }, "model": "item/object/architect_phone" 		},
 		{ "predicate": { "custom_model_data": 2000 }, "model": "item/olmagic/start" 							},
 		{ "predicate": { "custom_model_data": 2001 }, "model": "item/olmagic/0" 								},
 		{ "predicate": { "custom_model_data": 2002 }, "model": "item/olmagic/1" 								},
