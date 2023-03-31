@@ -23,6 +23,7 @@
 		{ "predicate": { "custom_model_data": 2009 }, "model": "item/olmagic/8" 								},
 		{ "predicate": { "custom_model_data": 2010 }, "model": "item/olmagic/field_healing" 				},
 		{ "predicate": { "custom_model_data": 2011 }, "model": "item/olmagic/field_hurting" 				},
+		{ "predicate": { "custom_model_data": 2012 }, "model": "item/olmagic/magic_circle" 				},
 		{ "predicate": { "custom_model_data": 4000 }, "model": "item/object/atm_fan" 						},
 		{ "predicate": { "custom_model_data": 4001 }, "model": "item/object/atm_rod" 						},
 		{ "predicate": { "custom_model_data": 4002 }, "model": "item/object/corus_h" 						},

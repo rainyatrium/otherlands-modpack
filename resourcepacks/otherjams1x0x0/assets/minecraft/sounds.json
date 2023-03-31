@@ -15,6 +15,14 @@
 			}
 		]
 	},
+	"otherlands.architect.phone":{
+		"sounds": [
+			{
+			"name": "music/game/chrysopoeia",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.aktine_phase_2":{
 		"sounds": [
 			{
@@ -91,14 +99,6 @@
 		"sounds": [
 			{
 			"name": "otherjams/healingtemple",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.architect.phone":{
-		"sounds": [
-			{
-			"name": "music/game/chrysopoeia",
 			"stream": true
 			}
 		]
