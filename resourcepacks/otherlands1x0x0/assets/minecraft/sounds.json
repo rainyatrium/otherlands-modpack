@@ -73,6 +73,16 @@
 			"otherlands/aktine/ambient_4"
 		]
 	},
+	"otherlands.aktine.speak":{
+		"sounds": [
+			"otherlands/aktine/ambient_0"
+		]
+	},
+	"otherlands.culture.speak":{
+		"sounds": [
+			"otherlands/aktine/culturespeak"
+		]
+	},
 	"otherlands.aktine.spawn":{
 		"sounds": [
 			"otherlands/aktine/spawn"
