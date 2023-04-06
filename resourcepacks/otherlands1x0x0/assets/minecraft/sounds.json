@@ -231,5 +231,15 @@
 		"sounds": [
 			"otherlands/ultramass"
 		]
+	},
+	"otherlands.hcbshoot":{
+		"sounds": [
+			"otherlands/healingcrossbow/crusaders_crossbow_shoot"
+		]
+	},
+	"otherlands.hcbheal":{
+		"sounds": [
+			"otherlands/healingcrossbow/arrow_impact_crossbow_heal"
+		]
 	}
 }
