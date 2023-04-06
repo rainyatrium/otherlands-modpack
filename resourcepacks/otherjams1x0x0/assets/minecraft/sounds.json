@@ -7,42 +7,10 @@
 			}
 		]
 	},
-	"otherlands.aktine_phase_1":{
-		"sounds": [
-			{
-			"name": "otherjams/aktine_phase_1_calm",
-			"stream": true
-			}
-		]
-	},
 	"otherlands.architect.phone":{
 		"sounds": [
 			{
 			"name": "music/game/chrysopoeia",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.aktine_phase_2":{
-		"sounds": [
-			{
-			"name": "otherjams/aktine_phase_2_active",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.aktine_phase_3":{
-		"sounds": [
-			{
-			"name": "otherjams/aktine_phase_3_intense",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.mieranna_escape_sequence":{
-		"sounds": [
-			{
-			"name": "otherjams/mieranna_escape_sequence",
 			"stream": true
 			}
 		]

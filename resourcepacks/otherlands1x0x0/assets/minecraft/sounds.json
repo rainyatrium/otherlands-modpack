@@ -14,6 +14,11 @@
 			"otherlands/library/ticketmachine/voice1"
 		]
 	},
+	"otherlands.boing":{
+		"sounds": [
+			"otherlands/boing"
+		]
+	},
 	"otherlands.void_explosion_begin":{
 		"sounds": [
 			"otherlands/void_explosion_begin"
@@ -62,20 +67,6 @@
 	"otherlands.magic.obscuro":{
 		"sounds": [
 			"otherlands/magic/obscuro"
-		]
-	},
-	"otherlands.aktine.ambient":{
-		"sounds": [
-			"otherlands/aktine/ambient_0",
-			"otherlands/aktine/ambient_1",
-			"otherlands/aktine/ambient_2",
-			"otherlands/aktine/ambient_3",
-			"otherlands/aktine/ambient_4"
-		]
-	},
-	"otherlands.aktine.speak":{
-		"sounds": [
-			"otherlands/aktine/ambient_0"
 		]
 	},
 	"otherlands.culture.speak":{

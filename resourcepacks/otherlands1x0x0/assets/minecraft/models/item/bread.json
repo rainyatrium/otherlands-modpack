@@ -4,16 +4,16 @@
 		"layer0": "item/bread"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/food/donut_plain" 				},
-		{ "predicate": { "custom_model_data": 2}, "model": "item/food/donut_frosted_pink" 		},
-		{ "predicate": { "custom_model_data": 3}, "model": "item/food/bagel" 					},
-		{ "predicate": { "custom_model_data": 4}, "model": "item/food/lemon" 					},
-		{ "predicate": { "custom_model_data": 5}, "model": "item/food/lime" 					},
-		{ "predicate": { "custom_model_data": 6}, "model": "item/food/pizza" 					},
-		{ "predicate": { "custom_model_data": 7}, "model": "item/food/camari" 					},
-		{ "predicate": { "custom_model_data": 8}, "model": "item/food/spaghetti" 				},
-		{ "predicate": { "custom_model_data": 9}, "model": "item/food/lasagna" 					},
-		{ "predicate": { "custom_model_data": 10}, "model": "item/food/garlic_bread" 			},
-		{ "predicate": { "custom_model_data": 11}, "model": "item/food/pizzaball"				}
+		{ "predicate": { "custom_model_data": 1}, "model": "item/cooking/food/donut_plain" 					},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/cooking/food/donut_frosted_pink" 		},
+		{ "predicate": { "custom_model_data": 3}, "model": "item/cooking/food/bagel" 							},
+		{ "predicate": { "custom_model_data": 4}, "model": "item/cooking/food/lemon" 							},
+		{ "predicate": { "custom_model_data": 5}, "model": "item/cooking/food/lime" 								},
+		{ "predicate": { "custom_model_data": 6}, "model": "item/cooking/food/pizza" 							},
+		{ "predicate": { "custom_model_data": 7}, "model": "item/cooking/food/camari" 							},
+		{ "predicate": { "custom_model_data": 8}, "model": "item/cooking/food/spaghetti_and_meatballs" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/cooking/food/lasagna" 						},
+		{ "predicate": { "custom_model_data": 10}, "model": "item/cooking/food/garlic_bread" 				},
+		{ "predicate": { "custom_model_data": 11}, "model": "item/cooking/food/pizzaball"						}
 	]
 }
