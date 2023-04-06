@@ -4,6 +4,8 @@
 		"layer0": "item/glass_bottle"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/bottle_potion_empty" 	}
+		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/bottle_potion_empty" 	},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/bottle_whiskey_empty" 	},
+		{ "predicate": { "custom_model_data": 3}, "model": "item/cosmetic/bottle_wine_empty" 		}
 	]
 }

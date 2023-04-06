@@ -14,6 +14,13 @@
 		{ "predicate": { "custom_model_data": 8}, "model": "item/cosmetic/cane_bird" 						},
 		{ "predicate": { "custom_model_data": 9}, "model": "item/cosmetic/cane_cross" 						},
 		{ "predicate": { "custom_model_data": 10}, "model": "item/cosmetic/cane_dexter" 					},
-		{ "predicate": { "custom_model_data": 10}, "model": "item/cosmetic/parasol" 					}
+		{ "predicate": { "custom_model_data": 11}, "model": "item/cosmetic/parasol" 							},
+		{ "predicate": { "custom_model_data": 100}, "model": "item/cosmetic/wooden_figurines/blank" 		},
+		{ "predicate": { "custom_model_data": 101}, "model": "item/cosmetic/wooden_figurines/dexter" 		},
+		{ "predicate": { "custom_model_data": 102}, "model": "item/cosmetic/wooden_figurines/germaine" 	},
+		{ "predicate": { "custom_model_data": 103}, "model": "item/cosmetic/wooden_figurines/dante" 		},
+		{ "predicate": { "custom_model_data": 104}, "model": "item/cosmetic/wooden_figurines/stump" 		},
+		{ "predicate": { "custom_model_data": 105}, "model": "item/cosmetic/wooden_figurines/zeroone" 	},
+		{ "predicate": { "custom_model_data": 106}, "model": "item/cosmetic/wooden_figurines/astraios" 	}
 	]
 }
