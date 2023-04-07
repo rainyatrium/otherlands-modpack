@@ -4,7 +4,7 @@ customization-meta {
   fadeout = false
   randomgroup = 1
   keepaspectratio = false
-  backgroundimage = resources/curtainsmallempty.png
+  backgroundimage = resources/curtainsmall.png
   renderorder = foreground
   randommode = false
   randomonlyfirsttime = false
