@@ -1,0 +1,19 @@
+{
+	"texture": "celestial:sky/overworld/objects/valraven/jb.png",
+	"display": {
+		"scale": "15",
+		"pos_x": "0",
+		"pos_y": "0",
+		"pos_z": "0",
+		"distance": "100"
+	},
+	"rotation": {
+		"degrees_x": "56",
+		"degrees_y": "0",
+		"degrees_z": "32"
+	},
+	"properties": {
+		"has_moon_phases": false,
+		"alpha": "#sunOpacity"
+	}
+}

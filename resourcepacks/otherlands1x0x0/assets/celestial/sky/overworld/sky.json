@@ -9,7 +9,8 @@
 		"sun",
 		"valraven/aura",
 		"valraven/valraven",
-		"voidskybox"
+		"voidskybox",
+		"valraven/jb"
 	],
 	"render_type": "normal",
 	"environment": {
