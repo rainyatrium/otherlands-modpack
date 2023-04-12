@@ -5,18 +5,20 @@
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/book_apocryphal" 	},
-		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/book" 			},
-		{ "predicate": { "custom_model_data": 3}, "model": "item/cosmetic/book_world" 		},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/book" 					},
+		{ "predicate": { "custom_model_data": 3}, "model": "item/cosmetic/book_world" 			},
 		{ "predicate": { "custom_model_data": 4}, "model": "item/cosmetic/book_paper" 		},
 		{ "predicate": { "custom_model_data": 5}, "model": "item/cosmetic/book_paper_torn" 	},
-		{ "predicate": { "custom_model_data": 6}, "model": "item/cosmetic/book_scroll" 		},
+		{ "predicate": { "custom_model_data": 6}, "model": "item/cosmetic/book_scroll" 			},
 		{ "predicate": { "custom_model_data": 7}, "model": "item/cosmetic/book_punchcard" 	},
 		{ "predicate": { "custom_model_data": 8}, "model": "item/cosmetic/book_recipe" 		},
-		{ "predicate": { "custom_model_data": 9}, "model": "item/cosmetic/book_oculture" 	},
-		{ "predicate": { "custom_model_data": 10}, "model": "item/cosmetic/book_oarchitect" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/cosmetic/book_oculture" 		},
+		{ "predicate": { "custom_model_data": 10}, "model": "item/cosmetic/book_oarchitect" 	},
 		{ "predicate": { "custom_model_data": 11}, "model": "item/cosmetic/book_ovoid" 		},
-		{ "predicate": { "custom_model_data": 12}, "model": "item/cosmetic/book_olodestone" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/cosmetic/book_olodestone"},
 		{ "predicate": { "custom_model_data": 13}, "model": "item/cosmetic/book_oengine" 	},
-		{ "predicate": { "custom_model_data": 14}, "model": "item/cosmetic/book_ocatalyst" 	}
+		{ "predicate": { "custom_model_data": 14}, "model": "item/cosmetic/book_ocatalyst" 	},
+		{ "predicate": { "custom_model_data": 15}, "model": "item/cosmetic/book_jb" 				},
+		{ "predicate": { "custom_model_data": 16}, "model": "item/cosmetic/book_void" 			}
 	]
 }

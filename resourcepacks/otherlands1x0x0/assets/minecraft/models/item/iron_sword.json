@@ -4,9 +4,14 @@
     "layer0": "minecraft:item/iron_sword"
   },
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/pc_dasha" },
-		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/pc_charlie" },
+		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/pc_dasha"						},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/pc_charlie" 					},
 		{ "predicate": { "custom_model_data": 3}, "model": "item/cosmetic/pc_fuzzy_spiritdrainerhilt" },
-		{ "predicate": { "custom_model_data": 4}, "model": "item/cosmetic/pc_ashdown" }
+		{ "predicate": { "custom_model_data": 4}, "model": "item/cosmetic/pc_ashdown" 				},
+		{ "predicate": { "custom_model_data": 5}, "model": "item/cosmetic/weapons/halberd" 		},
+		{ "predicate": { "custom_model_data": 6}, "model": "item/cosmetic/weapons/javelin" 			},
+		{ "predicate": { "custom_model_data": 7}, "model": "item/cosmetic/weapons/warhammer" 	},
+		{ "predicate": { "custom_model_data": 8}, "model": "item/cosmetic/weapons/waraxe" 			},
+		{ "predicate": { "custom_model_data": 9}, "model": "item/cosmetic/weapons/mace" 			}
 	]
 }

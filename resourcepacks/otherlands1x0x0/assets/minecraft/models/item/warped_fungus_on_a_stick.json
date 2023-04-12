@@ -5,6 +5,7 @@
 			},
 
 		"overrides": [
+			{ "predicate": { "custom_model_data": 0}, "model": "item/cosmetic/screwdriver_ancient" },
 			{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/signalscope"  	    },
 			{ "predicate": { "custom_model_data": 100}, "model": "item/object/artifact_hand" 		},
 			{ "predicate": { "custom_model_data": 101}, "model": "item/object/artifact_horn" 		},
