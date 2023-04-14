@@ -1,0 +1,34 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [100, 34],
+	"textures": {
+		"0": "otherlands:block/ancient_screen_land",
+		"particle": "otherlands:block/ancient_screen_land"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 14],
+			"to": [32, 32, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 16, 8]},
+			"faces": {
+				"north": {"uv": [0.32, 0.94118, 8, 16], "texture": "#0"},
+				"east": {"uv": [0, 0.94118, 0.32, 16], "texture": "#0"},
+				"south": {"uv": [8.32, 0.94118, 16, 16], "texture": "#0"},
+				"west": {"uv": [8, 0.94118, 8.32, 16], "texture": "#0"},
+				"up": {"uv": [8, 0.94118, 0.32, 0], "texture": "#0"},
+				"down": {"uv": [15.68, 0, 8, 0.94118], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [0.625, 0.625, 0.625]
+		}
+	}
+}

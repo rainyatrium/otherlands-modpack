@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "y=1": {
+      "model": "minecraft:block/acacia_log"
+    },
+    "y=2..": {
+      "model": "minecraft:block/gravel"
+    }
+  }
+}

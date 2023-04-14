@@ -14,6 +14,36 @@
 			"otherlands/library/ticketmachine/voice1"
 		]
 	},
+	"otherlands.assemble_block_start":{
+		"sounds": [
+			"otherlands/assemble_block_start"
+		]
+	},
+	"otherlands.assemble_block_return":{
+		"sounds": [
+			"otherlands/assemble_block_return"
+		]
+	},
+	"otherlands.qualia_reader_start":{
+		"sounds": [
+			"otherlands/qualia_reader_start"
+		]
+	},
+	"otherlands.qualia_reader_get":{
+		"sounds": [
+			"otherlands/qualia_reader_get"
+		]
+	},
+	"otherlands.elev_start":{
+		"sounds": [
+			"otherlands/elev_start"
+		]
+	},
+	"otherlands.elev_stop":{
+		"sounds": [
+			"otherlands/elev_stop"
+		]
+	},
 	"otherlands.boing":{
 		"sounds": [
 			"otherlands/boing"
