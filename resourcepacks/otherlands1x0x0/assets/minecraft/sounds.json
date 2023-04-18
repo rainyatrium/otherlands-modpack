@@ -19,6 +19,94 @@
 			"otherlands/assemble_block_start"
 		]
 	},
+	"otherlands.signal.0":{
+		"sounds": [
+			{
+			"name": "otherlands/signals/0",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.signal.1":{
+		"sounds": [
+			{
+			"name": "otherlands/signals/1",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.signal.2":{
+		"sounds": [
+			{
+			"name": "otherlands/signals/2",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.signal.3":{
+		"sounds": [
+			{
+			"name": "otherlands/signals/3",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.signal.4":{
+		"sounds": [
+			{
+			"name": "otherlands/signals/4",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.signal.5":{
+		"sounds": [
+			{
+			"name": "otherlands/signals/5",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.signal.6":{
+		"sounds": [
+			{
+			"name": "otherlands/signals/6",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.signal.7":{
+		"sounds": [
+			{
+			"name": "otherlands/signals/7",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.signal.buzz":{
+		"sounds": [
+			{
+			"name": "otherlands/signals/buzz",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.signal.castle":{
+		"sounds": [
+			{
+			"name": "otherlands/signals/castle",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.signal.engine":{
+		"sounds": [
+			{
+			"name": "otherlands/signals/engine",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.assemble_block_return":{
 		"sounds": [
 			"otherlands/assemble_block_return"
