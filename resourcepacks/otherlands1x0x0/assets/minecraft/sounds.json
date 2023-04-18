@@ -262,6 +262,11 @@
 			"otherlands/ultramass"
 		]
 	},
+	"otherlands.marketplace_crowd":{
+		"sounds": [
+			"otherlands/marketplace_crowd"
+		]
+	},
 	"otherlands.hcbshoot":{
 		"sounds": [
 			"otherlands/healingcrossbow/crusaders_crossbow_shoot"
