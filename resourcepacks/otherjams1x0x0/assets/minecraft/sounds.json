@@ -15,6 +15,14 @@
 			}
 		]
 	},
+	"otherlands.season_intro":{
+		"sounds": [
+			{
+			"name": "otherjams/season_intro",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.dungeon_intro":{
 		"sounds": [
 			{
