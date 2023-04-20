@@ -19,6 +19,7 @@
 		{ "predicate": { "custom_model_data": 13}, "model": "item/cosmetic/book_oengine" 	},
 		{ "predicate": { "custom_model_data": 14}, "model": "item/cosmetic/book_ocatalyst" 	},
 		{ "predicate": { "custom_model_data": 15}, "model": "item/cosmetic/book_jb" 				},
-		{ "predicate": { "custom_model_data": 16}, "model": "item/cosmetic/book_void" 			}
+		{ "predicate": { "custom_model_data": 16}, "model": "item/cosmetic/book_void" 			},
+		{ "predicate": { "custom_model_data": 17}, "model": "item/cosmetic/book_black" 		}
 	]
 }

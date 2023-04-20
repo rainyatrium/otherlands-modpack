@@ -14,6 +14,11 @@
 			"otherlands/library/ticketmachine/voice1"
 		]
 	},
+	"otherlands.distant_splash":{
+		"sounds": [
+			"otherlands/distant_splash"
+		]
+	},
 	"otherlands.assemble_block_start":{
 		"sounds": [
 			"otherlands/assemble_block_start"

@@ -7,6 +7,30 @@
 			}
 		]
 	},
+	"otherlands.azurit":{
+		"sounds": [
+			{
+			"name": "otherjams/azurit",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.azurit_short":{
+		"sounds": [
+			{
+			"name": "otherjams/azurit_short",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.ansible":{
+		"sounds": [
+			{
+			"name": "otherjams/ansible",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.architect.phone":{
 		"sounds": [
 			{
