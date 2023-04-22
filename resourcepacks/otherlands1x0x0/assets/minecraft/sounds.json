@@ -40,6 +40,14 @@
 			}
 		]
 	},
+	"otherlands.signal.pierrot":{
+		"sounds": [
+			{
+			"name": "otherlands/signals/pierrot",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.signal.2":{
 		"sounds": [
 			{
