@@ -12,6 +12,7 @@
 		{ "predicate": { "custom_model_data": 11 }, "model": "item/cosmetic/tot/tot_stump_groundpound" 		},
 		{ "predicate": { "custom_model_data": 12 }, "model": "item/object/architect_phone" 		},
 		{ "predicate": { "custom_model_data": 13 }, "model": "item/cosmetic/pierrot_mask" 		},
+		{ "predicate": { "custom_model_data": 14 }, "model": "item/cosmetic/pierrot_tophat" 		},
 		{ "predicate": { "custom_model_data": 2000 }, "model": "item/magic/start" 							},
 		{ "predicate": { "custom_model_data": 2001 }, "model": "item/magic/0" 								},
 		{ "predicate": { "custom_model_data": 2002 }, "model": "item/magic/1" 								},
