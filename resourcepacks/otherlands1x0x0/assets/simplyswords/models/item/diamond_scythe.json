@@ -1,0 +1,9 @@
+{
+	"parent": "simplyswords:item/big_handheld",
+	"textures": {
+		"layer0": "simplyswords:item/diamond_scythe"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "simplyswords:item/chess_scythe"	}						
+	]
+}
