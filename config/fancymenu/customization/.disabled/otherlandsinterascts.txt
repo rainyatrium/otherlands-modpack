@@ -1,0 +1,371 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  baseheight = 979
+  action = autoscale
+  basewidth = 1680
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 262
+  action = deep_customization_element:title_screen_branding
+  actionid = 750dadd5-6dec-4ac0-b468-09f572727e0b1665911650360
+  y = 478
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 523
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = f1765e53-f668-42ab-9ef4-a8ffe27008af1665911650360
+  y = 222
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 283
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = b05d9499-0b75-47d4-90f7-531c0645563a1665911650360
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 8c98eb78-d881-4630-b0bf-860b4441d2991665911650360
+  y = 0
+  height = 30
+}
+
+customization {
+  path = resources/EyeLook/buttontest.png
+  [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:e8b2c670-2c22-41b4-8dfa-21d3fd981c481682142652646] = 99b6d4b0-e84a-4814-8970-9ea57679a7bd1665975418003
+  orientation = element
+  orientation_element = cd9cc387-473c-435b-be67-17db9965c9c11665911937003
+  x = -33
+  width = 452
+  action = addtexture
+  actionid = d7c32709-7106-44bd-9909-01c31c8cc6701665911654720
+  y = -60
+  height = 400
+}
+
+customization {
+  path = resources/EyeLook/eyeframe.png
+  orientation = mid-centered
+  x = -201
+  width = 384
+  action = addtexture
+  actionid = cd9cc387-473c-435b-be67-17db9965c9c11665911937003
+  y = -120
+  height = 220
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = set_variable;optcontext:1%btnaction_splitter_fm%
+  backgroundhovered = resources\EyeLook\buttontest.png
+  label = 
+  loopbackgroundanimations = true
+  orientation_element = d7c32709-7106-44bd-9909-01c31c8cc6701665911654720
+  x = 51
+  width = 119
+  action = addbutton
+  actionid = 266dd79f-27a8-4077-a781-80d791e134e11665912370126
+  y = 221
+  backgroundnormal = resources\EyeLook\buttontest.png
+  height = 132
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_quit_button%btnaction_splitter_fm%
+  backgroundhovered = resources\EyeLook\buttontest.png
+  label = 
+  loopbackgroundanimations = true
+  orientation_element = d7c32709-7106-44bd-9909-01c31c8cc6701665911654720
+  x = 284
+  width = 119
+  action = addbutton
+  actionid = 3262950f-8f20-494e-9304-efad06dea6101665975400607
+  y = 220
+  backgroundnormal = resources\EyeLook\buttontest.png
+  height = 132
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:modmenu_titlescreen_mods_button%btnaction_splitter_fm%
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = §aMods
+  loopbackgroundanimations = true
+  hoverlabel = §2Mods
+  orientation_element = 26a95d6b-896a-4147-b0d2-3a5b34ea2b301665976465231
+  x = -13
+  width = 70
+  action = addbutton
+  actionid = 523421e9-0ebc-4fe9-bb48-d88c55b078fe1665910547470
+  y = 8
+  backgroundnormal = resources\EyeLook\buttontest.png
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_singleplayer_button%btnaction_splitter_fm%
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = §aSingleplayer
+  loopbackgroundanimations = true
+  hoverlabel = §2Singleplayer
+  orientation_element = 26a95d6b-896a-4147-b0d2-3a5b34ea2b301665976465231
+  x = -5
+  width = 70
+  action = addbutton
+  actionid = cc5d0ac2-4f76-4d19-b0ab-caa26168a3d21665910547470
+  y = 23
+  backgroundnormal = resources\EyeLook\buttontest.png
+  height = 18
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_options_button%btnaction_splitter_fm%
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = §aOptions
+  loopbackgroundanimations = true
+  hoverlabel = §2Options
+  orientation_element = 26a95d6b-896a-4147-b0d2-3a5b34ea2b301665976465231
+  x = -13
+  width = 70
+  action = addbutton
+  actionid = 8e35494c-684a-4dcf-9c2d-ceb420f8b74e1665910547470
+  y = 53
+  backgroundnormal = resources\EyeLook\buttontest.png
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_multiplayer_button%btnaction_splitter_fm%
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = §aServer List
+  loopbackgroundanimations = true
+  hoverlabel = §2Server List
+  orientation_element = 26a95d6b-896a-4147-b0d2-3a5b34ea2b301665976465231
+  x = 2
+  width = 70
+  action = addbutton
+  actionid = 9b25593e-d457-44bb-a68c-dd4dc0d088431665910547470
+  y = 39
+  backgroundnormal = resources\EyeLook\buttontest.png
+  height = 16
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = toggle_mute_audio;4ff71b6b-4407-4cf1-af38-40b08b26cd201665993944927%btnaction_splitter_fm%
+  backgroundhovered = resources\EyeLook\buttontest2.png
+  label = §aMenu Music
+  loopbackgroundanimations = true
+  hoverlabel = §2Menu Music
+  orientation_element = 26a95d6b-896a-4147-b0d2-3a5b34ea2b301665976465231
+  x = 4
+  width = 70
+  action = addbutton
+  actionid = 5ca9df30-7fdc-45b8-bc64-7d768945a9421665910547470
+  y = 68
+  backgroundnormal = resources\EyeLook\buttontest.png
+  height = 20
+}
+
+customization {
+  path = resources/EyeLook/eyeframe.png
+  orientation = mid-centered
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:de7e0ecd-b473-4407-82ca-e9bc629132261682142813140] = <optcontext>:<1>
+  x = -226
+  width = 105
+  action = addtexture
+  actionid = 26a95d6b-896a-4147-b0d2-3a5b34ea2b301665976465231
+  y = 35
+  height = 11
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = joinserver;108.93.58.161:25565%btnaction_splitter_fm%
+  backgroundhovered = resources\EyeLook\buttontest.png
+  label = 
+  loopbackgroundanimations = true
+  orientation_element = d7c32709-7106-44bd-9909-01c31c8cc6701665911654720
+  x = 283
+  width = 114
+  action = addbutton
+  actionid = c64521b6-3db6-4a2f-bdf3-72b78dc1d5341665984588043
+  y = 221
+  backgroundnormal = resources\EyeLook\buttontest.png
+  height = 132
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = set_variable;optcontext:0%btnaction_splitter_fm%
+  backgroundhovered = resources\EyeLook\buttontest.png
+  label = 
+  loopbackgroundanimations = true
+  orientation_element = d7c32709-7106-44bd-9909-01c31c8cc6701665911654720
+  x = 52
+  width = 119
+  action = addbutton
+  actionid = 156ebbff-810a-4c33-8e1d-baf7a36f7b8a1665978448073
+  y = 221
+  backgroundnormal = resources\EyeLook\buttontest.png
+  height = 132
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openfile;resources/dream.txt%btnaction_splitter_fm%
+  backgroundhovered = resources\EyeLook\buttontest.png
+  label = 
+  loopbackgroundanimations = true
+  x = -64
+  width = 114
+  action = addbutton
+  actionid = 6af399ca-f07c-4ddd-9af9-007e3763cb5d1665985254741
+  y = 41
+  backgroundnormal = resources\EyeLook\buttontest.png
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if_not][req_id:ad98f769-99a5-4f7d-8925-f754fffc95821682142652650] = 108.93.58.161:25565
+  height = 132
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = joinserver;108.93.58.161:25565%btnaction_splitter_fm%
+  backgroundhovered = resources\EyeLook\buttontest.png
+  label = 
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:a02b415f-6755-4775-99a3-8f2bf186976b1682142652652] = 108.93.58.161:25565
+  loopbackgroundanimations = true
+  x = -65
+  width = 114
+  action = addbutton
+  actionid = 87512ebe-ed71-4afd-b032-9b34b25960641665984412620
+  y = 42
+  backgroundnormal = resources\EyeLook\buttontest.png
+  height = 132
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink;%btnaction_splitter_fm%
+  backgroundhovered = resources\EyeLook\buttontest.png
+  label = 
+  loopbackgroundanimations = true
+  orientation_element = d7c32709-7106-44bd-9909-01c31c8cc6701665911654720
+  x = 169
+  width = 114
+  action = addbutton
+  actionid = 99b6d4b0-e84a-4814-8970-9ea57679a7bd1665975418003
+  y = 223
+  backgroundnormal = resources\EyeLook\buttontest.png
+  height = 132
+}
+
+customization {
+  audio_source:23f79a50-bd45-417a-aef8-2e6cdf328a291665993952271 = resources/music/fourteeen.ogg;EXTERNAL_LOCAL;100;0
+  orientation = top-left
+  loop = true
+  channel = master
+  x = 3
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 4ff71b6b-4407-4cf1-af38-40b08b26cd201665993944927
+  y = 14
+  once_per_session = false
+  height = 50
+}
+

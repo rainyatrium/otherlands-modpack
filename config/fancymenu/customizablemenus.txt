@@ -12,6 +12,9 @@ net.minecraft.class_412 {
 com.terraformersmc.modmenu.gui.ModsScreen {
 }
 
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
 net.minecraft.class_442 {
 }
 

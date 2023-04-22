@@ -1,0 +1,117 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 262
+  action = deep_customization_element:title_screen_branding
+  actionid = ca0c0ba2-83c9-4b26-95d4-3647842caccc1665993710754
+  y = 478
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 523
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 4b7318ca-a25f-4aad-99b9-88945ceb78dc1665993710754
+  y = 222
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 283
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = b73be355-c3b7-463d-8bad-dc1e151b7d231665993710754
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 39d2bdec-4bd9-4342-99a0-5ca609186a231665993710754
+  y = 0
+  height = 30
+}
+
+customization {
+  path = resources/vignette.png
+  orientation = top-left
+  x = 0
+  width = %guiwidth%
+  action = addtexture
+  actionid = e362df38-9a1d-45d0-ad03-3e6a6d95c46f1665993728187
+  y = 0
+  height = %guiheight%
+}
+

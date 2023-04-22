@@ -8,6 +8,7 @@ B:playbackgroundsounds = 'true';
 [A minecraft restart is required after changing this value.]
 B:enablehotkeys = 'true';
 B:playmenumusic = 'false';
+S:variables_to_reset_on_launch = '';
 B:showdebugwarnings = 'true';
 [Sets the default GUI scale on first launch. Useful for modpacks. Cache data is saved in '/mods/fancymenu/'.]
 I:defaultguiscale = '-1';
@@ -22,17 +23,16 @@ B:showcustomizationbuttons = 'false';
 ##[loading]
 
 B:allowgameintroskip = 'true';
-S:loadinganimationcolor = '#ffffffff';
 B:showanimationloadingstatus = 'true';
-S:gameintroanimation = '';
+S:gameintroanimation = 'cyanintro';
 B:preloadanimations = 'true';
-S:customgameintroskiptext = '';
+S:customgameintroskiptext = 'space : skip';
 
 
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'OTHERLANDS';
+S:customwindowtitle = 'OTHERLANDS: STORM SEASON';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 
@@ -64,6 +64,7 @@ B:showvanillamovewarning = 'true';
 
 ##[ui]
 
+B:show_unicode_warning = 'true';
 F:uiscale = '1.0';
 
 

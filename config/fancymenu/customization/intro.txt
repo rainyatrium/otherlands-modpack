@@ -1,0 +1,59 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = resources/cyanintro/frames_main/1.jpg
+  orientation = top-left
+  x = 0
+  width = %guiwidth%
+  action = addtexture
+  actionid = c0549f6e-1d91-42fe-9796-070ea37fe5a11682148436210
+  y = 0
+  height = %guiheight%
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 198
+  width = 564
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 38ce2d21-f790-45d5-abe8-05ed6840a0dd1682148359431
+  y = 212
+  height = 140
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 9d828add-1c63-4584-8960-42af4bf4beea1682148359431
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 198
+  width = 564
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 56c59b03-8f8c-4236-9558-f00e9eb433891682148359431
+  y = 465
+  height = 10
+}
+
