@@ -112,6 +112,14 @@
 			}
 		]
 	},
+	"otherlands.signal.valraven":{
+		"sounds": [
+			{
+			"name": "otherlands/signals/valraven",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.signal.engine":{
 		"sounds": [
 			{
