@@ -47,6 +47,38 @@
 			}
 		]
 	},
+	"otherlands.lord.funkrammer.muffled":{
+		"sounds": [
+			{
+			"name": "otherjams/lord_funkrammer_muffled",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.lord.rameau.muffled":{
+		"sounds": [
+			{
+			"name": "otherjams/lord_rameau_muffled",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.lord.striezelratten.muffled":{
+		"sounds": [
+			{
+			"name": "otherjams/lord_striezelratten_muffled",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.lord.sygnare.muffled":{
+		"sounds": [
+			{
+			"name": "otherjams/lord_sygnare_muffled",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.azurit_short":{
 		"sounds": [
 			{
