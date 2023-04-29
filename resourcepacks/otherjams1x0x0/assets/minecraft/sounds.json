@@ -15,6 +15,38 @@
 			}
 		]
 	},
+	"otherlands.lord.funkrammer":{
+		"sounds": [
+			{
+			"name": "otherjams/lord_funkrammer",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.lord.rameau":{
+		"sounds": [
+			{
+			"name": "otherjams/lord_rameau",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.lord.striezelratten":{
+		"sounds": [
+			{
+			"name": "otherjams/lord_striezelratten",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.lord.sygnare":{
+		"sounds": [
+			{
+			"name": "otherjams/lord_sygnare",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.azurit_short":{
 		"sounds": [
 			{

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bottle_vial_overlay",
+        "layer1": "item/bottle_vial"
+    }
+}

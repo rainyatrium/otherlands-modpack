@@ -7,6 +7,7 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/bottle_potion" 	},
 		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/bottle_whiskey" 	},
-		{ "predicate": { "custom_model_data": 3}, "model": "item/cosmetic/bottle_wine" 		}
+		{ "predicate": { "custom_model_data": 3}, "model": "item/cosmetic/bottle_wine" 		},
+		{ "predicate": { "custom_model_data": 4}, "model": "item/cosmetic/bottle_vial" 		}
 	]
 }

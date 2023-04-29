@@ -1,10 +1,14 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/potion_overlay",
-        "layer1": "item/splash_potion"
-    },
-		"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/bottle_warp" 	}
+	"parent": "item/generated",
+	"textures": {
+		"layer1": "item/potion",
+		"layer0": "item/potion_overlay"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/bottle_potion" 	},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/bottle_whiskey" 	},
+		{ "predicate": { "custom_model_data": 3}, "model": "item/cosmetic/bottle_wine" 		},
+		{ "predicate": { "custom_model_data": 4}, "model": "item/cosmetic/bottle_vial" 		},
+		{ "predicate": { "custom_model_data": 5}, "model": "item/cosmetic/bottle_warp" 		}
 	]
 }
