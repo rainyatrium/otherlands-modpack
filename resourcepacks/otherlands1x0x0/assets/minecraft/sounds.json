@@ -233,6 +233,11 @@
 			"otherlands/architect/architect_hangup"
 		]
 	},
+	"otherlands.valraven.warp":{
+		"sounds": [
+			"otherlands/valraven/warp"
+		]
+	},
 	"otherlands.button_crying":{
 		"sounds": [
 			"otherlands/jim_button/crying"
