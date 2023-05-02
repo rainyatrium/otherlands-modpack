@@ -2,7 +2,8 @@
 	"sky_objects": [
 		"skybox",
 		"kalamazoosky",
-		"dungeonsky"
+		"dungeonsky",
+		"tombsky"
 		],
 	"environment": {
 		"fog_color": {

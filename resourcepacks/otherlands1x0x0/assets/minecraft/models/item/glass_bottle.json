@@ -7,6 +7,8 @@
 		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/bottle_potion_empty" 	},
 		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/bottle_whiskey_empty" 	},
 		{ "predicate": { "custom_model_data": 3}, "model": "item/cosmetic/bottle_wine_empty" 		},
-		{ "predicate": { "custom_model_data": 4}, "model": "item/cosmetic/bottle_vial_empty" 			}
+		{ "predicate": { "custom_model_data": 4}, "model": "item/cosmetic/bottle_vial_empty" 			},
+		{ "predicate": { "custom_model_data": 5}, "model": "item/cosmetic/bottle_warp_empty" 		},
+		{ "predicate": { "custom_model_data": 6}, "model": "item/cosmetic/bottle_vial_empty" 			}
 	]
 }
