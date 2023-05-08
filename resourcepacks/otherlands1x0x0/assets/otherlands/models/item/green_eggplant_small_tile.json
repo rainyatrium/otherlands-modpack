@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "otherlands:block/green_eggplant_small_tile"
+  }
+}
