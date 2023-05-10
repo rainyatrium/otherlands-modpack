@@ -36,6 +36,7 @@
 		{ "predicate": { "custom_model_data": 50}, "model": "item/object/pileotrashend" 					},
 		{ "predicate": { "custom_model_data": 50}, "model": "item/object/pileotrashextra" 					},
 		{ "predicate": { "custom_model_data": 51}, "model": "item/object/porcelain_eggplant" 					},
+		{ "predicate": { "custom_model_data": 52}, "model": "item/object/eggplant_scepter" 					},
 		{ "predicate": { "custom_model_data": 100}, "model": "item/monster/investigator" 				},
 		{ "predicate": { "custom_model_data": 101}, "model": "item/monster/cop_flashlight" 			},
 		{ "predicate": { "custom_model_data": 102}, "model": "item/monster/cop_desk" 					},
