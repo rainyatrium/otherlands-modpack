@@ -3,7 +3,8 @@
 		"skybox",
 		"kalamazoosky",
 		"dungeonsky",
-		"tombsky"
+		"tombsky",
+		"hydrosky"
 		],
 	"environment": {
 		"fog_color": {
