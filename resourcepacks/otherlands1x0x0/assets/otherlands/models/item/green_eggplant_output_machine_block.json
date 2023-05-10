@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "otherlands:block/green_eggplant_machine_block",
+    "front": "otherlands:block/green_eggplant_output_machine_block",
+    "side": "otherlands:block/green_eggplant_output_machine_block"
+  }
+}
