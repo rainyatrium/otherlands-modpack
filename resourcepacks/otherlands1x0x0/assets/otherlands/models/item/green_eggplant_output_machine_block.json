@@ -1,8 +1,58 @@
 {
-  "parent": "minecraft:block/orientable",
-  "textures": {
-    "top": "otherlands:block/green_eggplant_machine_block",
-    "front": "otherlands:block/green_eggplant_output_machine_block",
-    "side": "otherlands:block/green_eggplant_output_machine_block"
-  }
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "otherlands:block/green_eggplant_output_machine_block",
+		"particle": "otherlands:block/green_eggplant_output_machine_block"
+	},
+	"elements": [
+		{
+			"from": [5, 2, 5],
+			"to": [11, 7, 11],
+			"faces": {
+				"north": {"uv": [10.5, 5.5, 12, 6.75], "texture": "#0"},
+				"east": {"uv": [9, 5.5, 10.5, 6.75], "texture": "#0"},
+				"south": {"uv": [13.5, 5.5, 15, 6.75], "texture": "#0"},
+				"west": {"uv": [12, 5.5, 13.5, 6.75], "texture": "#0"},
+				"up": {"uv": [12, 5.5, 10.5, 4], "texture": "#0"},
+				"down": {"uv": [13.5, 4, 12, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 0, 3],
+			"to": [13, 2, 13],
+			"faces": {
+				"north": {"uv": [2.5, 11.25, 5, 11.75], "texture": "#0"},
+				"east": {"uv": [0, 11.25, 2.5, 11.75], "texture": "#0"},
+				"south": {"uv": [7.5, 11.25, 10, 11.75], "texture": "#0"},
+				"west": {"uv": [5, 11.25, 7.5, 11.75], "texture": "#0"},
+				"up": {"uv": [5, 11.25, 2.5, 8.75], "texture": "#0"},
+				"down": {"uv": [7.5, 8.75, 5, 11.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 7, 2],
+			"to": [14, 14, 14],
+			"faces": {
+				"north": {"uv": [3, 7, 6, 8.75], "texture": "#0"},
+				"east": {"uv": [0, 7, 3, 8.75], "texture": "#0"},
+				"south": {"uv": [9, 7, 12, 8.75], "texture": "#0"},
+				"west": {"uv": [6, 7, 9, 8.75], "texture": "#0"},
+				"up": {"uv": [6, 7, 3, 4], "texture": "#0"},
+				"down": {"uv": [9, 4, 6, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 14, 1],
+			"to": [15, 16, 15],
+			"faces": {
+				"north": {"uv": [3.5, 3.5, 7, 4], "texture": "#0"},
+				"east": {"uv": [0, 3.5, 3.5, 4], "texture": "#0"},
+				"south": {"uv": [10.5, 3.5, 14, 4], "texture": "#0"},
+				"west": {"uv": [7, 3.5, 10.5, 4], "texture": "#0"},
+				"up": {"uv": [7, 3.5, 3.5, 0], "texture": "#0"},
+				"down": {"uv": [10.5, 0, 7, 3.5], "texture": "#0"}
+			}
+		}
+	]
 }
