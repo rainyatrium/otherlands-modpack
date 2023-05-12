@@ -231,6 +231,14 @@
 			}
 		]
 	},
+	"otherlands.wynnsong":{
+		"sounds": [
+			{
+			"name": "otherjams/wynnsong",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.pyramid":{
 		"sounds": [
 			{
