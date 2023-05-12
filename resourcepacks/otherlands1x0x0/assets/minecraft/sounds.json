@@ -14,6 +14,24 @@
 			"otherlands/library/ticketmachine/voice1"
 		]
 	},
+		"otherlands.wynn.call":{
+		"sounds": [
+			"otherlands/wynn/wynn1",
+			"otherlands/wynn/wynn2",
+			"otherlands/wynn/wynn3",
+			"otherlands/wynn/wynn4"
+		]
+	},
+			"otherlands.wynn.leave":{
+		"sounds": [
+			"otherlands/wynn/wynnleave"
+		]
+	},
+				"otherlands.wynn.whisper":{
+		"sounds": [
+			"otherlands/wynn/catalystwhisper"
+		]
+	},
 	"otherlands.distant_splash":{
 		"sounds": [
 			"otherlands/distant_splash"

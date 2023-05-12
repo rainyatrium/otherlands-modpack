@@ -12,6 +12,7 @@
 		{ "predicate": { "custom_model_data": 6}, "model": "item/cosmetic/weapons/javelin" 			},
 		{ "predicate": { "custom_model_data": 7}, "model": "item/cosmetic/weapons/warhammer" 	},
 		{ "predicate": { "custom_model_data": 8}, "model": "item/cosmetic/weapons/waraxe" 			},
-		{ "predicate": { "custom_model_data": 9}, "model": "item/cosmetic/weapons/mace" 			}
+		{ "predicate": { "custom_model_data": 9}, "model": "item/cosmetic/weapons/mace" 			},
+		{ "predicate": { "custom_model_data": 10}, "model": "item/cosmetic/pc_wynngreatsword" 			}
 	]
 }

@@ -15,6 +15,7 @@
 			{ "predicate": { "custom_model_data": 8}, "model": "item/cosmetic/tot/tot_wynn"				},
 			{ "predicate": { "custom_model_data": 9}, "model": "item/cosmetic/tot/tot_stump"			},
 			{ "predicate": { "custom_model_data": 10}, "model": "item/cosmetic/tot/tot_stump_slam"	},
-			{ "predicate": { "custom_model_data": 11}, "model": "item/cosmetic/steppe_sword"			}
+			{ "predicate": { "custom_model_data": 11}, "model": "item/cosmetic/steppe_sword"			},
+			{ "predicate": { "custom_model_data": 12}, "model": "item/cosmetic/pc_wynngreatsword" 			}
 	]
 }
