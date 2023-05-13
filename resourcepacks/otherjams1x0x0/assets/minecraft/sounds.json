@@ -7,74 +7,18 @@
 			}
 		]
 	},
+	"otherlands.doom":{
+		"sounds": [
+			{
+			"name": "otherjams/doom",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.azurit":{
 		"sounds": [
 			{
 			"name": "otherjams/azurit",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.lord.funkrammer":{
-		"sounds": [
-			{
-			"name": "otherjams/lord_funkrammer",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.lord.rameau":{
-		"sounds": [
-			{
-			"name": "otherjams/lord_rameau",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.lord.striezelratten":{
-		"sounds": [
-			{
-			"name": "otherjams/lord_striezelratten",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.lord.sygnare":{
-		"sounds": [
-			{
-			"name": "otherjams/lord_sygnare",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.lord.funkrammer.muffled":{
-		"sounds": [
-			{
-			"name": "otherjams/lord_funkrammer_muffled",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.lord.rameau.muffled":{
-		"sounds": [
-			{
-			"name": "otherjams/lord_rameau_muffled",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.lord.striezelratten.muffled":{
-		"sounds": [
-			{
-			"name": "otherjams/lord_striezelratten_muffled",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.lord.sygnare.muffled":{
-		"sounds": [
-			{
-			"name": "otherjams/lord_sygnare_muffled",
 			"stream": true
 			}
 		]
@@ -115,14 +59,6 @@
 		"sounds": [
 			{
 			"name": "otherjams/dungeon_intro",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.tomb":{
-		"sounds": [
-			{
-			"name": "otherjams/tomb",
 			"stream": true
 			}
 		]
@@ -171,30 +107,6 @@
 		"sounds": [
 			{
 			"name": "otherjams/ending_mild",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.ending_monsoon":{
-		"sounds": [
-			{
-			"name": "otherjams/ending_monsoon",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.ending_sun":{
-		"sounds": [
-			{
-			"name": "otherjams/ending_sun",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.ending_meteor":{
-		"sounds": [
-			{
-			"name": "otherjams/ending_meteor",
 			"stream": true
 			}
 		]
