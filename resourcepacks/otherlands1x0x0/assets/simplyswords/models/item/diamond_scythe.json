@@ -1,7 +1,108 @@
 {
-	"parent": "simplyswords:item/big_handheld",
+	"credit": "Made with Blockbench",
+	"parent": "scythe",
+	"texture_size": [24, 48],
 	"textures": {
-		"layer0": "simplyswords:item/diamond_scythe"
+		"0": "simplyswords:custom/diamond_scythe",
+		"particle": "simplyswords:custom/diamond_scythe"
+	},
+	"elements": [
+		{
+			"from": [7, -16, 7],
+			"to": [9, 17, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -2, 0]},
+			"faces": {
+				"north": {"uv": [1.33333, 0.66667, 2.66667, 11.66667], "texture": "#0"},
+				"east": {"uv": [0, 0.66667, 1.33333, 11.66667], "texture": "#0"},
+				"south": {"uv": [4, 0.66667, 5.33333, 11.66667], "texture": "#0"},
+				"west": {"uv": [2.66667, 0.66667, 4, 11.66667], "texture": "#0"},
+				"up": {"uv": [2.66667, 0.66667, 1.33333, 0], "texture": "#0"},
+				"down": {"uv": [4, 0, 2.66667, 0.66667], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 14, -7],
+			"to": [8, 23, 17],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -2, 0]},
+			"faces": {
+				"north": {"uv": [16, 13, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 13, 16, 16], "texture": "#0"},
+				"south": {"uv": [32, 13, 32, 16], "texture": "#0"},
+				"west": {"uv": [16, 13, 0, 16], "texture": "#0"},
+				"up": {"uv": [16, 13, 16, 5], "texture": "#0"},
+				"down": {"uv": [16, 5, 16, 13], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.75, -15.25, 6.75],
+			"to": [9.25, -13.75, 9.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -2, 0]},
+			"faces": {
+				"north": {"uv": [12, 4.33334, 13.33334, 4.66667], "texture": "#0"},
+				"east": {"uv": [10.66667, 4.33334, 12, 4.66667], "texture": "#0"},
+				"south": {"uv": [14.66667, 4.33334, 16, 4.66667], "texture": "#0"},
+				"west": {"uv": [13.33334, 4.33334, 14.66667, 4.66667], "texture": "#0"},
+				"up": {"uv": [13.33334, 4.33334, 12, 3.66667], "texture": "#0"},
+				"down": {"uv": [14.66667, 3.66667, 13.33334, 4.33334], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 19, 7],
+			"to": [9, 21, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -2, 0]},
+			"faces": {
+				"north": {"uv": [12, 3, 13.33334, 3.66666], "texture": "#0"},
+				"east": {"uv": [10.66667, 3, 12, 3.66666], "texture": "#0"},
+				"south": {"uv": [14.66667, 3, 16, 3.66666], "texture": "#0"},
+				"west": {"uv": [13.33334, 3, 14.66667, 3.66666], "texture": "#0"},
+				"up": {"uv": [13.33334, 3, 12, 2.33333], "texture": "#0"},
+				"down": {"uv": [14.66667, 2.33333, 13.33334, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 17, 6.5],
+			"to": [9.5, 19, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -2, 0]},
+			"faces": {
+				"north": {"uv": [10, 1, 12, 1.66667], "texture": "#0"},
+				"east": {"uv": [8, 1, 10, 1.66667], "texture": "#0"},
+				"south": {"uv": [14, 1, 16, 1.66667], "texture": "#0"},
+				"west": {"uv": [12, 1, 14, 1.66667], "texture": "#0"},
+				"up": {"uv": [12, 1, 10, 0], "texture": "#0"},
+				"down": {"uv": [14, 0, 12, 1], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -0.5, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 15, 0],
+			"translation": [0, 7, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [15, 15, -5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [15, 15, -5]
+		},
+		"ground": {
+			"rotation": [25, 0, 0],
+			"translation": [0, 4.5, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [115, 45, -130],
+			"translation": [0.25, 0.5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"translation": [0, -18, -2],
+			"scale": [1.6, 1.6, 1.6]
+		}
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "simplyswords:item/chess_scythe"	}						

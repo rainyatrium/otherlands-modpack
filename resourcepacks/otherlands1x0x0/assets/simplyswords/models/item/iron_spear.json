@@ -3,8 +3,8 @@
 	"parent": "javelin",
 	"texture_size": [24, 48],
 	"textures": {
-		"0": "custom/weapons/javelin",
-		"particle": "custom/weapons/javelin"
+		"0": "simplyswords:custom/iron_spear",
+		"particle": "simplyswords:custom/iron_spear"
 	},
 	"elements": [
 		{

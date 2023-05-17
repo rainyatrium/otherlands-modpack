@@ -3,8 +3,8 @@
 	"parent": "javelin",
 	"texture_size": [40, 36],
 	"textures": {
-		"0": "custom/weapons/waraxe",
-		"particle": "custom/weapons/waraxe"
+		"0": "simplyswords:custom/iron_waraxe",
+		"particle": "simplyswords:custom/iron_waraxe"
 	},
 	"elements": [
 		{

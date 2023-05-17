@@ -3,8 +3,8 @@
 	"parent": "halberd",
 	"texture_size": [24, 48],
 	"textures": {
-		"0": "simplyswords:custom/chess_scythe",
-		"particle": "simplyswords:custom/chess_scythe"
+		"0": "simplyswords:custom/iron_scythe",
+		"particle": "simplyswords:custom/iron_scythe"
 	},
 	"elements": [
 		{
@@ -76,12 +76,11 @@
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, 14, 0],
-			"scale": [1.2, 1.2, 1.2]
+			"translation": [0, -0.5, 0]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0, 14, 0],
-			"scale": [1.2, 1.2, 1.2]
+			"rotation": [0, 15, 0],
+			"translation": [0, 7, 0]
 		},
 		"firstperson_righthand": {
 			"rotation": [15, 15, -5]
@@ -102,7 +101,7 @@
 		"fixed": {
 			"rotation": [0, -90, 0],
 			"translation": [0, -18, -2],
-			"scale": [1.8, 1.8, 1.8]
+			"scale": [1.6, 1.6, 1.6]
 		}
 	}
 }

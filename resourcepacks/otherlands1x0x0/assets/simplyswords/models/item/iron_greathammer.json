@@ -3,8 +3,8 @@
 	"parent": "javelin",
 	"texture_size": [40, 36],
 	"textures": {
-		"0": "custom/weapons/warhammer",
-		"particle": "custom/weapons/warhammer"
+		"0": "simplyswords:custom/iron_warhammer",
+		"particle": "simplyswords:custom/iron_warhammer"
 	},
 	"elements": [
 		{

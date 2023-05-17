@@ -3,8 +3,8 @@
 	"parent": "mace",
 	"texture_size": [24, 24],
 	"textures": {
-		"0": "custom/weapons/mace",
-		"particle": "custom/weapons/mace"
+		"0": "simplyswords:custom/iron_sai",
+		"particle": "simplyswords:custom/iron_sai"
 	},
 	"elements": [
 		{
