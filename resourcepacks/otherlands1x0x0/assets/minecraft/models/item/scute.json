@@ -41,6 +41,8 @@
 		{ "predicate": { "custom_model_data": 54}, "model": "item/object/eggplant_ring" 				},
 		{ "predicate": { "custom_model_data": 55}, "model": "item/object/eggplant_jam" 				},
 		{ "predicate": { "custom_model_data": 56}, "model": "item/object/sawblade" 						},
+		{ "predicate": { "custom_model_data": 57}, "model": "item/object/red_ryder" 						},
+		{ "predicate": { "custom_model_data": 58}, "model": "item/object/red_ryder_box" 						},
 		{ "predicate": { "custom_model_data": 100}, "model": "item/monster/investigator" 				},
 		{ "predicate": { "custom_model_data": 101}, "model": "item/monster/cop_flashlight" 			},
 		{ "predicate": { "custom_model_data": 102}, "model": "item/monster/cop_desk" 					},
