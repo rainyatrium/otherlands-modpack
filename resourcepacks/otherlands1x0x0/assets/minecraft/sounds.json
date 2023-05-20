@@ -44,14 +44,17 @@
 	},
 				"otherlands.catalyst.whisper":{
 		"sounds": [
-			"otherlands/wynn/catalystwhisper"
+			"otherlands/wynn/catalystwhisper",
+			"otherlands/wynn/catalystwhisper1",
+			"otherlands/wynn/catalystwhisper2",
+			"otherlands/wynn/catalystwhisper3"
 		]
 	},
 			"otherlands.catalyst.static":{
 		"sounds": [
 			{
-			"name": "otherlands/catalyst/catalyststatic",
-			"stream": true
+			"name": "otherlands/catalyst/catalyststatic"
+
 			}
 		]
 	},
