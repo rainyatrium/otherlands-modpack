@@ -7,6 +7,30 @@
 			}
 		]
 	},
+	"otherlands.eos":{
+		"sounds": [
+			{
+			"name": "otherjams/eos",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.typhoon":{
+		"sounds": [
+			{
+			"name": "otherjams/typhoon",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.pc.klarkson.rocket":{
+		"sounds": [
+			{
+			"name": "otherjams/rocket",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.doom":{
 		"sounds": [
 			{

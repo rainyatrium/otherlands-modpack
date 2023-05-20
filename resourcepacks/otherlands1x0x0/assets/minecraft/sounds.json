@@ -9,6 +9,16 @@
 			"ambient/weather/thunder5"
 		]
 	},
+	"otherlands.real_thunder": {
+		"category": "weather",
+		"sounds": [
+			"otherlands/real_thunder1",
+			"otherlands/real_thunder2",
+			"otherlands/real_thunder3",
+			"otherlands/real_thunder4",
+			"otherlands/real_thunder5"
+		]
+	},
 	"otherlands.unwrap":{
 		"sounds": [
 			"otherlands/unwrap"
