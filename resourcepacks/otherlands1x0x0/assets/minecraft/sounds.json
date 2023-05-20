@@ -29,7 +29,7 @@
 			"otherlands/library/ticketmachine/voice1"
 		]
 	},
-		"otherlands.wynn.call":{
+		"otherlands.catalyst.wynncall":{
 		"sounds": [
 			"otherlands/wynn/wynn1",
 			"otherlands/wynn/wynn2",
@@ -37,14 +37,22 @@
 			"otherlands/wynn/wynn4"
 		]
 	},
-			"otherlands.wynn.leave":{
+			"otherlands.catalyst.wynnleave":{
 		"sounds": [
 			"otherlands/wynn/wynnleave"
 		]
 	},
-				"otherlands.wynn.whisper":{
+				"otherlands.catalyst.whisper":{
 		"sounds": [
 			"otherlands/wynn/catalystwhisper"
+		]
+	},
+			"otherlands.catalyst.static":{
+		"sounds": [
+			{
+			"name": "otherlands/catalyst/catalyststatic",
+			"stream": true
+			}
 		]
 	},
 	"otherlands.distant_splash":{
@@ -157,6 +165,14 @@
 		"sounds": [
 			{
 			"name": "otherlands/signals/engine",
+			"stream": true
+			}
+		]
+	},
+		"otherlands.signal.catalyst":{
+		"sounds": [
+			{
+			"name": "otherlands/signals/catalyst",
 			"stream": true
 			}
 		]
