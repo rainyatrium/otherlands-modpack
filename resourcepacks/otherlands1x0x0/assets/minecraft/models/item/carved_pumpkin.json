@@ -14,6 +14,8 @@
 		{ "predicate": { "custom_model_data": 13 }, "model": "item/cosmetic/pierrot_mask" 				},
 		{ "predicate": { "custom_model_data": 14 }, "model": "item/cosmetic/pierrot_tophat" 				},
 		{ "predicate": { "custom_model_data": 15 }, "model": "item/cosmetic/eggplant_crown" 			},
+		{ "predicate": { "custom_model_data": 16 }, "model": "item/cosmetic/spirit_mask" 					},
+		{ "predicate": { "custom_model_data": 17 }, "model": "item/cosmetic/spirit_mask_occlude" 		},
 		{ "predicate": { "custom_model_data": 2000 }, "model": "item/magic/start" 								},
 		{ "predicate": { "custom_model_data": 2001 }, "model": "item/magic/0" 									},
 		{ "predicate": { "custom_model_data": 2002 }, "model": "item/magic/1" 									},

@@ -15,6 +15,14 @@
 			}
 		]
 	},
+	"otherlands.casual_day":{
+		"sounds": [
+			{
+			"name": "otherjams/casual_day",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.typhoon":{
 		"sounds": [
 			{
