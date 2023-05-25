@@ -15,10 +15,34 @@
 			}
 		]
 	},
+	"otherlands.rocket_launch":{
+		"sounds": [
+			{
+			"name": "otherjams/rocket_launch",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.casual_day":{
+		"sounds": [
+			{
+			"name": "otherjams/casual_day",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.typhoon":{
 		"sounds": [
 			{
 			"name": "otherjams/typhoon",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.antiair":{
+		"sounds": [
+			{
+			"name": "otherjams/antiair",
 			"stream": true
 			}
 		]
