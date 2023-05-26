@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "custom/glovehand_scissors",
+		"particle": "custom/glovehand_scissors"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 0],
+			"to": [8, 15, 16],
+			"faces": {
+				"north": {"uv": [8, 8, 8, 15.5], "texture": "#0"},
+				"east": {"uv": [0, 8, 8, 15.5], "texture": "#0"},
+				"south": {"uv": [16, 8, 16, 15.5], "texture": "#0"},
+				"west": {"uv": [8, 8, 16, 15.5], "texture": "#0"},
+				"up": {"uv": [8, 8, 8, 0], "texture": "#0"},
+				"down": {"uv": [8, 0, 8, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, -4.5]
+		},
+		"gui": {
+			"rotation": [0, 90, 0]
+		}
+	}
+}
