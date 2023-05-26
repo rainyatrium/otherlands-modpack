@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "antiair_limb_piece",
+	"texture_size": [4, 50],
+	"textures": {
+		"0": "custom/end",
+		"particle": "custom/end"
+	},
+	"elements": [
+		{
+			"from": [7, 4, -16],
+			"to": [8, 5, 28],
+			"faces": {
+				"north": {"uv": [0, 15.36, 4, 15.69333], "texture": "#0"},
+				"east": {"uv": [4, 0, 8, 14.08], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [4, 15.36, 8, 15.69333], "texture": "#0"},
+				"west": {"uv": [12, 0, 16, 14.08], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 14.08], "texture": "#0"},
+				"down": {"uv": [8, 0, 12, 14.08], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [2, 9.25, -80],
+			"scale": [4, 4, 4]
+		}
+	}
+}

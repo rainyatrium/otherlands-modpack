@@ -24,6 +24,11 @@
 			"otherlands/unwrap"
 		]
 	},
+	"otherlands.rocket_launch":{
+		"sounds": [
+			"otherlands/rocket_launch"
+		]
+	},
 	"otherlands.ticketmachine":{
 		"sounds": [
 			"otherlands/library/ticketmachine/voice1"

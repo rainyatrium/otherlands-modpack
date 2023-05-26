@@ -4,6 +4,16 @@
 		"layer0": "item/blaze_rod"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/catalyst_bauble"}
+		{ "predicate": { "custom_model_data": 1 }, "model": "item/cosmetic/catalyst_bauble"},
+		{ "predicate": { "custom_model_data": 2 }, "model": "item/object/orrery_sun" 			},
+		{ "predicate": { "custom_model_data": 3 }, "model": "item/object/orrery_moon_0" 	},
+		{ "predicate": { "custom_model_data": 4 }, "model": "item/object/orrery_moon_1" 	},
+		{ "predicate": { "custom_model_data": 5 }, "model": "item/object/orrery_moon_2" 	},
+		{ "predicate": { "custom_model_data": 6 }, "model": "item/object/orrery_moon_3" 	},
+		{ "predicate": { "custom_model_data": 7 }, "model": "item/object/orrery_moon_4" 	},
+		{ "predicate": { "custom_model_data": 8 }, "model": "item/object/orrery_moon_5" 	},
+		{ "predicate": { "custom_model_data": 9 }, "model": "item/object/orrery_moon_6" 	},
+		{ "predicate": { "custom_model_data": 10 }, "model": "item/object/orrery_moon_7" 	},
+		{ "predicate": { "custom_model_data": 11 }, "model": "item/object/orrery_star" 		}
 	]
 }

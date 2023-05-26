@@ -15,7 +15,7 @@
 			}
 		]
 	},
-	"otherlands.rocket_launch":{
+	"otherlands.pc.klarkson.rocket_launch":{
 		"sounds": [
 			{
 			"name": "otherjams/rocket_launch",
