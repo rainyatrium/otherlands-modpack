@@ -47,6 +47,14 @@
 			}
 		]
 	},
+	"otherlands.antiair_down":{
+		"sounds": [
+			{
+			"name": "otherjams/antiair_down",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.pc.klarkson.rocket":{
 		"sounds": [
 			{
