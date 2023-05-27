@@ -41,6 +41,8 @@
 		{ "predicate": { "custom_model_data": 122}, "model": "item/cosmetic/wooden_figurines/weatherhead" 	},
 		{ "predicate": { "custom_model_data": 123}, "model": "item/cosmetic/wooden_figurines/sorcha" 		},
 		{ "predicate": { "custom_model_data": 124}, "model": "item/cosmetic/wooden_figurines/pierrot" 		},
-		{ "predicate": { "custom_model_data": 125}, "model": "item/cosmetic/wooden_figurines/sinister" 		}
+		{ "predicate": { "custom_model_data": 125}, "model": "item/cosmetic/wooden_figurines/sinister" 		},
+		{ "predicate": { "custom_model_data": 126}, "model": "item/cosmetic/wooden_figurines/jb" 				},
+		{ "predicate": { "custom_model_data": 127}, "model": "item/cosmetic/wooden_figurines/void" 			}
 	]
 }
