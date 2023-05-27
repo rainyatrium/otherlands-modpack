@@ -7,15 +7,7 @@
 			}
 		]
 	},
-	"otherlands.eos":{
-		"sounds": [
-			{
-			"name": "otherjams/eos",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.pc.klarkson.rocket_launch":{
+		"otherlands.pc.klarkson.rocket_launch":{
 		"sounds": [
 			{
 			"name": "otherjams/rocket_launch",
@@ -31,15 +23,7 @@
 			}
 		]
 	},
-	"otherlands.typhoon":{
-		"sounds": [
-			{
-			"name": "otherjams/typhoon",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.antiair":{
+		"otherlands.antiair":{
 		"sounds": [
 			{
 			"name": "otherjams/antiair",
@@ -51,6 +35,22 @@
 		"sounds": [
 			{
 			"name": "otherjams/antiair_down",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.eos":{
+		"sounds": [
+			{
+			"name": "otherjams/eos",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.typhoon":{
+		"sounds": [
+			{
+			"name": "otherjams/typhoon",
 			"stream": true
 			}
 		]
@@ -191,6 +191,14 @@
 			}
 		]
 	},
+		"otherlands.aftermath":{
+		"sounds": [
+			{
+			"name": "otherjams/ambient_Aftermath",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.spirit":{
 		"sounds": [
 			{
@@ -199,10 +207,18 @@
 			}
 		]
 	},
-	"otherlands.wynnsong":{
+	"otherlands.les_louves":{
 		"sounds": [
 			{
-			"name": "otherjams/wynnsong",
+			"name": "otherjams/les_louves",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.object_input":{
+		"sounds": [
+			{
+			"name": "otherjams/objectinput",
 			"stream": true
 			}
 		]
