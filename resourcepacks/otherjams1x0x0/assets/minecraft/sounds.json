@@ -7,38 +7,6 @@
 			}
 		]
 	},
-		"otherlands.pc.klarkson.rocket_launch":{
-		"sounds": [
-			{
-			"name": "otherjams/rocket_launch",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.casual_day":{
-		"sounds": [
-			{
-			"name": "otherjams/casual_day",
-			"stream": true
-			}
-		]
-	},
-		"otherlands.antiair":{
-		"sounds": [
-			{
-			"name": "otherjams/antiair",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.antiair_down":{
-		"sounds": [
-			{
-			"name": "otherjams/antiair_down",
-			"stream": true
-			}
-		]
-	},
 	"otherlands.eos":{
 		"sounds": [
 			{
@@ -55,34 +23,10 @@
 			}
 		]
 	},
-	"otherlands.pc.klarkson.rocket":{
-		"sounds": [
-			{
-			"name": "otherjams/rocket",
-			"stream": true
-			}
-		]
-	},
 	"otherlands.doom":{
 		"sounds": [
 			{
 			"name": "otherjams/doom",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.azurit":{
-		"sounds": [
-			{
-			"name": "otherjams/azurit",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.azurit_short":{
-		"sounds": [
-			{
-			"name": "otherjams/azurit_short",
 			"stream": true
 			}
 		]
