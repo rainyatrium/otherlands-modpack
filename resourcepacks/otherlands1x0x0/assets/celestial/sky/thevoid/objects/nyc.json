@@ -1,10 +1,10 @@
 {
 	"type": "skybox",
 	"skybox": {
-		"texture": "celestial:sky/thevoid/objects/hydrosky.png",
-		"uv_size": "256",
-		"texture_width": "768",
-		"texture_height": "512"
+		"texture": "celestial:sky/thevoid/objects/nyc2.png",
+		"uv_size": "100",
+		"texture_width": "300",
+		"texture_height": "200"
 		},
 	"rotation": {
 		"degrees_x": "#skyAngle + 90",

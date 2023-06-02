@@ -65,6 +65,7 @@
 		{ "predicate": { "custom_model_data": 110}, "model": "item/monster/mieranna" 					},
 		{ "predicate": { "custom_model_data": 111}, "model": "item/monster/kala" 							},
 		{ "predicate": { "custom_model_data": 112}, "model": "item/cosmetic/laptop" 							},
+		{ "predicate": { "custom_model_data": 113}, "model": "item/cosmetic/desktop" 							},
 		{ "predicate": { "custom_model_data": 150}, "model": "item/monster/aktine_providence_jaw" },
 		{ "predicate": { "custom_model_data": 151}, "model": "item/monster/aktine_providence_face_flap_left" 	},
 		{ "predicate": { "custom_model_data": 152}, "model": "item/monster/aktine_providence_face_flap_right" },
