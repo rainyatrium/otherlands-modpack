@@ -1,0 +1,41 @@
+{
+	"type": "skybox",
+	"skybox": {
+		"texture": "celestial:sky/thevoid/objects/hydrosky.png",
+		"uv_size": "256",
+		"texture_width": "768",
+		"texture_height": "512"
+		},
+	"rotation": {
+		"degrees_x": "#skyAngle + 90",
+		"degrees_y": "0",
+		"degrees_z": "0"
+	},
+	"properties": {
+		"alpha": "#isInBiome(otherlands:nyc)",
+		"is_solid": true
+	},
+	"populate": {
+		"count": 100,
+		"rotation": {
+			"min_degrees_x": 0,
+			"max_degrees_x": 360,
+			"min_degrees_y": 0,
+			"max_degrees_y": 360,
+			"min_degrees_z": 0,
+			"max_degrees_z": 360
+		},
+		"display": {
+			"min_scale": 40,
+			"max_scale": 500,
+			"min_pos_x": 0,
+			"max_pos_x": 0,
+			"min_pos_y": 0,
+			"max_pos_y": 0,
+			"min_pos_z": 0,
+			"max_pos_z": 0,
+			"min_distance": 10000,
+			"max_distance": 10000
+		}
+	}
+}
