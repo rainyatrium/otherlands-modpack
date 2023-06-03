@@ -63,6 +63,22 @@
 			}
 		]
 	},
+				"otherlands.catalyst.subway_arrive":{
+		"sounds": [
+			{
+			"name": "otherlands/catalyst/subway_arrive"
+
+			}
+		]
+	},
+	"otherlands.catalyst.subway_end":{
+		"sounds": [
+			{
+			"name": "otherlands/catalyst/subway_end"
+
+			}
+		]
+	},
 	"otherlands.distant_splash":{
 		"sounds": [
 			"otherlands/distant_splash"

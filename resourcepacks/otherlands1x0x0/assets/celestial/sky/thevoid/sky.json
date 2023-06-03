@@ -5,7 +5,8 @@
 		"dungeonsky",
 		"tombsky",
 		"hydrosky",
-		"nyc"
+		"nyc",
+		"emptysky"
 		],
 	"environment": {
 		"fog_color": {
