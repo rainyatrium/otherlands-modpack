@@ -24,6 +24,11 @@
 			"otherlands/unwrap"
 		]
 	},
+	"otherlands.door_chime":{
+		"sounds": [
+			"otherlands/door_chime"
+		]
+	},
 	"otherlands.ticketmachine":{
 		"sounds": [
 			"otherlands/library/ticketmachine/voice1"
