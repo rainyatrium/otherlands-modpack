@@ -96,10 +96,10 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, 3.5, 0]
+			"translation": [0, 9, 0]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0, 3.5, 0]
+			"translation": [0, 9, 0]
 		},
 		"firstperson_righthand": {
 			"rotation": [-95, 15, -5]

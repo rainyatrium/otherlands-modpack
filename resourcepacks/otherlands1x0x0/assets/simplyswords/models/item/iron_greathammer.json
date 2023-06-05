@@ -101,10 +101,10 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, 8, 0]
+			"translation": [0, 15, 0]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0, 8, 0]
+			"translation": [0, 15, 0]
 		},
 		"firstperson_righthand": {
 			"rotation": [10, 8, 0],
