@@ -3,8 +3,8 @@
 	"parent": "halberd",
 	"texture_size": [24, 48],
 	"textures": {
-		"0": "simplyswords:custom/iron_scythe",
-		"particle": "simplyswords:custom/iron_scythe"
+		"0": "simplyswords:custom/crazy_scythe",
+		"particle": "simplyswords:custom/crazy_scythe"
 	},
 	"elements": [
 		{
@@ -103,8 +103,5 @@
 			"translation": [0, -18, -2],
 			"scale": [1.6, 1.6, 1.6]
 		}
-	},
-	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/crazy_scythe" 			}
-	]
+	}
 }

@@ -31,6 +31,7 @@
 		{ "predicate": { "custom_model_data": 2011 }, "model": "item/magic/field_hurting" 					},
 		{ "predicate": { "custom_model_data": 2012 }, "model": "item/magic/magic_circle" 					},
 		{ "predicate": { "custom_model_data": 2013 }, "model": "item/magic/field_teleporting" 			},
+		{ "predicate": { "custom_model_data": 2014 }, "model": "item/cosmetic/sound_sword_resonate" 	},
 		{ "predicate": { "custom_model_data": 4000 }, "model": "item/object/atm_fan" 						},
 		{ "predicate": { "custom_model_data": 4001 }, "model": "item/object/atm_rod" 						},
 		{ "predicate": { "custom_model_data": 4002 }, "model": "item/object/corus_h" 						},

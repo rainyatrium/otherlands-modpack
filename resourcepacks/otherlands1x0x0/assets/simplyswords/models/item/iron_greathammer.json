@@ -128,5 +128,8 @@
 			"translation": [0, -8.25, 0],
 			"scale": [1.6, 1.6, 1.6]
 		}
-	}
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/boom_sword" 			}
+	]
 }

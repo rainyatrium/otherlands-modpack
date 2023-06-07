@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "otherlands:item/cooked_malted_wheat_seeds_2"
+  }
+}

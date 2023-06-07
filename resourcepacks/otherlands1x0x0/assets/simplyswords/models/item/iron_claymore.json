@@ -127,5 +127,8 @@
 			"translation": [0, -30.5, 0],
 			"scale": [1.6, 1.6, 1.6]
 		}
-	}
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/pc_ashdown" 			}
+	]
 }
