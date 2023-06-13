@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "otherlands:item/dried_malted_rye_seeds"
+  }
+}

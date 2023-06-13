@@ -9,6 +9,9 @@
 		{ "predicate": { "custom_model_data": 3}, "model": "item/cosmetic/bottle_wine_empty" 		},
 		{ "predicate": { "custom_model_data": 4}, "model": "item/cosmetic/bottle_vial_empty" 			},
 		{ "predicate": { "custom_model_data": 5}, "model": "item/cosmetic/bottle_warp_empty" 		},
-		{ "predicate": { "custom_model_data": 6}, "model": "item/cosmetic/bottle_vial_empty" 			}
+		{ "predicate": { "custom_model_data": 6}, "model": "item/cosmetic/bottle_vial_empty" 			},
+		{ "predicate": { "custom_model_data": 7}, "model": "item/cosmetic/bottle_stein_empty" 		},
+		{ "predicate": { "custom_model_data": 8}, "model": "item/cosmetic/bottle_mug_empty" 		},
+		{ "predicate": { "custom_model_data": 9}, "model": "item/cosmetic/bottle_shotglass_empty" }
 	]
 }

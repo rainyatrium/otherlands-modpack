@@ -15,6 +15,14 @@
 			}
 		]
 	},
+	"otherlands.void_pit":{
+		"sounds": [
+			{
+			"name": "otherjams/void_pit",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.typhoon":{
 		"sounds": [
 			{

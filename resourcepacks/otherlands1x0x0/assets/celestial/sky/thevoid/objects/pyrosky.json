@@ -1,7 +1,7 @@
 {
 	"type": "skybox",
 	"skybox": {
-		"texture": "celestial:sky/thevoid/objects/hydrosky.png",
+		"texture": "celestial:sky/thevoid/objects/pyrosky.png",
 		"uv_size": "256",
 		"texture_width": "768",
 		"texture_height": "512"
@@ -12,7 +12,7 @@
 		"degrees_z": "0"
 	},
 	"properties": {
-		"alpha": "#isInBiome(otherlands:hydro)",
+		"alpha": "#isInBiome(otherlands:pyro)",
 		"is_solid": true
 	},
 	"populate": {
