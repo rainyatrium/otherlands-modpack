@@ -53,6 +53,8 @@
 		{ "predicate": { "custom_model_data": 81}, "model": "item/object/glovehand_fist" 				},
 		{ "predicate": { "custom_model_data": 82}, "model": "item/object/glovehand_point" 			},
 		{ "predicate": { "custom_model_data": 83}, "model": "item/object/glovehand_scissors" 		},
+		{ "predicate": { "custom_model_data": 84}, "model": "item/object/topaz" 		},
+		{ "predicate": { "custom_model_data": 85}, "model": "item/object/cinnabar" 		},
 		{ "predicate": { "custom_model_data": 100}, "model": "item/monster/investigator" 				},
 		{ "predicate": { "custom_model_data": 101}, "model": "item/monster/cop_flashlight" 			},
 		{ "predicate": { "custom_model_data": 102}, "model": "item/monster/cop_desk" 					},
