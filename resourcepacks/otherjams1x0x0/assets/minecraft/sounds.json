@@ -47,14 +47,7 @@
 			}
 		]
 	},
-		"otherlands.podcast":{
-		"sounds": [
-			{
-			"name": "otherjams/lizziesfridgefade",
-			"stream": true
-			}
-		]
-	},
+
 	"otherlands.architect.phone":{
 		"sounds": [
 			{
@@ -83,14 +76,6 @@
 		"sounds": [
 			{
 			"name": "otherjams/ragtime",
-			"stream": true
-			}
-		]
-	},
-		"otherlands.youbelongwithme":{
-		"sounds": [
-			{
-			"name": "otherjams/youbelongwithme",
 			"stream": true
 			}
 		]
