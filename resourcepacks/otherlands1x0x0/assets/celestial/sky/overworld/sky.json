@@ -68,8 +68,8 @@
 		},
 		"fog": {
 			"has_thick_fog": false,
-			"fog_start": "(#fogStart) + (#valraven * ((-1 * (#fogStart))) + ((#renderDistance - 48)) - #renderDistance)",
-			"fog_end": "(#fogEnd) + (#valraven * ((-1 * #fogEnd)) + (#renderDistance - (20 * (#renderDistance / 100))))"
+			"fog_start": "#fogStart",
+			"fog_end": "#fogEnd"
 		},
 		"sky_darkness": "0"
 	}

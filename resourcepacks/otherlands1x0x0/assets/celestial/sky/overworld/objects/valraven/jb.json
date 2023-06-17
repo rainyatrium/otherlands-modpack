@@ -1,11 +1,11 @@
 {
 	"texture": "celestial:sky/overworld/objects/valraven/jb.png",
 	"display": {
-		"scale": "10",
+		"scale": "12",
 		"pos_x": "0",
 		"pos_y": "0",
 		"pos_z": "0",
-		"distance": "96"
+		"distance": "94"
 	},
 	"rotation": {
 		"degrees_x": "56",
