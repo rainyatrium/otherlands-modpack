@@ -1,6 +1,7 @@
 {
   "itemGroup.otherlands.otherlands_misc": "Otherlands Miscellaneous",
   "itemGroup.otherlands.otherlands_ancient": "Otherlands Ancient Blocks",
+  "subtitles.otherlands.electro_ambience": "Stars whispering",
   "subtitles.otherlands.weat": "Weat used",
   "subtitles.otherlands.nothing_generator.ambient": "Nothing Generator hums",
   "subtitles.otherlands.nothing_generator.beep": "Nothing Generator beeps",
@@ -235,7 +236,7 @@
   "translation.test.invalid2": "hi %  s",
   "translation.test.args": "%s %s",
   "translation.test.world": "world",
-  "menu.game": " :   ",
+  "menu.game": " : -   ",
   "menu.singleplayer": "Singleplayer",
   "menu.multiplayer": "Multiplayer",
   "menu.online": "Minecraft Realms",

@@ -7,7 +7,9 @@
 		"hydrosky",
 		"pyrosky",
 		"nyc",
-		"emptysky"
+		"emptysky",
+		"electrosky",
+		"dendrosky"
 		],
 	"environment": {
 		"fog_color": {

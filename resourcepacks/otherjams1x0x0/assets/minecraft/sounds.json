@@ -15,6 +15,31 @@
 			}
 		]
 	},
+	"otherlands.kristall_riviera":{
+		"sounds": [
+			{
+			"name": "otherjams/kristall_riviera",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.obscuro_doom":{
+		"sounds": [
+			{
+			"name": "otherjams/obscuro_doom",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.electro_ambience":{
+		"sounds": [
+			{
+			"name": "otherjams/electro_ambience",
+			"stream": true
+			}
+		],
+		"subtitle": "subtitles.otherlands.electro_ambience"
+	},
 	"otherlands.void_pit":{
 		"sounds": [
 			{

@@ -46,11 +46,11 @@
 		},
 		{
 			"name": "fogStart",
-			"value": "0"
+			"value": "40"
 		},
 		{
 			"name": "fogEnd",
-			"value": "40"
+			"value": "80"
 		},
 		{
 			"name": "isinVoid",
