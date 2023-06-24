@@ -46,11 +46,11 @@
 		},
 		{
 			"name": "fogStart",
-			"value": "40"
+			"value": "#renderDistance - (10 * (#renderDistance / 100))"
 		},
 		{
 			"name": "fogEnd",
-			"value": "80"
+			"value": "#renderDistance - (90 * (#renderDistance / 100))"
 		},
 		{
 			"name": "isinVoid",
