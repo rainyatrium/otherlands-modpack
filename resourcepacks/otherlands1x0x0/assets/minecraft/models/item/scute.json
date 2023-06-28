@@ -49,6 +49,7 @@
 		{ "predicate": { "custom_model_data": 61}, "model": "item/monster/antiair_limb_piece" 		},
 		{ "predicate": { "custom_model_data": 62}, "model": "item/monster/antiair_body" 				},
 		{ "predicate": { "custom_model_data": 63}, "model": "item/monster/antiair_mothership" 		},
+		{ "predicate": { "custom_model_data": 64}, "model": "item/object/cannon" 							},
 		{ "predicate": { "custom_model_data": 80}, "model": "item/object/glovehand_default" 			},
 		{ "predicate": { "custom_model_data": 81}, "model": "item/object/glovehand_fist" 				},
 		{ "predicate": { "custom_model_data": 82}, "model": "item/object/glovehand_point" 			},

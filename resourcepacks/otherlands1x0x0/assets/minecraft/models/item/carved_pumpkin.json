@@ -17,6 +17,8 @@
 		{ "predicate": { "custom_model_data": 16 }, "model": "item/cosmetic/spirit_mask" 					},
 		{ "predicate": { "custom_model_data": 17 }, "model": "item/cosmetic/spirit_mask_occlude" 		},
 		{ "predicate": { "custom_model_data": 18 }, "model": "item/magic/whirlpool" 							},
+		{ "predicate": { "custom_model_data": 19 }, "model": "item/cosmetic/robot_pirate_hat" 			},
+		{ "predicate": { "custom_model_data": 20 }, "model": "item/cosmetic/robot_sailor_hat" 			},
 		{ "predicate": { "custom_model_data": 2000 }, "model": "item/magic/start" 								},
 		{ "predicate": { "custom_model_data": 2001 }, "model": "item/magic/0" 									},
 		{ "predicate": { "custom_model_data": 2002 }, "model": "item/magic/1" 									},

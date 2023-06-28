@@ -10,7 +10,8 @@
 		"valraven/aura",
 		"valraven/valraven",
 		"voidskybox",
-		"valraven/jb"
+		"valraven/jb",
+		"blackeye"
 	],
 	"render_type": "normal",
 	"environment": {
