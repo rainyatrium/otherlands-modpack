@@ -7,6 +7,14 @@
 			}
 		]
 	},
+	"otherlands.blackeye.fight":{
+		"sounds": [
+			{
+			"name": "otherjams/blackeye/fight",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.eos":{
 		"sounds": [
 			{
@@ -101,14 +109,6 @@
 		"sounds": [
 			{
 			"name": "otherjams/ragtime",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.kalamazoo":{
-		"sounds": [
-			{
-			"name": "otherjams/kalamazoo",
 			"stream": true
 			}
 		]

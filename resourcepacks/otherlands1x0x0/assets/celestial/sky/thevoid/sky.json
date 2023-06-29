@@ -9,7 +9,8 @@
 		"nyc",
 		"emptysky",
 		"electrosky",
-		"dendrosky"
+		"dendrosky",
+		"blackeye"
 		],
 	"environment": {
 		"fog_color": {

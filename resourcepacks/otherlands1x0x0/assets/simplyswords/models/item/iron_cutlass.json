@@ -153,5 +153,8 @@
 			"translation": [0, -16, 0],
 			"scale": [1.6, 1.6, 1.6]
 		}
-	}
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "simplyswords:item/blackeye_cutlass"	}						
+	]
 }
