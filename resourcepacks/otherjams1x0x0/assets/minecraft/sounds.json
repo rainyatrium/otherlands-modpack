@@ -15,6 +15,22 @@
 			}
 		]
 	},
+	"otherlands.blackeye.ambient":{
+		"sounds": [
+			{
+			"name": "otherjams/blackeye/ambient",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.blackeye.intro":{
+		"sounds": [
+			{
+			"name": "otherjams/blackeye/intro",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.eos":{
 		"sounds": [
 			{
