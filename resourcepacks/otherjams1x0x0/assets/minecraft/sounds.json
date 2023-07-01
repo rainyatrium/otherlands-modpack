@@ -39,6 +39,14 @@
 			}
 		]
 	},
+	"otherlands.new_void":{
+		"sounds": [
+			{
+			"name": "otherjams/new_void",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.kristall_riviera":{
 		"sounds": [
 			{
