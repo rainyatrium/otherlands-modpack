@@ -1,0 +1,39 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "jbbeam",
+	"texture_size": [31, 31],
+	"textures": {
+		"0": "custom/jbbeam",
+		"particle": "custom/jbbeam"
+	},
+	"elements": [
+		{
+			"from": [-7.5, 0, -7.5],
+			"to": [23.5, 31, 23.5],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 15.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [-7.5, 0, -7.5],
+			"to": [23.5, 31, 23.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 15.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -11.25, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}

@@ -24,6 +24,11 @@
 			"otherlands/unwrap"
 		]
 	},
+	"otherlands.towncrierbell":{
+		"sounds": [
+			"otherlands/towncrierbell"
+		]
+	},
 	"otherlands.door_chime":{
 		"sounds": [
 			"otherlands/door_chime"
