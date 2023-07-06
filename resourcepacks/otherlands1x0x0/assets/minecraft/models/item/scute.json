@@ -88,9 +88,10 @@
 		{ "predicate": { "custom_model_data": 301}, "model": "item/cosmetic/archaical_lens_cap" 					},
 		{ "predicate": { "custom_model_data": 302}, "model": "item/cosmetic/archaical_lens_small_jungle_spot" },
 		{ "predicate": { "custom_model_data": 303}, "model": "item/cosmetic/wayfinder_inactive" 					},
-				{ "predicate": { "custom_model_data": 304}, "model": "item/cosmetic/wayfinder_active" 						},
+		{ "predicate": { "custom_model_data": 304}, "model": "item/cosmetic/wayfinder_active" 						},
 		{ "predicate": { "custom_model_data": 305}, "model": "item/cosmetic/thurible" 						},
 		{ "predicate": { "custom_model_data": 306}, "model": "item/cosmetic/sash" 						},
-		{ "predicate": { "custom_model_data": 307}, "model": "item/cosmetic/warded_lantern" 						}
+		{ "predicate": { "custom_model_data": 307}, "model": "item/cosmetic/warded_lantern" 						},
+		{ "predicate": { "custom_model_data": 308}, "model": "item/cosmetic/abases_crest" 						}
 	]
 }
