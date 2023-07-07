@@ -7,10 +7,26 @@
 			}
 		]
 	},
+	"otherlands.dexter_apartment":{
+		"sounds": [
+			{
+			"name": "otherjams/dexter_apartment",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.blackeye.fight":{
 		"sounds": [
 			{
 			"name": "otherjams/blackeye/fight",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.blackeye.boss":{
+		"sounds": [
+			{
+			"name": "otherjams/blackeye/boss",
 			"stream": true
 			}
 		]
