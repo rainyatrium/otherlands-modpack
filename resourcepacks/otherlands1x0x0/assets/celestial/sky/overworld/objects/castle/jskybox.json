@@ -1,0 +1,14 @@
+{
+	"type": "skybox",
+	"skybox": {
+		"texture": "celestial:sky/overworld/objects/castle/jskybox.png",
+		"uv_size": "16",
+		"texture_width": "48",
+		"texture_height": "32"
+		},
+	"properties": {
+		"has_moon_phases": false,
+		"alpha": "#castleProgress * (1 - (1 * #isInBiome(otherlands:void)))",
+		"is_solid": "false"
+	}
+}

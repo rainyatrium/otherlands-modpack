@@ -4,6 +4,10 @@
 			"name": "anglePalm",
 			"value": "radians((2762 - #zPos) / (2660 - #xPos)) * (180/#pi)"
 		},
+				{
+			"name": "lerpedSky",
+			"value": "#skyAngle"
+		},
 		{
 			"name": "moonOpacity",
 			"value": "(0.5) * #isinVoid"
@@ -55,7 +59,20 @@
 		{
 			"name": "isinVoid",
 			"value": "(1 - (1 * #isInBiome(otherlands:void)))"
+		},
+		{
+			"name": "castleProgress",
+			"value": "((#castleProgRaw - ((#getWorldTime>432992) * #castleProgRaw)) + (#getWorldTime>432992))"
+		},
+		{
+			"name": "castleProgRaw",
+			"value": "(((#getWorldTime<420992)*(#getWorldTime*(0.176/420992))) + ((#getWorldTime>420992)*(0.176 + (#getWorldTime - 420992)*(0.824/12000))))"
+		},
+				{
+			"name": "cloudOpacity",
+			"value": "(((#getWorldTime<420992)*(#getWorldTime*(0.005/420992))) + ((#getWorldTime>420992)*(0.005 + (#getWorldTime - 420992)*(0.1/12000))))"
 		}
+		
 	]
 }
 

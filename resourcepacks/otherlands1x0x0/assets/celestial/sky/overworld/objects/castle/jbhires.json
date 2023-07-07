@@ -1,0 +1,19 @@
+{
+	"texture": "celestial:sky/overworld/objects/castle/jbhires.png",
+	"display": {
+		"scale": "20 + (#castleProgress * 160)",
+		"pos_x": "0",
+		"pos_y": "0",
+		"pos_z": "10",
+		"distance": "100"
+	},
+	"rotation": {
+		"degrees_x": "56 - (#castleProgress * 46)",
+		"degrees_y": "0",
+		"degrees_z": "32 - (#castleProgress * 32)"
+	},
+	"properties": {
+		"has_moon_phases": false,
+		"alpha": "#castleProgress"
+	}
+}
