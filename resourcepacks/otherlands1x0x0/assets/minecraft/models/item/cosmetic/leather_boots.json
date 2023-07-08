@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer1": "custom/leather_boots_overlay",
+        "layer0": "custom/leather_boots"
+    }
+}
