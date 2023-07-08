@@ -95,6 +95,7 @@
 		{ "predicate": { "custom_model_data": 187}, "model": "item/monster/catalyst_shard_rock_spikes" 			},
 		{ "predicate": { "custom_model_data": 188}, "model": "item/monster/catalyst_shard_rock_orbital" 			},
 		{ "predicate": { "custom_model_data": 189}, "model": "item/monster/catalyst_shard_rock_smash" 			},
+		{ "predicate": { "custom_model_data": 190}, "model": "item/monster/catalyst_shard_spike" 					},
 		{ "predicate": { "custom_model_data": 200}, "model": "item/object/castle_chunk_a" 								},
 		{ "predicate": { "custom_model_data": 201}, "model": "item/object/castle_chunk_b" 								},
 		{ "predicate": { "custom_model_data": 202}, "model": "item/object/castle_chunk_c" 								},

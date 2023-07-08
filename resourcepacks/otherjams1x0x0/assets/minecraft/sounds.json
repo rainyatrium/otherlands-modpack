@@ -23,6 +23,14 @@
 			}
 		]
 	},
+	"otherlands.blackeye.escape":{
+		"sounds": [
+			{
+			"name": "otherjams/blackeye/escape",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.blackeye.boss":{
 		"sounds": [
 			{
