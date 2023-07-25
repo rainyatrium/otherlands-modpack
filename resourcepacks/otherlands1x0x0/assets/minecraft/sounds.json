@@ -1,22 +1,12 @@
 {
-	"ambient.weather.thunder": {
+	"otherlands.thunder": {
 		"category": "weather",
 		"sounds": [
-			"ambient/weather/thunder1",
-			"ambient/weather/thunder2",
-			"ambient/weather/thunder3",
-			"ambient/weather/thunder4",
-			"ambient/weather/thunder5"
-		]
-	},
-	"otherlands.real_thunder": {
-		"category": "weather",
-		"sounds": [
-			"otherlands/real_thunder1",
-			"otherlands/real_thunder2",
-			"otherlands/real_thunder3",
-			"otherlands/real_thunder4",
-			"otherlands/real_thunder5"
+			"otherlands/thunder1",
+			"otherlands/thunder2",
+			"otherlands/thunder3",
+			"otherlands/thunder4",
+			"otherlands/thunder5"
 		]
 	},
 	"otherlands.unwrap":{

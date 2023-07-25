@@ -130,6 +130,7 @@
 		}
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/boom_sword" 			}
+		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/boom_sword" 			},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/kanabo" 					}
 	]
 }

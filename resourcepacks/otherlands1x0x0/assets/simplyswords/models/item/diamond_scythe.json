@@ -105,6 +105,7 @@
 		}
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "simplyswords:item/chess_scythe"	}						
+		{ "predicate": { "custom_model_data": 1}, "model": "simplyswords:item/chess_scythe"	},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/odachi" 			}		
 	]
 }

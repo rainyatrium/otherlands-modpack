@@ -21,40 +21,59 @@
 		"weight": 10
       },
 	  {
-        "model": "minecraft:block/grass_block_wet_0",
+        "model": "minecraft:block/grass_block_dry_0",
 		"weight": 1
       },
       {
-        "model": "minecraft:block/grass_block_wet_0",
+        "model": "minecraft:block/grass_block_dry_0",
         "y": 90,
 		"weight": 1
       },
       {
-        "model": "minecraft:block/grass_block_wet_0",
+        "model": "minecraft:block/grass_block_dry_0",
         "y": 180,
 		"weight": 1
       },
       {
-        "model": "minecraft:block/grass_block_wet_0",
+        "model": "minecraft:block/grass_block_dry_0",
         "y": 270,
 		"weight": 1
       },
 	  {
-        "model": "minecraft:block/grass_block_wet_1",
+        "model": "minecraft:block/grass_block_dry_1",
 		"weight": 1
       },
       {
-        "model": "minecraft:block/grass_block_wet_1",
+        "model": "minecraft:block/grass_block_dry_1",
         "y": 90,
 		"weight": 1
       },
       {
-        "model": "minecraft:block/grass_block_wet_1",
+        "model": "minecraft:block/grass_block_dry_1",
         "y": 180,
 		"weight": 1
       },
       {
-        "model": "minecraft:block/grass_block_wet_1",
+        "model": "minecraft:block/grass_block_dry_1",
+        "y": 270,
+		"weight": 1
+      },
+	  {
+        "model": "minecraft:block/grass_block_dry_2",
+		"weight": 1
+      },
+      {
+        "model": "minecraft:block/grass_block_dry_2",
+        "y": 90,
+		"weight": 1
+      },
+      {
+        "model": "minecraft:block/grass_block_dry_2",
+        "y": 180,
+		"weight": 1
+      },
+      {
+        "model": "minecraft:block/grass_block_dry_2",
         "y": 270,
 		"weight": 1
       }

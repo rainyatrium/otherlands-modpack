@@ -39,6 +39,7 @@
 		{ "predicate": { "custom_model_data": 34}, "model": "item/cooking/food/vanilla_pudding"			},
 		{ "predicate": { "custom_model_data": 35}, "model": "item/cooking/food/texas_toast"					},
 		{ "predicate": { "custom_model_data": 36}, "model": "item/cooking/food/emergency_leather"		},
-		{ "predicate": { "custom_model_data": 37}, "model": "item/cooking/food/dolmades"					}
+		{ "predicate": { "custom_model_data": 37}, "model": "item/cooking/food/dolmades"					},
+		{ "predicate": { "custom_model_data": 38}, "model": "item/cooking/food/dango"							}
 	]
 }

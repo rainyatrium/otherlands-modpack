@@ -136,5 +136,8 @@
 			"translation": [0, -1.75, -1],
 			"scale": [1.6, 1.6, 1.6]
 		}
-	}
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/tanto" 			}
+	]
 }
