@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "otherlands:block/alabaster_tile",
+    "north": "otherlands:block/alabaster_pillar",
+    "south": "otherlands:block/alabaster_pillar",
+    "east": "otherlands:block/alabaster_pillar",
+    "west": "otherlands:block/alabaster_pillar",
+    "up": "otherlands:block/alabaster_gravel",
+    "down": "otherlands:block/alabaster_gravel"
+  }
+}

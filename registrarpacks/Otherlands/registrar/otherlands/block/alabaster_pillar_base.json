@@ -1,0 +1,11 @@
+{
+  "$schema": "https://schema.amogus-sa.ga/mc-registar/block.schema.json",
+  "title": "Alabaster Bricks", 
+  "type": "basic",
+  "material": "minecraft:stone",
+  "soundType": "minecraft:glass",
+  "destroyTime":  2,
+  "explosionResistance":  3600000,
+  "dustColor": "ffffff",
+  "creativeTab": "otherlands:otherlands"
+}

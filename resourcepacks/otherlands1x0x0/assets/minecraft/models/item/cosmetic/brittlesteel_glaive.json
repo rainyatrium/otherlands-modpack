@@ -1,0 +1,109 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 34],
+	"textures": {
+		"1": "custom/brittlesteel_glaive"
+	},
+	"elements": [
+		{
+			"name": "blade",
+			"from": [8, 18, 6],
+			"to": [8, 32, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 26, 8]},
+			"faces": {
+				"north": {"uv": [15.5, 10, 15.5, 16], "texture": "#1"},
+				"east": {"uv": [7.5, 0, 9.5, 7.05882], "texture": "#1"},
+				"south": {"uv": [16, 10, 16, 16], "texture": "#1"},
+				"west": {"uv": [5, 0, 7, 7.05882], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 1.5], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 1.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "handle",
+			"from": [7, -16, 7],
+			"to": [9, 18, 9],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 12, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 16], "texture": "#1"},
+				"east": {"uv": [3, 0, 4, 16], "texture": "#1"},
+				"south": {"uv": [2, 0, 3, 16], "texture": "#1"},
+				"west": {"uv": [1, 0, 2, 16], "texture": "#1"},
+				"up": {"uv": [4, 1, 5, 2], "texture": "#1"},
+				"down": {"uv": [4, 0, 5, 1], "texture": "#1"}
+			}
+		},
+		{
+			"name": "hilt thing",
+			"from": [5, 18, 5],
+			"to": [11, 18, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -2, 0]},
+			"faces": {
+				"north": {"uv": [14, 14.5, 16, 14.5], "texture": "#1"},
+				"east": {"uv": [14, 15, 16, 15], "texture": "#1"},
+				"south": {"uv": [14, 15.5, 16, 15.5], "texture": "#1"},
+				"west": {"uv": [14, 16, 16, 16], "texture": "#1"},
+				"up": {"uv": [13, 2.82353, 16, 5.64706], "texture": "#1"},
+				"down": {"uv": [13, 0, 16, 2.82353], "texture": "#1"}
+			}
+		},
+		{
+			"name": "the bit",
+			"from": [6.5, 9, 6.5],
+			"to": [9.5, 11, 9.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, -1, 8]},
+			"faces": {
+				"north": {"uv": [10, 11.29412, 11.5, 12.23529], "texture": "#1"},
+				"east": {"uv": [11.5, 11.29412, 13, 12.23529], "texture": "#1"},
+				"south": {"uv": [14.5, 11.29412, 16, 12.23529], "texture": "#1"},
+				"west": {"uv": [13, 11.29412, 14.5, 12.23529], "texture": "#1"},
+				"up": {"uv": [13, 12.23529, 14.5, 13.64706], "texture": "#1"},
+				"down": {"uv": [14.5, 12.23529, 16, 13.64706], "texture": "#1"}
+			}
+		},
+		{
+			"name": "the bit",
+			"from": [6.5, -16, 6.5],
+			"to": [9.5, -14, 9.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, -1, 8]},
+			"faces": {
+				"north": {"uv": [10, 11.29412, 11.5, 12.23529], "texture": "#1"},
+				"east": {"uv": [11.5, 11.29412, 13, 12.23529], "texture": "#1"},
+				"south": {"uv": [14.5, 11.29412, 16, 12.23529], "texture": "#1"},
+				"west": {"uv": [13, 11.29412, 14.5, 12.23529], "texture": "#1"},
+				"up": {"uv": [13, 12.23529, 14.5, 13.64706], "texture": "#1"},
+				"down": {"uv": [14.5, 12.23529, 16, 13.64706], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 10, -0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 10, -0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [12, -15, 0],
+			"translation": [0, 11, 0.75],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"rotation": [180, 31, 6],
+			"translation": [0, 9, 0]
+		},
+		"gui": {
+			"rotation": [47, -13, 39],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		0,
+		{
+			"name": "grippin space",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [1, 2, 3, 4]
+		}
+	]
+}
