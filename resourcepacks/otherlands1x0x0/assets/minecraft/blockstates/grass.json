@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/grass",
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/grass_b",
+		"weight": 1
+      },
+      {
+        "model": "minecraft:block/grass_c",
+		"weight": 1
+      }
+    ]
+  }
+}

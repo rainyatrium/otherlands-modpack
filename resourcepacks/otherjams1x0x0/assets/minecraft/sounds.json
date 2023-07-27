@@ -193,10 +193,10 @@
 			}
 		]
 	},
-	"otherlands.ending_mild":{
+	"otherlands.ending":{
 		"sounds": [
 			{
-			"name": "otherjams/ending_mild",
+			"name": "otherjams/ending",
 			"stream": true
 			}
 		]
