@@ -15,50 +15,10 @@
 			}
 		]
 	},
-	"otherlands.blackeye.fight":{
+	"otherlands.music_potion":{
 		"sounds": [
 			{
-			"name": "otherjams/blackeye/fight",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.blackeye.boss":{
-		"sounds": [
-			{
-			"name": "otherjams/blackeye/boss",
-			"stream": true
-			}
-		]
-	},
-		"otherlands.blackeye.escape":{
-		"sounds": [
-			{
-			"name": "otherjams/blackeye/escape",
-			"stream": true
-			}
-		]
-	},
-		"otherlands.blackeye.temple":{
-		"sounds": [
-			{
-			"name": "otherjams/blackeye/temple",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.blackeye.ambient":{
-		"sounds": [
-			{
-			"name": "otherjams/blackeye/ambient",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.blackeye.intro":{
-		"sounds": [
-			{
-			"name": "otherjams/blackeye/intro",
+			"name": "otherjams/music_potion",
 			"stream": true
 			}
 		]
@@ -112,31 +72,6 @@
 			}
 		]
 	},
-	"otherlands.typhoon":{
-		"sounds": [
-			{
-			"name": "otherjams/typhoon",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.doom":{
-		"sounds": [
-			{
-			"name": "otherjams/doom",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.ansible":{
-		"sounds": [
-			{
-			"name": "otherjams/ansible",
-			"stream": true
-			}
-		]
-	},
-
 	"otherlands.architect.phone":{
 		"sounds": [
 			{
@@ -169,10 +104,34 @@
 			}
 		]
 	},
-	"otherlands.jim_button":{
+	"otherlands.castle.jim_button":{
 		"sounds": [
 			{
-			"name": "otherjams/jim_button",
+			"name": "otherjams/castle/jim_button",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.tractor_beam":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/tractor_beam",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.jungle_farm_bottom":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/jungle_farm_bottom",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.jungle_farm":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/jungle_farm",
 			"stream": true
 			}
 		]

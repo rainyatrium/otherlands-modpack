@@ -14,6 +14,11 @@
 			"otherlands/unwrap"
 		]
 	},
+	"otherlands.cicadas":{
+		"sounds": [
+			"otherlands/cicadas"
+		]
+	},
 	"otherlands.towncrierbell":{
 		"sounds": [
 			"otherlands/towncrierbell"
@@ -306,14 +311,14 @@
 			"otherlands/valraven/warp"
 		]
 	},
-	"otherlands.button_crying":{
+	"otherlands.castle.jim_crying":{
 		"sounds": [
-			"otherlands/jim_button/crying"
+			"otherlands/castle/crying"
 		]
 	},
-	"otherlands.button_voice":{
+	"otherlands.castle.jim_voice":{
 		"sounds": [
-			"otherlands/jim_button/talk"
+			"otherlands/castle/talk"
 		]
 	},
 	"otherlands.clownface_laugh":{
@@ -322,10 +327,22 @@
 			"otherlands/clownface_laugh_1"
 		]
 	},
-	"otherlands.button_laugh":{
+	"otherlands.castle.jim_laugh":{
 		"sounds": [
-			"otherlands/jim_button/laugh_0",
-			"otherlands/jim_button/laugh_1"
+			"otherlands/castle/laugh_0",
+			"otherlands/castle/laugh_1"
+		]
+	},
+	"otherlands.castle.glitch_thunder":{
+		"sounds": [
+			"otherlands/castle/glitch_thunder_0",
+			"otherlands/castle/glitch_thunder_1"
+		]
+	},
+	"otherlands.castle.glitch_thunder_distant":{
+		"sounds": [
+			"otherlands/castle/glitch_thunder_distant_0",
+			"otherlands/castle/glitch_thunder_distant_1"
 		]
 	},
 	"otherlands.cooking.food_hit_pan":{
