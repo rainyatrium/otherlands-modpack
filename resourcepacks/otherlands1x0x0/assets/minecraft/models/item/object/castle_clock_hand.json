@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "otherlands:block/alabaster_clock_face_arrow"
+	},
+	"display": {
+		"head": {
+			"translation": [0, -4.5, 13],
+			"scale": [3, 3, 3]
+		}
+	}
+}

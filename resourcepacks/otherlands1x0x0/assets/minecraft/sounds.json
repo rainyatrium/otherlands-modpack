@@ -321,6 +321,18 @@
 			"otherlands/castle/talk"
 		]
 	},
+	"otherlands.castle.bell_ring":{
+		"sounds": [
+			"otherlands/castle/bell_ring"
+		],
+		"subtitle": "subtitles.otherlands.castle.bell_ring"
+	},
+	"otherlands.castle.bell_ring_distant":{
+		"sounds": [
+			"otherlands/castle/bell_ring_distant"
+		],
+		"subtitle": "subtitles.otherlands.castle.bell_ring"
+	},
 	"otherlands.clownface_laugh":{
 		"sounds": [
 			"otherlands/clownface_laugh_0",

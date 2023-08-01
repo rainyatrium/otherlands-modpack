@@ -112,6 +112,14 @@
 			}
 		]
 	},
+	"otherlands.castle.nightmare_cycle":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/nightmare_cycle",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.castle.tractor_beam":{
 		"sounds": [
 			{
