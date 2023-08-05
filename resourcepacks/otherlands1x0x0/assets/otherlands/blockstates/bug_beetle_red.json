@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	  {
+        "model": "otherlands:block/bug_beetle_red"
+      },
+      {
+        "model": "otherlands:block/bug_beetle_red",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/bug_beetle_red",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/bug_beetle_red",
+		"y": 270
+      }
+    ]
+  }
+}

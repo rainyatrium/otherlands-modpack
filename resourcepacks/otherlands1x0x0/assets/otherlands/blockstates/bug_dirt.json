@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	  {
+        "model": "otherlands:block/bug_dirt"
+      },
+      {
+        "model": "otherlands:block/bug_dirt",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/bug_dirt",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/bug_dirt",
+		"y": 270
+      }
+    ]
+  }
+}

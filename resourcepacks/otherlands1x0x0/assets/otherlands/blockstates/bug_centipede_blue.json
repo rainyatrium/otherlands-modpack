@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	  {
+        "model": "otherlands:block/bug_centipede_blue"
+      },
+      {
+        "model": "otherlands:block/bug_centipede_blue",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/bug_centipede_blue",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/bug_centipede_blue",
+		"y": 270
+      }
+    ]
+  }
+}
