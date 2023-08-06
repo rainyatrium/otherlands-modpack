@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "otherlands:block/sandalwood_leaves"
+  }
+}

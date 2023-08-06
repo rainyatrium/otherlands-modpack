@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	  {
+        "model": "otherlands:block/aloe_vera"
+      },
+      {
+        "model": "otherlands:block/aloe_vera",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/aloe_vera",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/aloe_vera",
+		"y": 270
+      }
+    ]
+  }
+}

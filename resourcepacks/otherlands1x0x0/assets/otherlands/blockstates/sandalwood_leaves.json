@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	  {
+        "model": "otherlands:block/sandalwood_leaves"
+      },
+      {
+        "model": "otherlands:block/sandalwood_leaves",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/sandalwood_leaves",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/sandalwood_leaves",
+		"y": 270
+      }
+    ]
+  }
+}

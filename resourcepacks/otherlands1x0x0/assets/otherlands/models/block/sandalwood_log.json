@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "otherlands:block/sandalwood_log_top",
+    "side": "otherlands:block/sandalwood_log"
+  }
+}
