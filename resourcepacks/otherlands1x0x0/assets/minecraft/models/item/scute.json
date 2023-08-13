@@ -114,6 +114,11 @@
 		{ "predicate": { "custom_model_data": 306}, "model": "item/cosmetic/sash" 										},
 		{ "predicate": { "custom_model_data": 307}, "model": "item/cosmetic/warded_lantern" 						},
 		{ "predicate": { "custom_model_data": 308}, "model": "item/cosmetic/abases_crest" 							},
-		{ "predicate": { "custom_model_data": 309}, "model": "item/object/castle_clock_hand" 							}
+		{ "predicate": { "custom_model_data": 309}, "model": "item/object/castle_clock_hand" 							},
+		{ "predicate": { "custom_model_data": 310}, "model": "item/monster/dendro_striped" 							},
+		{ "predicate": { "custom_model_data": 311}, "model": "item/monster/dendro_checkered" 					},
+		{ "predicate": { "custom_model_data": 312}, "model": "item/monster/dendro_blue_mask" 					},
+		{ "predicate": { "custom_model_data": 313}, "model": "item/monster/dendro_red_mask" 						},
+		{ "predicate": { "custom_model_data": 314}, "model": "item/monster/dendro_purple_mask" 					}
 	]
 }
