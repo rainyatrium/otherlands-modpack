@@ -53,6 +53,7 @@
 		{ "predicate": { "custom_model_data": 4015 }, "model": "item/object/distillery_wire" 				},
 		{ "predicate": { "custom_model_data": 4016 }, "model": "item/object/ancient_sliding_door" 		},
 		{ "predicate": { "custom_model_data": 4017 }, "model": "item/object/ancient_sliding_door_sideways" },
-		{ "predicate": { "custom_model_data": 4018 }, "model": "item/cosmetic/maraudermask" 		}
+		{ "predicate": { "custom_model_data": 4018 }, "model": "item/cosmetic/maraudermask" 		},
+		{ "predicate": { "custom_model_data": 4019 }, "model": "item/cosmetic/marksman_mask" 		}
 	]
 }
