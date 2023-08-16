@@ -1,0 +1,34 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"texture_size": [16, 24],
+	"textures": {
+		"layer0": "item/obscuro_shield"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [45, -15, 0],
+			"scale": [0.9, 1.2, 1.2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, -15, 0],
+			"scale": [0.9, 1.2, 1.2]
+		},
+		"firstperson_righthand": {
+			"translation": [-0.5, 0, 1.25],
+			"scale": [0.9, 1.2, 1.2]
+		},
+		"firstperson_lefthand": {
+			"translation": [-0.5, 0, 1.25],
+			"scale": [0.9, 1.2, 1.2]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [-25, 170, 0],
+			"scale": [0.8, 1, 0.8]
+		}
+	}
+}
