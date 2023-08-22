@@ -9,8 +9,9 @@ customization-meta {
 }
 
 customization {
-  path = resources/curtainsmall.png
-  action = texturizebackground
+  restart_on_load = false
+  name = curtainflicker
+  action = animatebackground
 }
 
 customization {
