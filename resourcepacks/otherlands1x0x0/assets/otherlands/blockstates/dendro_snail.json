@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	  {
+        "model": "otherlands:block/dendro_snail"
+      },
+      {
+        "model": "otherlands:block/dendro_snail",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/dendro_snail",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/dendro_snail",
+		"y": 270
+      }
+    ]
+  }
+}

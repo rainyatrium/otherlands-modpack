@@ -231,6 +231,11 @@
 			"otherlands/boing"
 		]
 	},
+	"otherlands.boing_fail":{
+		"sounds": [
+			"otherlands/boing_fail"
+		]
+	},
 	"otherlands.void_explosion_begin":{
 		"sounds": [
 			"otherlands/void_explosion_begin"

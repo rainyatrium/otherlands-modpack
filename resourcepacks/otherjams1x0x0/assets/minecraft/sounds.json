@@ -55,6 +55,14 @@
 			}
 		]
 	},
+	"otherlands.ile":{
+		"sounds": [
+			{
+			"name": "otherjams/ile",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.obscuro_doom":{
 		"sounds": [
 			{
