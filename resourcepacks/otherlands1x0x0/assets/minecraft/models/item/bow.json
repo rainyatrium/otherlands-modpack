@@ -42,6 +42,10 @@
 		{ "predicate": { "custom_model_data": 4 }, "model": "item/cosmetic/blunderbuss" },
 		{ "predicate": { "custom_model_data": 4, "pulling": 1, "pull": 0.1}, "model": "item/cosmetic/blunderbuss_load" },
 		{ "predicate": { "custom_model_data": 4, "pulling": 1, "pull": 1}, "model": "item/cosmetic/blunderbuss" },
-		{ "predicate": { "custom_model_data": 4, "charged": 1}, "model": "item/cosmetic/blunderbuss" }
+		{ "predicate": { "custom_model_data": 4, "charged": 1}, "model": "item/cosmetic/blunderbuss" },
+		{"predicate": { "custom_model_data": 5 },"model": "item/cosmetic/yumi" },
+		{"predicate": { "custom_model_data": 5,"pulling": 1 },"model": "item/cosmetic/yumi_pulling_0"},
+        {"predicate": { "custom_model_data": 5,"pulling": 1,"pull": 0.65 },"model": "item/cosmetic/yumi_pulling_1"},
+        {"predicate": { "custom_model_data": 5,"pulling": 1,"pull": 0.9 },"model": "item/cosmetic/yumi_pulling_2"}
     ]
 }
