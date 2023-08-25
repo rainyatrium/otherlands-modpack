@@ -5,6 +5,7 @@
   },
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/pc_ashdown" },
-		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/soldierhammer" }
+		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/soldierhammer" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/cosmetic/wrought_shorthammer" }
 	]
 }
