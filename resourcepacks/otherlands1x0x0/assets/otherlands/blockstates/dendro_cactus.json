@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "": [
+	  {
+        "model": "otherlands:block/dendro_cactus_a"
+      },
+      {
+        "model": "otherlands:block/dendro_cactus_a",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/dendro_cactus_a",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/dendro_cactus_a",
+		"y": 270
+      },
+	  {
+        "model": "otherlands:block/dendro_cactus_b"
+      },
+      {
+        "model": "otherlands:block/dendro_cactus_b",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/dendro_cactus_b",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/dendro_cactus_b",
+		"y": 270
+      }
+    ]
+  }
+}

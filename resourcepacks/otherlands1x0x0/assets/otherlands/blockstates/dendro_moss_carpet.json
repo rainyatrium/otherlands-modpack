@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	  {
+        "model": "otherlands:block/dendro_moss_carpet"
+      },
+      {
+        "model": "otherlands:block/dendro_moss_carpet",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/dendro_moss_carpet",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/dendro_moss_carpet",
+		"y": 270
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "variants": {
+    "": [
+	  {
+        "model": "otherlands:block/dendro_low_shrubs_a"
+      },
+      {
+        "model": "otherlands:block/dendro_low_shrubs_a",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/dendro_low_shrubs_a",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/dendro_low_shrubs_a",
+		"y": 270
+      },
+	  {
+        "model": "otherlands:block/dendro_low_shrubs_b"
+      },
+      {
+        "model": "otherlands:block/dendro_low_shrubs_b",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/dendro_low_shrubs_b",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/dendro_low_shrubs_b",
+		"y": 270
+      },
+	  {
+        "model": "otherlands:block/dendro_low_shrubs_c"
+      },
+      {
+        "model": "otherlands:block/dendro_low_shrubs_c",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/dendro_low_shrubs_c",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/dendro_low_shrubs_c",
+		"y": 270
+      }
+    ]
+  }
+}

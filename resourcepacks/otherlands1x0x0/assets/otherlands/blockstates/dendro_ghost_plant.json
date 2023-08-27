@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	  {
+        "model": "otherlands:block/dendro_ghost_plant"
+      },
+      {
+        "model": "otherlands:block/dendro_ghost_plant",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/dendro_ghost_plant",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/dendro_ghost_plant",
+		"y": 270
+      }
+    ]
+  }
+}
