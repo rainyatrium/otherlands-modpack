@@ -9,6 +9,27 @@
 			"otherlands/thunder5"
 		]
 	},
+	"otherlands.sleep.outside":{
+		"sounds": [
+			{
+			"name": "otherlands/sleep_mono"
+			}
+		]
+	},
+	"otherlands.sleep.inside":{
+		"sounds": [
+			{
+			"name": "otherlands/sleep_stereo"
+			}
+		]
+	},
+	"otherlands.snail_world":{
+		"sounds": [
+			{
+			"name": "otherlands/snail_world"
+			}
+		]
+	},
 	"otherlands.unwrap":{
 		"sounds": [
 			"otherlands/unwrap"

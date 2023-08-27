@@ -11,7 +11,8 @@
 		"emptysky",
 		"electrosky",
 		"dendrosky",
-		"blackeye"
+		"blackeye",
+		"snailsky"
 		],
 	"environment": {
 		"fog_color": {
