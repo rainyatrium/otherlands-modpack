@@ -1,0 +1,11 @@
+{
+  "$schema": "https://schema.amogus-sa.ga/mc-registar/block.schema.json",
+ "title": "Pneumalithopoeia", 
+ "type": "basic",
+  "material": "minecraft:metal",
+  "soundType": "minecraft:metal",
+  "destroyTime":  2,
+  "explosionResistance":  1,
+  "dustColor": "ffffff",
+  "creativeTab": "otherlands:otherlands"
+}

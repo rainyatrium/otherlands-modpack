@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "otherlands:block/pneumalithopoeia_top",
+    "north": "otherlands:block/pneumalithopoeia_side",
+    "south": "otherlands:block/pneumalithopoeia_side",
+    "east": "otherlands:block/pneumalithopoeia_side",
+    "west": "otherlands:block/pneumalithopoeia_side",
+    "up": "otherlands:block/pneumalithopoeia_top",
+    "down": "otherlands:block/pneumalithopoeia_bottom"
+  }
+}
