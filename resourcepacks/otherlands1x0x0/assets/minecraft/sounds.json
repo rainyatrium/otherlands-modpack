@@ -30,6 +30,189 @@
 			}
 		]
 	},
+	"otherlands.void.etude_pour_piano":{
+		"sounds": [
+			{
+			"name": "otherlands/void/etude_pour_piano",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.beep.0":{
+		"sounds": [
+			"otherlands/beeps/0"
+		]
+	},
+	"otherlands.beep.1":{
+		"sounds": [
+			"otherlands/beeps/1"
+		]
+	},
+	"otherlands.beep.2":{
+		"sounds": [
+			"otherlands/beeps/2"
+		]
+	},
+	"otherlands.beep.3":{
+		"sounds": [
+			"otherlands/beeps/3"
+		]
+	},
+	"otherlands.beep.4":{
+		"sounds": [
+			"otherlands/beeps/4"
+		]
+	},
+	"otherlands.beep.5":{
+		"sounds": [
+			"otherlands/beeps/5"
+		]
+	},
+	"otherlands.beep.6":{
+		"sounds": [
+			"otherlands/beeps/6"
+		]
+	},
+	"otherlands.beep.7":{
+		"sounds": [
+			"otherlands/beeps/7"
+		]
+	},
+	"otherlands.beep.8":{
+		"sounds": [
+			"otherlands/beeps/8"
+		]
+	},
+	"otherlands.beep.9":{
+		"sounds": [
+			"otherlands/beeps/9"
+		]
+	},
+	"otherlands.beep.10":{
+		"sounds": [
+			"otherlands/beeps/10"
+		]
+	},
+	"otherlands.beep.11":{
+		"sounds": [
+			"otherlands/beeps/11"
+		]
+	},
+	"otherlands.beep.12":{
+		"sounds": [
+			"otherlands/beeps/12"
+		]
+	},
+	"otherlands.beep.13":{
+		"sounds": [
+			"otherlands/beeps/13"
+		]
+	},
+	"otherlands.beep.14":{
+		"sounds": [
+			"otherlands/beeps/14"
+		]
+	},
+	"otherlands.beep.15":{
+		"sounds": [
+			"otherlands/beeps/15"
+		]
+	},
+	"otherlands.beep.16":{
+		"sounds": [
+			"otherlands/beeps/16"
+		]
+	},
+	"otherlands.beep.17":{
+		"sounds": [
+			"otherlands/beeps/17"
+		]
+	},
+	"otherlands.beep.18":{
+		"sounds": [
+			"otherlands/beeps/18"
+		]
+	},
+	"otherlands.beep.19":{
+		"sounds": [
+			"otherlands/beeps/19"
+		]
+	},
+	"otherlands.beep.20":{
+		"sounds": [
+			"otherlands/beeps/20"
+		]
+	},
+	"otherlands.beep.21":{
+		"sounds": [
+			"otherlands/beeps/21"
+		]
+	},
+	"otherlands.beep.22":{
+		"sounds": [
+			"otherlands/beeps/22"
+		]
+	},
+	"otherlands.beep.23":{
+		"sounds": [
+			"otherlands/beeps/23"
+		]
+	},
+	"otherlands.beep.24":{
+		"sounds": [
+			"otherlands/beeps/24"
+		]
+	},
+	"otherlands.beep.25":{
+		"sounds": [
+			"otherlands/beeps/25"
+		]
+	},
+	"otherlands.beep.26":{
+		"sounds": [
+			"otherlands/beeps/26"
+		]
+	},
+	"otherlands.beep.27":{
+		"sounds": [
+			"otherlands/beeps/27"
+		]
+	},
+	"otherlands.beep.28":{
+		"sounds": [
+			"otherlands/beeps/28"
+		]
+	},
+	"otherlands.beep.29":{
+		"sounds": [
+			"otherlands/beeps/29"
+		]
+	},
+	"otherlands.beep.dark_tone.0":{
+		"sounds": [
+			"otherlands/beeps/dark_tone_0"
+		]
+	},
+	"otherlands.beep.dark_tone.1":{
+		"sounds": [
+			"otherlands/beeps/dark_tone_1"
+		]
+	},
+	"otherlands.beep.dark_tone.2":{
+		"sounds": [
+			"otherlands/beeps/dark_tone_2"
+		]
+	},
+	"otherlands.beep.dark_tone.3":{
+		"sounds": [
+			"otherlands/beeps/dark_tone_3"
+		]
+	},
+	"otherlands.beep.dark_tone.4":{
+		"sounds": [
+			"otherlands/beeps/dark_tone_4"
+		]
+	},
 	"otherlands.unwrap":{
 		"sounds": [
 			"otherlands/unwrap"
