@@ -128,6 +128,62 @@
 			}
 		]
 	},
+	"otherlands.castle.pierrot":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/pierrot",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.pierrot.ambience":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/pierrot_ambience",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.roekoe":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/roekoe",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.brighella":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/brighella",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.engine":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/engine",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.botany_lab":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/botany_lab",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.void_lab":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/void_lab",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.castle.nightmare_cycle":{
 		"sounds": [
 			{

@@ -596,6 +596,12 @@
 		],
 		"subtitle": "subtitles.otherlands.nothing_generator.ambient"
 	},
+	"otherlands.castle.engine_ambience":{
+		"sounds": [
+			"otherlands/nothing_generator/amb_1",
+			"otherlands/nothing_generator/amb_2"
+		]
+	},
 	"otherlands.nothing_generator.on":{
 		"sounds": [
 			"otherlands/nothing_generator/on"

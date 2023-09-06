@@ -1,7 +1,33 @@
 {
   "variants": {
-    "": {
-      "model": "otherlands:block/castle_rock"
-    }
+    "": [
+	  {
+        "model": "otherlands:block/castle_rock"
+      },
+      {
+        "model": "otherlands:block/castle_rock",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/castle_rock",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/castle_rock",
+		"y": 270
+      },
+	  {
+        "model": "otherlands:block/castle_rock",
+		"x": 90
+      },
+	  {
+        "model": "otherlands:block/castle_rock",
+		"x": 180
+      },
+	  {
+        "model": "otherlands:block/castle_rock",
+		"x": 270
+      }
+    ]
   }
 }
