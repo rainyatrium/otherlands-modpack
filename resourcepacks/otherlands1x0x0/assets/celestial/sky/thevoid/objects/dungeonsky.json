@@ -12,7 +12,7 @@
 		"degrees_z": "0"
 	},
 	"properties": {
-		"alpha": "#isInBiome(otherlands:great_dungeon)",
+		"alpha": "(#isInBiome(otherlands:great_dungeon) | #isInBiome(otherlands:pierrot) | #isInBiome(otherlands:great_dungeon_exterior))",
 		"is_solid": true
 	},
 	"populate": {

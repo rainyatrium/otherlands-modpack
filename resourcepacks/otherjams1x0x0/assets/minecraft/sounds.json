@@ -136,6 +136,14 @@
 			}
 		]
 	},
+	"otherlands.castle.archive_ambience":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/archive_ambience",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.castle.pierrot.ambience":{
 		"sounds": [
 			{

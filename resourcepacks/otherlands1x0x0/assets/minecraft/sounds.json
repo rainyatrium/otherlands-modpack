@@ -525,6 +525,22 @@
 			"otherlands/castle/crying"
 		]
 	},
+	"otherlands.castle.exterior_ambient":{
+		"sounds": [
+			{
+			"name": "otherlands/castle/exterior_ambient",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.exterior_additions":{
+		"sounds": [
+			"otherlands/castle/exterior_additions_a",
+			"otherlands/castle/exterior_additions_b",
+			"otherlands/castle/exterior_additions_c",
+			"otherlands/castle/exterior_additions_d"
+		]
+	},
 	"otherlands.castle.jim_voice":{
 		"sounds": [
 			"otherlands/castle/talk"

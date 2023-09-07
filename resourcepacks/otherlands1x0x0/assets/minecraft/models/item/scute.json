@@ -106,6 +106,7 @@
 		{ "predicate": { "custom_model_data": 203}, "model": "item/object/castle_chunk_d" 								},
 		{ "predicate": { "custom_model_data": 204}, "model": "item/object/castle_chunk_e" 								},
 		{ "predicate": { "custom_model_data": 205}, "model": "item/object/castle_chunk_f" 								},
+		{ "predicate": { "custom_model_data": 206}, "model": "item/object/castle_engine_spinner" 					},
 		{ "predicate": { "custom_model_data": 300}, "model": "item/cosmetic/archaical_lens_empty" 				},
 		{ "predicate": { "custom_model_data": 301}, "model": "item/cosmetic/archaical_lens_cap" 					},
 		{ "predicate": { "custom_model_data": 302}, "model": "item/cosmetic/archaical_lens_small_jungle_spot" },
