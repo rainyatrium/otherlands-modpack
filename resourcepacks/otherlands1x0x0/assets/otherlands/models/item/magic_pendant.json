@@ -1,0 +1,15 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/eye_of_ender"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/magic/pendant_blank" 			},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/magic/pendant_hydro" 			},
+		{ "predicate": { "custom_model_data": 3}, "model": "item/magic/pendant_pyro" 				},
+		{ "predicate": { "custom_model_data": 4}, "model": "item/magic/pendant_obscuro" 		},
+		{ "predicate": { "custom_model_data": 5}, "model": "item/magic/pendant_electro" 			},
+		{ "predicate": { "custom_model_data": 6}, "model": "item/magic/pendant_dendro" 			},
+		{ "predicate": { "custom_model_data": 7}, "model": "item/magic/pendant_cyto" 			}
+	]
+}

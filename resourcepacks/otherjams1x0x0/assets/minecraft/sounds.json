@@ -128,6 +128,22 @@
 			}
 		]
 	},
+	"otherlands.castle.void_lab_ambience":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/void_lab_ambience",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.great_hall":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/great_hall",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.castle.pierrot":{
 		"sounds": [
 			{
