@@ -38,6 +38,27 @@
 			}
 		]
 	},
+	"otherlands.tractor_beam.core_is_open":{
+		"sounds": [
+			{
+			"name": "otherlands/castle/tractor_beam_core_is_open"
+			}
+		]
+	},
+	"otherlands.tractor_beam.get_out":{
+		"sounds": [
+			{
+			"name": "otherlands/castle/tractor_beam_get_out"
+			}
+		]
+	},
+	"otherlands.tractor_beam.im_dead":{
+		"sounds": [
+			{
+			"name": "otherlands/castle/tractor_beam_im_dead"
+			}
+		]
+	},
 	"otherlands.beep.0":{
 		"sounds": [
 			"otherlands/beeps/0"

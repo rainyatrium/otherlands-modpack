@@ -128,6 +128,22 @@
 			}
 		]
 	},
+	"otherlands.castle.tractor_beam.phase_1":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/tractor_beam_phase_1",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.tractor_beam.phase_2":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/tractor_beam_phase_2",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.castle.void_lab_ambience":{
 		"sounds": [
 			{

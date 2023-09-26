@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "castle_tractor_beam_base",
+	"texture_size": [66, 34],
+	"textures": {
+		"0": "custom/tractor_base",
+		"particle": "custom/tractor_base"
+	},
+	"elements": [
+		{
+			"name": "shooter",
+			"from": [7, 1.5, 6.5],
+			"to": [10, 4.5, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 3, 8]},
+			"faces": {
+				"north": {"uv": [13.81818, 1.41176, 14.54545, 2.82353], "texture": "#0"},
+				"east": {"uv": [13.09091, 1.41176, 13.81818, 2.82353], "texture": "#0"},
+				"south": {"uv": [15.27273, 1.41176, 16, 2.82353], "texture": "#0"},
+				"west": {"uv": [14.54545, 1.41176, 15.27273, 2.82353], "texture": "#0"},
+				"up": {"uv": [14.54545, 1.41176, 13.81818, 0], "texture": "#0"},
+				"down": {"uv": [15.27273, 0, 14.54545, 1.41176], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 45, 0],
+			"translation": [-0.5, 0, 0.3]
+		}
+	}
+}

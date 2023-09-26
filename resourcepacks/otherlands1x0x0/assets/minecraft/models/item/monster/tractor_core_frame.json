@@ -1,0 +1,44 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "castle_tractor_beam_base",
+	"texture_size": [66, 34],
+	"textures": {
+		"0": "custom/tractor_base",
+		"particle": "custom/tractor_base"
+	},
+	"elements": [
+		{
+			"name": "shooter",
+			"from": [7, -2, 7],
+			"to": [9, 2, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.5, 8]},
+			"faces": {
+				"north": {"uv": [10.18182, 10.82353, 10.66667, 12.70588], "texture": "#0"},
+				"east": {"uv": [9.69697, 10.82353, 10.18182, 12.70588], "texture": "#0"},
+				"south": {"uv": [11.15152, 10.82353, 11.63636, 12.70588], "texture": "#0"},
+				"west": {"uv": [10.66667, 10.82353, 11.15152, 12.70588], "texture": "#0"},
+				"up": {"uv": [10.66667, 10.82353, 10.18182, 9.88235], "texture": "#0"},
+				"down": {"uv": [11.15152, 9.88235, 10.66667, 10.82353], "texture": "#0"}
+			}
+		},
+		{
+			"name": "shooter",
+			"from": [7, -7, 7],
+			"to": [9, -6, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.5, 8]},
+			"faces": {
+				"north": {"uv": [2.42424, 4.2353, 2.90909, 4.70588], "texture": "#0"},
+				"east": {"uv": [1.93939, 4.2353, 2.42424, 4.70588], "texture": "#0"},
+				"south": {"uv": [3.39394, 4.2353, 3.87878, 4.70588], "texture": "#0"},
+				"west": {"uv": [2.90909, 4.2353, 3.39394, 4.70588], "texture": "#0"},
+				"up": {"uv": [2.90909, 4.2353, 2.42424, 3.29412], "texture": "#0"},
+				"down": {"uv": [3.39394, 3.29412, 2.90909, 4.2353], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 3.25, 0]
+		}
+	}
+}
