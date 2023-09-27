@@ -1,0 +1,10 @@
+{
+  "$schema": "https://schema.amogus-sa.ga/mc-registar/block.schema.json",
+  "type": "basic",
+  "material": "minecraft:wood",
+  "soundType": "minecraft:wood",
+  "destroyTime":  2,
+  "explosionResistance":  2,
+  "dustColor": "ffffff",
+  "creativeTab": "otherlands:otherlands"
+}
