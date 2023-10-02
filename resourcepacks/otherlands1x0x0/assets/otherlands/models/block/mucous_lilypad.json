@@ -1,0 +1,50 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 16],
+	"textures": {
+		"0": "otherlands:block/mucous_lilypad",
+		"particle": "otherlands:block/mucous_lilypad"
+	},
+	"elements": [
+		{
+			"from": [0, 0.1, 0],
+			"to": [16, 0.1, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"down": {"uv": [8, 0, 0, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0.1, 0],
+			"to": [16, 3.1, 0],
+			"faces": {
+				"north": {"uv": [8, 0, 16, 3], "texture": "#0"},
+				"south": {"uv": [16, 0, 8, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0.1, 16],
+			"to": [16, 3.1, 16],
+			"faces": {
+				"north": {"uv": [8, 6, 16, 9], "texture": "#0"},
+				"south": {"uv": [16, 6, 8, 9], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0.1, 0],
+			"to": [0, 3.1, 16],
+			"faces": {
+				"east": {"uv": [8, 9, 16, 12], "texture": "#0"},
+				"west": {"uv": [16, 9, 8, 12], "texture": "#0"}
+			}
+		},
+		{
+			"from": [16, 0.1, 0],
+			"to": [16, 3.1, 16],
+			"faces": {
+				"east": {"uv": [8, 3, 16, 6], "texture": "#0"},
+				"west": {"uv": [16, 3, 8, 6], "texture": "#0"}
+			}
+		}
+	]
+}

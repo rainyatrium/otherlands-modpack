@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	  {
+        "model": "otherlands:block/stormlight"
+      },
+      {
+        "model": "otherlands:block/stormlight",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/stormlight",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/stormlight",
+		"y": 270
+      }
+    ]
+  }
+}

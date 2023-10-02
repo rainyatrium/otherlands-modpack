@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	  {
+        "model": "otherlands:block/mucous_lilypad"
+      },
+      {
+        "model": "otherlands:block/mucous_lilypad",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/mucous_lilypad",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/mucous_lilypad",
+		"y": 270
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	  {
+        "model": "otherlands:block/banshee_flower"
+      },
+      {
+        "model": "otherlands:block/banshee_flower",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/banshee_flower",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/banshee_flower",
+		"y": 270
+      }
+    ]
+  }
+}

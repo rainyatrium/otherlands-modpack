@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	  {
+        "model": "otherlands:block/puff_devil"
+      },
+      {
+        "model": "otherlands:block/puff_devil",
+		"y": 90
+      },
+      {
+        "model": "otherlands:block/puff_devil",
+		"y": 180
+      },
+      {
+        "model": "otherlands:block/puff_devil",
+		"y": 270
+      }
+    ]
+  }
+}

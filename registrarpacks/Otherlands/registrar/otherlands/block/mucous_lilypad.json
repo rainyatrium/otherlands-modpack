@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schema.amogus-sa.ga/mc-registar/block.schema.json",
+ "type": "basic",
+  "material": "minecraft:plant",
+  "soundType": "minecraft:grass",
+  "destroyTime":  0,
+  "explosionResistance":  0,
+  "dustColor": "ffffff",
+  "noOcclusion": true,
+  "layer": "minecraft:cutout",
+  "collisionShape": [0.0, 0.0, 0.0, 16.0, 1.0, 16.0],
+  "creativeTab": "otherlands:otherlands"
+}
