@@ -127,6 +127,7 @@
 		{ "predicate": { "custom_model_data": 311}, "model": "item/monster/dendro_checkered" 					},
 		{ "predicate": { "custom_model_data": 312}, "model": "item/monster/dendro_blue_mask" 					},
 		{ "predicate": { "custom_model_data": 313}, "model": "item/monster/dendro_red_mask" 						},
-		{ "predicate": { "custom_model_data": 314}, "model": "item/monster/dendro_purple_mask" 					}
+		{ "predicate": { "custom_model_data": 314}, "model": "item/monster/dendro_purple_mask" 					},
+		{ "predicate": { "custom_model_data": 315}, "model": "item/cosmetic/keystone" 					}
 	]
 }
