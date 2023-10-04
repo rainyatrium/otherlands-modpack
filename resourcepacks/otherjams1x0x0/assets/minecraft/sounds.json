@@ -15,10 +15,18 @@
 			}
 		]
 	},
-	"otherlands.sinister":{
+	"otherlands.sinister_happy":{
 		"sounds": [
 			{
-			"name": "otherjams/sinister",
+			"name": "otherjams/sinister_happy",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.sinister_scary":{
+		"sounds": [
+			{
+			"name": "otherjams/sinister_scary",
 			"stream": true
 			}
 		]
