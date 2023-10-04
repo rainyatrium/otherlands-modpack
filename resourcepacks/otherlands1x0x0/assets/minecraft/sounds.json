@@ -38,6 +38,14 @@
 			}
 		]
 	},
+	"otherlands.void.concerto_des_ambiguites":{
+		"sounds": [
+			{
+			"name": "otherlands/void/concerto_des_ambiguites",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.tractor_beam.core_is_open":{
 		"sounds": [
 			{
