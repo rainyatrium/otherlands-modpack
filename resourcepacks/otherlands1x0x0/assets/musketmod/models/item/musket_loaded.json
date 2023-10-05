@@ -179,8 +179,8 @@
 			"translation": [-1, 7.5, -8.5]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [-70, -90, -80],
-			"translation": [0.5, 7.5, -8]
+			"rotation": [-94, 90, -80],
+			"translation": [-0.5, -5, 14.5]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 85, -5],
