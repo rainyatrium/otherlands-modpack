@@ -41,26 +41,18 @@
 }
 },
 "overrides":
-[
-{"predicate": {"pulling": 1}, "model": "item/crossbow_pulling_0"},
-{"predicate": {"pulling": 1, "pull": 0.58}, "model": "item/crossbow_pulling_1"},
-{"predicate": {"pulling": 1, "pull": 1.0}, "model": "item/crossbow_pulling_2"},
-{"predicate": {"charged": 1}, "model": "item/crossbow_arrow"},
-{"predicate": {"charged": 1, "firework": 1}, "model": "item/crossbow_firework"},
+	[
+	{"predicate": {"pulling": 1}, "model": "item/crossbow_pulling_0"},
+	{"predicate": {"pulling": 1, "pull": 0.58}, "model": "item/crossbow_pulling_1"},
+	{"predicate": {"pulling": 1, "pull": 1.0}, "model": "item/crossbow_pulling_2"},
+	{"predicate": {"charged": 1}, "model": "item/crossbow_arrow"},
+	{"predicate": {"charged": 1, "firework": 1}, "model": "item/crossbow_firework"},
 
-{"predicate": {"custom_model_data":1}, "model": "cosmetic/ancient_rifle"},
-{"predicate": {"custom_model_data":1,"pulling": 1}, "model": "cosmetic/ancient_rifle"},
-{"predicate": {"custom_model_data":1, "pulling": 1, "pull":  0.58}, "model": "cosmetic/ancient_rifle"},
-{"predicate": {"custom_model_data":1, "pulling": 1, "pull": 1.0}, "model": "cosmetic/ancient_rifle"},
-{"predicate": {"custom_model_data":1, "charged": 1}, "model": "cosmetic/ancient_rifle"},
-{"predicate": {"custom_model_data":1, "charged": 1, "firework": 1}, "model": "cosmetic/ancient_rifle"},
-
-{"predicate": {"custom_model_data":2}, "model": "item/crossbow/2_standby"},
-{"predicate": {"custom_model_data":2,"pulling": 1}, "model": "item/crossbow/2_pulling_0"},
-{"predicate": {"custom_model_data":2, "pulling": 1, "pull":  0.58}, "model": "item/crossbow/2_pulling_1"},
-{"predicate": {"custom_model_data":2, "pulling": 1, "pull": 1.0}, "model": "item/crossbow/2_pulling_2"},
-{"predicate": {"custom_model_data":2, "charged": 1}, "model": "item/crossbow/2_arrow"},
-{"predicate": {"custom_model_data":2, "charged": 1, "firework": 1}, "model": "item/crossbow/2_firework"}
-
-]
+	{"predicate": {"custom_model_data":1}, "model": "item/cosmetic/ancient_rifle"},
+	{"predicate": {"custom_model_data":1,"pulling": 1}, "model": "item/cosmetic/ancient_rifle"},
+	{"predicate": {"custom_model_data":1, "pulling": 1, "pull":  0.58}, "model": "item/cosmetic/ancient_rifle"},
+	{"predicate": {"custom_model_data":1, "pulling": 1, "pull": 1.0}, "model": "item/cosmetic/ancient_rifle"},
+	{"predicate": {"custom_model_data":1, "charged": 1}, "model": "item/cosmetic/ancient_rifle"},
+	{"predicate": {"custom_model_data":1, "charged": 1, "firework": 1}, "model": "item/cosmetic/ancient_rifle"}
+	]
 }

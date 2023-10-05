@@ -144,7 +144,7 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 180, 0],
-			"translation": [-9.75, 7.5, 0]
+			"translation": [-3, 7.5, 0]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, 180, 0],
