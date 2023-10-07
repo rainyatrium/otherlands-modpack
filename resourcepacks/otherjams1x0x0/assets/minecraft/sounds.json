@@ -15,6 +15,30 @@
 			}
 		]
 	},
+	"otherlands.void.etude_pour_piano":{
+		"sounds": [
+			{
+			"name": "otherjams/void/etude_pour_piano",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.void.concerto_des_ambiguites":{
+		"sounds": [
+			{
+			"name": "otherjams/void/concerto_des_ambiguites",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.void.flute_mexicaine":{
+		"sounds": [
+			{
+			"name": "otherjams/void/flute_mexicaine",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.sinister_happy":{
 		"sounds": [
 			{
@@ -132,6 +156,14 @@
 		"sounds": [
 			{
 			"name": "otherjams/castle/jim_button",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.active":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/active",
 			"stream": true
 			}
 		]

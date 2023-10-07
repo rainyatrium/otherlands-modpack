@@ -30,22 +30,6 @@
 			}
 		]
 	},
-	"otherlands.void.etude_pour_piano":{
-		"sounds": [
-			{
-			"name": "otherlands/void/etude_pour_piano",
-			"stream": true
-			}
-		]
-	},
-	"otherlands.void.concerto_des_ambiguites":{
-		"sounds": [
-			{
-			"name": "otherlands/void/concerto_des_ambiguites",
-			"stream": true
-			}
-		]
-	},
 	"otherlands.tractor_beam.core_is_open":{
 		"sounds": [
 			{
