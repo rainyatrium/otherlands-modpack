@@ -120,14 +120,6 @@
 			}
 		]
 	},
-	"otherlands.architect.phone":{
-		"sounds": [
-			{
-			"name": "music/game/chrysopoeia",
-			"stream": true
-			}
-		]
-	},
 	"otherlands.season_intro":{
 		"sounds": [
 			{

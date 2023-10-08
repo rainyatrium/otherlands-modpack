@@ -528,6 +528,14 @@
 			"otherlands/architect/architect_hangup"
 		]
 	},
+	"otherlands.architect.phone":{
+		"sounds": [
+			{
+			"name": "otherlands/architect/architect_phone",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.valraven.warp":{
 		"sounds": [
 			"otherlands/valraven/warp"
