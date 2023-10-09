@@ -64,6 +64,14 @@
 		  {
 			"name": "music/game/piano3",
 			"stream": true
+		  },
+		  {
+			"name": "music/game/yuki",
+			"stream": true
+		  },
+		  {
+			"name": "music/game/constructing_the_toadstool_rocket",
+			"stream": true
 		  }
 		]
 	  },
@@ -407,6 +415,14 @@
 			}
 		]
 	},
+	"otherlands.bar":{
+		"sounds": [
+			{
+			"name": "otherjams/bar",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.rain":{
 		"sounds": [
 			{
@@ -611,6 +627,22 @@
 		"sounds": [
 			{
 			"name": "music/game/one_more_day",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.music.yuki":{
+		"sounds": [
+			{
+			"name": "music/game/yuki",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.music.constructing_the_toadstool_rocket":{
+		"sounds": [
+			{
+			"name": "music/game/constructing_the_toadstool_rocket",
 			"stream": true
 			}
 		]

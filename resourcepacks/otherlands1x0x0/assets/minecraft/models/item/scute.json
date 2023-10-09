@@ -128,6 +128,10 @@
 		{ "predicate": { "custom_model_data": 312}, "model": "item/monster/dendro_blue_mask" 					},
 		{ "predicate": { "custom_model_data": 313}, "model": "item/monster/dendro_red_mask" 						},
 		{ "predicate": { "custom_model_data": 314}, "model": "item/monster/dendro_purple_mask" 					},
-		{ "predicate": { "custom_model_data": 315}, "model": "item/cosmetic/keystone" 					}
+		{ "predicate": { "custom_model_data": 315}, "model": "item/cosmetic/keystone" 									},
+		{ "predicate": { "custom_model_data": 316}, "model": "item/cosmetic/bottle_of_arlecchino" 					},
+		{ "predicate": { "custom_model_data": 317}, "model": "item/cosmetic/bottle_of_arlecchino_empty" 		},
+		{ "predicate": { "custom_model_data": 318}, "model": "item/cosmetic/cane_sword" 								},
+		{ "predicate": { "custom_model_data": 319}, "model": "item/cosmetic/breathing_bubble" 						}
 	]
 }
