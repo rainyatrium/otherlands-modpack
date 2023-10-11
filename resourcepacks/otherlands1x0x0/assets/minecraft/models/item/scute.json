@@ -132,6 +132,7 @@
 		{ "predicate": { "custom_model_data": 316}, "model": "item/cosmetic/bottle_of_arlecchino" 					},
 		{ "predicate": { "custom_model_data": 317}, "model": "item/cosmetic/bottle_of_arlecchino_empty" 		},
 		{ "predicate": { "custom_model_data": 318}, "model": "item/cosmetic/cane_sword" 								},
-		{ "predicate": { "custom_model_data": 319}, "model": "item/cosmetic/breathing_bubble" 						}
+		{ "predicate": { "custom_model_data": 319}, "model": "item/cosmetic/breathing_bubble" 						},
+		{ "predicate": { "custom_model_data": 320}, "model": "item/cosmetic/thermal_cube" 							}
 	]
 }
