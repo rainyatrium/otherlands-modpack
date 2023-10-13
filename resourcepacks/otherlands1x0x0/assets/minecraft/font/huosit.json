@@ -2,8 +2,8 @@
     "providers": [
         {
             "type": "ttf",
-            "file": "minecraft:demonjournal.ttf",
-            "shift": [0, 1],
+            "file": "minecraft:huosit.ttf",
+            "shift": [0, -3],
             "size": 24.0,
             "oversample": 16.0
         }
