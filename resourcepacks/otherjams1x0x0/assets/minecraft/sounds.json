@@ -102,6 +102,14 @@
 			}
 		]
 	},
+	"otherlands.afterlife":{
+		"sounds": [
+			{
+			"name": "otherjams/afterlife",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.dexter_apartment":{
 		"sounds": [
 			{

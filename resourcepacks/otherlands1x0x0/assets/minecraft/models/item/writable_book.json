@@ -22,6 +22,7 @@
 		{ "predicate": { "custom_model_data": 16}, "model": "item/cosmetic/book_void" 			},
 		{ "predicate": { "custom_model_data": 17}, "model": "item/cosmetic/book_black" 		},
 		{ "predicate": { "custom_model_data": 18}, "model": "item/cosmetic/book_tpscroll" 		},
-		{ "predicate": { "custom_model_data": 19}, "model": "item/cosmetic/book_ancient_papyrus" 		}
+		{ "predicate": { "custom_model_data": 19}, "model": "item/cosmetic/book_ancient_papyrus" 		},
+		{ "predicate": { "custom_model_data": 20}, "model": "item/cosmetic/book_huosit" 		}
 	]
 }
