@@ -158,6 +158,14 @@
 			}
 		]
 	},
+	"otherlands.nokor_thom":{
+		"sounds": [
+			{
+			"name": "otherjams/nokor_thom",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.music_potion":{
 		"sounds": [
 			{
