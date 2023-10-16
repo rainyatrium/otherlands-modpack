@@ -1,0 +1,71 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [48, 48],
+	"textures": {
+		"0": "simplyswords:custom/blockbench models/ancient_glaive",
+		"particle": "simplyswords:custom/blockbench models/ancient_glaive"
+	},
+	"elements": [
+		{
+			"name": "the stick to grab",
+			"from": [7, -15, 7],
+			"to": [9, 11, 9],
+			"faces": {
+				"north": {"uv": [0.66667, 0.66667, 1.33333, 9.33333], "texture": "#0"},
+				"east": {"uv": [0, 0.66667, 0.66667, 9.33333], "texture": "#0"},
+				"south": {"uv": [2, 0.66667, 2.66667, 9.33333], "texture": "#0"},
+				"west": {"uv": [1.33333, 0.66667, 2, 9.33333], "texture": "#0"},
+				"up": {"uv": [1.33333, 0.66667, 0.66667, 0], "texture": "#0"},
+				"down": {"uv": [2, 0, 1.33333, 0.66667], "texture": "#0"}
+			}
+		},
+		{
+			"name": "the big metal",
+			"from": [8, 12, 5.5],
+			"to": [8, 32, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 21.5, 8]},
+			"faces": {
+				"north": {"uv": [14.33333, 0, 14.33333, 6.66667], "texture": "#0"},
+				"east": {"uv": [12.66667, 0, 14.33333, 6.66667], "texture": "#0"},
+				"south": {"uv": [16, 0, 16, 6.66667], "texture": "#0"},
+				"west": {"uv": [14.33333, 0, 16, 6.66667], "texture": "#0"},
+				"up": {"uv": [14.33333, 0, 14.33333, -1.66667], "texture": "#0"},
+				"down": {"uv": [14.33333, -1.66667, 14.33333, 0], "texture": "#0"}
+			}
+		},
+		{
+			"name": "weird thing (stupid disc)",
+			"from": [6.5, 11, 6.5],
+			"to": [9.5, 12, 9.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 11.5, 8]},
+			"faces": {
+				"north": {"uv": [1, 15.66667, 2, 16], "texture": "#0"},
+				"east": {"uv": [0, 15.66667, 1, 16], "texture": "#0"},
+				"south": {"uv": [3, 15.66667, 4, 16], "texture": "#0"},
+				"west": {"uv": [2, 15.66667, 3, 16], "texture": "#0"},
+				"up": {"uv": [2, 15.66667, 1, 14.66667], "texture": "#0"},
+				"down": {"uv": [3, 14.66667, 2, 15.66667], "texture": "#0"}
+			}
+		},
+		{
+			"name": "weird thing (stupid disc)",
+			"from": [6.5, -16, 6.5],
+			"to": [9.5, -15, 9.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 11.5, 8]},
+			"faces": {
+				"north": {"uv": [1, 15.66667, 2, 16], "texture": "#0"},
+				"east": {"uv": [0, 15.66667, 1, 16], "texture": "#0"},
+				"south": {"uv": [3, 15.66667, 4, 16], "texture": "#0"},
+				"west": {"uv": [2, 15.66667, 3, 16], "texture": "#0"},
+				"up": {"uv": [2, 15.66667, 1, 14.66667], "texture": "#0"},
+				"down": {"uv": [3, 14.66667, 2, 15.66667], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 18, 0],
+			"translation": [0, 14.25, 0]
+		}
+	}
+}
