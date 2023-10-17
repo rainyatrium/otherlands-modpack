@@ -158,6 +158,14 @@
 			}
 		]
 	},
+	"otherlands.nokor_thom":{
+		"sounds": [
+			{
+			"name": "otherjams/nokor_thom",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.music_potion":{
 		"sounds": [
 			{
@@ -251,6 +259,22 @@
 		"sounds": [
 			{
 			"name": "otherjams/castle/jim_button",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.tension":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/tension",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.town":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/town",
 			"stream": true
 			}
 		]

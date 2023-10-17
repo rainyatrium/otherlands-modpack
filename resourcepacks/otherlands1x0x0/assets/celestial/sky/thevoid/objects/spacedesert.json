@@ -1,10 +1,10 @@
 {
 	"type": "skybox",
 	"skybox": {
-		"texture": "celestial:sky/thevoid/objects/white_texture.png",
-		"uv_size": "100",
-		"texture_width": "300",
-		"texture_height": "200"
+		"texture": "celestial:sky/thevoid/objects/spacedesert.png",
+		"uv_size": "420",
+		"texture_width": "1260",
+		"texture_height": "840"
 		},
 	"rotation": {
 		"degrees_x": "#skyAngle + 90",
@@ -12,7 +12,7 @@
 		"degrees_z": "0"
 	},
 	"properties": {
-		"alpha": "#isInBiome(otherlands:empty) | #isInBiome(otherlands:afterlife)",
+		"alpha": "#isInBiome(otherlands:space_desert)",
 		"is_solid": true
 	},
 	"populate": {
