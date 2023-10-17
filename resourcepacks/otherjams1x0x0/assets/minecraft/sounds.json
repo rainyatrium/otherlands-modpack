@@ -263,6 +263,22 @@
 			}
 		]
 	},
+	"otherlands.castle.tension":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/tension",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.town":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/town",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.castle.active":{
 		"sounds": [
 			{

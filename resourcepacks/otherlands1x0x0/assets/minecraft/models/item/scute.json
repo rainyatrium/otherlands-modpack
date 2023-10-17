@@ -136,6 +136,8 @@
 		{ "predicate": { "custom_model_data": 320}, "model": "item/cosmetic/thermal_cube" 							},
 		{ "predicate": { "custom_model_data": 321}, "model": "item/cosmetic/hyperborean_cube" 					},
 		{ "predicate": { "custom_model_data": 322}, "model": "item/cosmetic/codex_aureus_0" 						},
-		{ "predicate": { "custom_model_data": 323}, "model": "item/cosmetic/codex_aureus_1" 						}
+		{ "predicate": { "custom_model_data": 323}, "model": "item/cosmetic/codex_aureus_1" 						},
+		{ "predicate": { "custom_model_data": 324}, "model": "item/cosmetic/codex_aureus_2" 						},
+		{ "predicate": { "custom_model_data": 325}, "model": "item/cosmetic/codex_aureus_3" 						}
 	]
 }
