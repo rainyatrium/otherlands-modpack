@@ -1,0 +1,18 @@
+{
+	"texture": "celestial:sky/overworld/objects/jbring.png",
+	"display": {
+		"scale": "150",
+		"pos_x": "0",
+		"pos_y": "140",
+		"pos_z": "0",
+		"distance": "20"
+	},
+	"rotation": {
+		"degrees_x": "25",
+		"degrees_y": "0",
+		"degrees_z": "0"
+	},
+	"properties": {
+		"has_moon_phases": false
+	}
+}

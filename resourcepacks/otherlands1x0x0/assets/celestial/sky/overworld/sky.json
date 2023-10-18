@@ -24,7 +24,9 @@
 		"castle/cloud/a1",
 		"castle/cloud/a2",
 		"castle/cloud/a3",
-		"blackeye"
+		"blackeye",
+		"jbringa",
+		"jbringb"
 	],
 	"render_type": "normal",
 	"environment": {
