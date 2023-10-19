@@ -12,7 +12,7 @@
 		"degrees_z": "0"
 	},
 	"properties": {
-		"alpha": "(#isInBiome(otherlands:great_dungeon) | #isInBiome(otherlands:pierrot) | #isInBiome(otherlands:great_dungeon_exterior) | #isInBiome(otherlands:great_dungeon_archive) | #isInBiome(otherlands:great_dungeon_toxic) | #isInBiome(otherlands:great_dungeon_void_lab))",
+		"alpha": "(#isInBiome(otherlands:great_dungeon) | #isInBiome(otherlands:pierrot) | #isInBiome(otherlands:great_dungeon_exterior) | #isInBiome(otherlands:great_dungeon_archive) | #isInBiome(otherlands:great_dungeon_toxic) | #isInBiome(otherlands:great_dungeon_void_lab) | #isInBiome(otherlands:great_dungeon_gateway))",
 		"is_solid": true
 	},
 	"populate": {

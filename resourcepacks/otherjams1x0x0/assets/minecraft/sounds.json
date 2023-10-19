@@ -271,6 +271,14 @@
 			}
 		]
 	},
+	"otherlands.castle.gateway":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/gateway",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.castle.town":{
 		"sounds": [
 			{
