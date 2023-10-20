@@ -14,6 +14,6 @@
 	},
 	"properties": {
 		"has_moon_phases": false,
-		"alpha": "#sunOpacity + (-1 * #castleProgress)"
+		"alpha": "#sunOpacity"
 	}
 }
