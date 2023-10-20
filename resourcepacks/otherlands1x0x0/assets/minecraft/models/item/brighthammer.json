@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/brighthammer",
-		"particle": "block/brighthammer"
+		"0": "custom/brighthammer",
+		"particle": "custom/brighthammer"
 	},
 	"elements": [
 		{
@@ -130,7 +130,21 @@
 			}
 		}
 	],
-	"display": {},
+	"gui_light": "front",
+	"display": {
+		"ground": {
+			"rotation": [45, 0, 0],
+			"translation": [0, 2.5, 0]
+		},
+		"gui": {
+			"rotation": [0, 90, 0],
+			"translation": [0, -0.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
+		}
+	},
 	"groups": [
 		{
 			"name": "head",
