@@ -141,6 +141,7 @@
 		{ "predicate": { "custom_model_data": 325}, "model": "item/cosmetic/codex_aureus_3" 						},
 		{ "predicate": { "custom_model_data": 326}, "model": "item/cosmetic/mask_spirit" 								},
 		{ "predicate": { "custom_model_data": 327}, "model": "item/cosmetic/mask_spirit_occlude" 					},
-		{ "predicate": { "custom_model_data": 328}, "model": "item/cosmetic/mask_growth" 							}
+		{ "predicate": { "custom_model_data": 328}, "model": "item/cosmetic/mask_growth" 							},
+		{ "predicate": { "custom_model_data": 329}, "model": "item/cosmetic/amethyst_blade" 						}
 	]
 }
