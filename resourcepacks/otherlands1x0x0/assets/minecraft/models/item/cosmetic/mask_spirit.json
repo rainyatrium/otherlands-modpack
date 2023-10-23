@@ -3,8 +3,8 @@
 	"parent": "spirit_mask",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "custom/spirit_mask",
-		"particle": "custom/spirit_mask"
+		"0": "custom/mask_spirit",
+		"particle": "custom/mask_spirit"
 	},
 	"elements": [
 		{

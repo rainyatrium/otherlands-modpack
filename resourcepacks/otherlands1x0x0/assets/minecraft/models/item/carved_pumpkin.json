@@ -11,11 +11,11 @@
 		{ "predicate": { "custom_model_data": 10 }, "model": "item/cosmetic/npc_kalamazoo" 				},
 		{ "predicate": { "custom_model_data": 11 }, "model": "item/cosmetic/tot/tot_stump_groundpound" 	},
 		{ "predicate": { "custom_model_data": 12 }, "model": "item/object/architect_phone" 				},
-		{ "predicate": { "custom_model_data": 13 }, "model": "item/cosmetic/pierrot_mask" 				},
+		{ "predicate": { "custom_model_data": 13 }, "model": "item/cosmetic/mask_pierrot" 				},
 		{ "predicate": { "custom_model_data": 14 }, "model": "item/cosmetic/pierrot_tophat" 				},
 		{ "predicate": { "custom_model_data": 15 }, "model": "item/cosmetic/eggplant_crown" 			},
-		{ "predicate": { "custom_model_data": 16 }, "model": "item/cosmetic/spirit_mask" 					},
-		{ "predicate": { "custom_model_data": 17 }, "model": "item/cosmetic/spirit_mask_occlude" 		},
+		{ "predicate": { "custom_model_data": 16 }, "model": "unused" 												},
+		{ "predicate": { "custom_model_data": 17 }, "model": "unused" 												},
 		{ "predicate": { "custom_model_data": 18 }, "model": "item/magic/whirlpool" 							},
 		{ "predicate": { "custom_model_data": 19 }, "model": "item/cosmetic/robot_pirate_hat" 			},
 		{ "predicate": { "custom_model_data": 20 }, "model": "item/cosmetic/robot_sailor_hat" 			},
@@ -59,7 +59,7 @@
 		{ "predicate": { "custom_model_data": 4015 }, "model": "item/object/distillery_wire" 				},
 		{ "predicate": { "custom_model_data": 4016 }, "model": "item/object/ancient_sliding_door" 		},
 		{ "predicate": { "custom_model_data": 4017 }, "model": "item/object/ancient_sliding_door_sideways" },
-		{ "predicate": { "custom_model_data": 4018 }, "model": "item/cosmetic/maraudermask" 		},
-		{ "predicate": { "custom_model_data": 4019 }, "model": "item/cosmetic/marksman_mask" 		}
+		{ "predicate": { "custom_model_data": 4018 }, "model": "item/cosmetic/mask_marauder" 			},
+		{ "predicate": { "custom_model_data": 4019 }, "model": "item/cosmetic/mask_marksman" 		}
 	]
 }
