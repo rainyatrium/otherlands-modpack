@@ -23,6 +23,13 @@
 			}
 		]
 	},
+	"otherlands.rift.open":{
+		"sounds": [
+			{
+			"name": "otherlands/rift_open"
+			}
+		]
+	},
 	"otherlands.snail_world":{
 		"sounds": [
 			{

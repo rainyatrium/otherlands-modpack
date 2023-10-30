@@ -519,6 +519,14 @@
 			}
 		]
 	},
+	"otherlands.thorn":{
+		"sounds": [
+			{
+			"name": "otherjams/astralinvocation",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.intro":{
 		"sounds": [
 			{

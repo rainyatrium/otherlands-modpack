@@ -60,6 +60,7 @@
 		{ "predicate": { "custom_model_data": 4016 }, "model": "item/object/ancient_sliding_door" 		},
 		{ "predicate": { "custom_model_data": 4017 }, "model": "item/object/ancient_sliding_door_sideways" },
 		{ "predicate": { "custom_model_data": 4018 }, "model": "item/cosmetic/mask_marauder" 			},
-		{ "predicate": { "custom_model_data": 4019 }, "model": "item/cosmetic/mask_marksman" 		}
+		{ "predicate": { "custom_model_data": 4019 }, "model": "item/cosmetic/mask_marksman" 		},
+		{ "predicate": { "custom_model_data": 4020 }, "model": "item/cosmetic/spirit_pumpkin" 			}
 	]
 }
