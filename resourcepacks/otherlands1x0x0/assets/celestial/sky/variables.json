@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "moonOpacity",
-			"value": "(0.5) * #isinVoid"
+			"value": "(0.5) * #isinVoid + (-1*#isinShrubland)"
 		},
 		{
 			"name": "sunOpacity",
-			"value": "(1 + (#valraven * 0.5)) * #isinVoid"
+			"value": "(1 + (#valraven * 0.5)) * #isinVoid + (-1*#isinShrubland)"
 		},
 		{
 			"name": "starsOpacity",
-			"value": "((((#starsBase)>0)=((#starsBase)<1))|((#starsBase)=1) * #starsBase) + ((#starsBase)>1)"
+			"value": "((((#starsBase)>0)=((#starsBase)<1))|((#starsBase)=1) * #starsBase) + ((#starsBase)>1) + (-1*#isinShrubland)"
 		},
 		{
 			"name": "starsBase",
@@ -46,15 +46,35 @@
 		},
 		{
 			"name": "fogStart",
-			"value": "#renderDistance - (10 * (#renderDistance / 100))"
+			"value": "(#renderDistance - ((10 + #fsMedge) * (#renderDistance / 100)))"
 		},
 		{
 			"name": "fogEnd",
-			"value": "#renderDistance - (90 * (#renderDistance / 100))"
+			"value": "(#renderDistance - ((90 + #feMedge) * (#renderDistance / 100)))"
 		},
 		{
 			"name": "isinVoid",
 			"value": "(1 - (1 * #isInBiome(otherlands:void)))"
+		},
+		{
+			"name": "isinShrubland",
+			"value": "#distanceToBiome(otherlands:pacific_shrubland, 6, 152)"
+		},
+		{
+			"name": "rawMapEdge",
+			"value": "((#distanceToArea(250,0,250,5250,200,5250))/150)"
+		},
+		{
+			"name": "mapEdge",
+			"value": "(#rawMapEdge - ((#rawMapEdge)*(#rawMapEdge>2.75)))"
+		},
+		{
+			"name": "fsMedge",
+			"value": "print(90m(90*#mapEdge))"
+		},
+		{
+			"name": "feMedge",
+			"value": "70m(70*#mapEdge)"
 		}
 	]
 }
