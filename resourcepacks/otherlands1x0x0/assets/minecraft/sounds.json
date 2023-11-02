@@ -266,6 +266,11 @@
 			"otherlands/wynn/wynn4"
 		]
 	},
+			"otherlands.catalyst.laugh":{
+		"sounds": [
+			"otherlands/catalyst/briglaugh"
+		]
+	},
 			"otherlands.catalyst.wynnleave":{
 		"sounds": [
 			"otherlands/wynn/wynnleave"
@@ -283,22 +288,6 @@
 		"sounds": [
 			{
 			"name": "otherlands/catalyst/catalyststatic"
-
-			}
-		]
-	},
-				"otherlands.catalyst.subway_arrive":{
-		"sounds": [
-			{
-			"name": "otherlands/catalyst/subway_arrive"
-
-			}
-		]
-	},
-	"otherlands.catalyst.subway_end":{
-		"sounds": [
-			{
-			"name": "otherlands/catalyst/subway_end"
 
 			}
 		]
