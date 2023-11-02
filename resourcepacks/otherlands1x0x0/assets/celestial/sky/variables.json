@@ -46,11 +46,11 @@
 		},
 		{
 			"name": "fogStart",
-			"value": "(#renderDistance - ((10 + #fsMedge) * (#renderDistance / 100)))"
+			"value": "(#renderDistance - ((10 + #fsMedge + #seClose) * (#renderDistance / 100)))"
 		},
 		{
 			"name": "fogEnd",
-			"value": "(#renderDistance - ((90 + #feMedge) * (#renderDistance / 100)))"
+			"value": "(#renderDistance - ((90 + #feMedge + #seClose) * (#renderDistance / 100)))"
 		},
 		{
 			"name": "isinVoid",
@@ -62,7 +62,7 @@
 		},
 		{
 			"name": "rawMapEdge",
-			"value": "((#distanceToArea(250,0,250,5250,200,5250))/150)"
+			"value": "((#distanceToArea(250,0,250,5250,500,5250))/150)"
 		},
 		{
 			"name": "mapEdge",
@@ -70,11 +70,19 @@
 		},
 		{
 			"name": "fsMedge",
-			"value": "print(90m(90*#mapEdge))"
+			"value": "(90m(90*#mapEdge))"
 		},
 		{
 			"name": "feMedge",
 			"value": "70m(70*#mapEdge)"
+		},
+		{
+			"name": "ssClose",
+			"value": "1"
+		},
+		{
+			"name": "seClose",
+			"value": "(#isinShrubland * 80)"
 		}
 	]
 }
