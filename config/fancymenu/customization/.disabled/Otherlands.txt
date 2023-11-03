@@ -255,7 +255,7 @@ customization {
 }
 
 customization {
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:1be275f7-9195-4b55-960f-9faea48c5e451682143664304] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:1be275f7-9195-4b55-960f-9faea48c5e451682143664304] = 194.153.216.157:25612
   orientation = element
   orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
   name = eyeanim
@@ -500,7 +500,7 @@ customization {
   action = addtexture
   actionid = b9375e70-6812-4059-9896-e82a8dadafaa1665651489574
   y = -10
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:58729956-109e-48be-84ce-9028f3908ff51682143664309] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:58729956-109e-48be-84ce-9028f3908ff51682143664309] = 194.153.216.157:25612
   [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:ec597207-2798-4c94-95e0-66a9da51362f1682143664309] = 6703acf5-e0f2-45a7-ad2e-397e698d5d9a1665714193889
   height = 220
 }
@@ -514,7 +514,7 @@ customization {
   action = addtexture
   actionid = b9375e70-6812-4059-9896-e82a8dadafaa1665651489574
   y = -10
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:4414176c-f324-43fa-8e2f-7d3f889369e21682143664309] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:4414176c-f324-43fa-8e2f-7d3f889369e21682143664309] = 194.153.216.157:25612
   [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:2225c666-69aa-4d47-9a7a-f77264a5131a1682143664309] = f32772a6-f9ba-457e-9139-5186133e30391665714190693
   height = 220
 }
@@ -523,7 +523,7 @@ customization {
   path = resources/EyeLook/-3.png
   orientation = element
   [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:e4ba966e-0ec2-47af-8062-ea26c01a490b1682143664309] = 8edb4d54-5a24-4684-8016-d048ac6978f81665714187891
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:fdcf32bf-6a60-496f-9a24-df847dd6eb5f1682143664309] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:fdcf32bf-6a60-496f-9a24-df847dd6eb5f1682143664309] = 194.153.216.157:25612
   orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
   x = 2
   width = 384
@@ -543,7 +543,7 @@ customization {
   action = addtexture
   actionid = d0b6a74c-5b8a-4987-9ccd-3f61cbfc93da1665651519938
   y = -10
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:a866a661-0744-4485-8af5-cb1bef8a820f1682143664310] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:a866a661-0744-4485-8af5-cb1bef8a820f1682143664310] = 194.153.216.157:25612
   height = 220
 }
 
@@ -557,13 +557,13 @@ customization {
   action = addtexture
   actionid = 67b38304-ce77-4738-a813-31a9c97aef191665651532060
   y = -10
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:ade6814d-b4e9-4bc7-a6c8-510d71cb55811682143664310] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:ade6814d-b4e9-4bc7-a6c8-510d71cb55811682143664310] = 194.153.216.157:25612
   height = 220
 }
 
 customization {
   path = resources/EyeLook/-6.png
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:db30733d-2684-446e-9fd0-934a03ba83761682143664310] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:db30733d-2684-446e-9fd0-934a03ba83761682143664310] = 194.153.216.157:25612
   orientation = element
   [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:67f752ce-650e-481e-aa98-d761af64d3c71682143664310] = c84ada9f-ca6e-487d-951d-61e03ddb45251665714133200
   orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
@@ -585,7 +585,7 @@ customization {
   actionid = 5054c635-5d5c-49ef-8b68-a6853f4716e11665651571721
   y = -10
   [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:da09e6b1-f1ca-4df3-bcfb-c77a04cd20e21682143664310] = 17dc058f-52b2-4cdf-9792-8daf0833f2e81665714115413
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:e134f4aa-55f0-46e2-bc72-9bfacc90ce051682143664310] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:e134f4aa-55f0-46e2-bc72-9bfacc90ce051682143664310] = 194.153.216.157:25612
   height = 220
 }
 
@@ -596,7 +596,7 @@ customization {
   orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
   x = 2
   width = 384
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:df76fab0-54c6-4a37-a9bf-315d0622ba371682143664310] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:df76fab0-54c6-4a37-a9bf-315d0622ba371682143664310] = 194.153.216.157:25612
   action = addtexture
   actionid = 893f0a16-408b-4e09-a164-fd378a26699c1665651589413
   y = -10
@@ -613,7 +613,7 @@ customization {
   actionid = 567edeed-2251-4af8-86cd-5a5b3b2a2ee71665651595515
   y = -10
   [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:b6a26a94-d713-4a01-9362-1e614c45a5361682143664312] = 38c9b570-08cd-4ce4-937d-f9b15babb7e81665713853307
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:838bdb81-18aa-4762-9266-cf47b46d286e1682143664312] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:838bdb81-18aa-4762-9266-cf47b46d286e1682143664312] = 194.153.216.157:25612
   height = 220
 }
 
@@ -622,7 +622,7 @@ customization {
   [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:fc0f6ca1-923d-43b5-8826-3cc7ba0227bb1682143664312] = ef8ea949-4f26-412d-b67a-d8679f599aed1665715826847
   orientation = element
   orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:95fba465-bbb9-4ef9-bcfb-41cf871de7d71682143664312] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:95fba465-bbb9-4ef9-bcfb-41cf871de7d71682143664312] = 194.153.216.157:25612
   x = 2
   width = 384
   action = addtexture
@@ -642,11 +642,11 @@ customization {
   actionid = 565c9aac-9fc7-4f6c-aa74-494c8fa804111665651615458
   y = -10
   height = 220
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:fc1346e0-57c7-4834-a425-a424fa8927321682143664312] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:fc1346e0-57c7-4834-a425-a424fa8927321682143664312] = 194.153.216.157:25612
 }
 
 customization {
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:8351866a-3132-4cff-9d72-6f054748e7051682143664312] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:8351866a-3132-4cff-9d72-6f054748e7051682143664312] = 194.153.216.157:25612
   path = resources/EyeLook/3.png
   orientation = element
   [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:ab7b9340-6d12-4da0-9eda-fbe8b8021bc21682143664312] = 901d527d-29a5-4d4c-925a-4d6195f4d5901665715884797
@@ -669,7 +669,7 @@ customization {
   actionid = c377535d-e69b-4f3c-b47b-09d79efb1d5e1665651627483
   y = -10
   [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:3cc889ff-d0ca-49f8-aac7-0860b3a26e241682143664313] = 185a827c-1c2c-4b7e-b9e8-ab61c4907a1b1665715892130
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:10f5c9e3-e1ef-45f0-ac8a-a8cad72747171682143664313] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:10f5c9e3-e1ef-45f0-ac8a-a8cad72747171682143664313] = 194.153.216.157:25612
   height = 220
 }
 
@@ -683,13 +683,13 @@ customization {
   action = addtexture
   actionid = f2bc453e-5c3f-44cf-91ad-49ac2e2089ee1665651633519
   y = -10
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:775d4a60-3918-4f93-858e-271e2827893a1682143664313] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:775d4a60-3918-4f93-858e-271e2827893a1682143664313] = 194.153.216.157:25612
   height = 220
 }
 
 customization {
   path = resources/EyeLook/6.png
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:e702caad-8ab8-428e-9861-7d7270f010dc1682143664313] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:e702caad-8ab8-428e-9861-7d7270f010dc1682143664313] = 194.153.216.157:25612
   orientation = element
   orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
   x = 2
@@ -712,7 +712,7 @@ customization {
   y = -10
   [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:134a8e51-65a9-4709-8a34-1482516117891682143664313] = ee933228-d52c-4432-b043-970feb1589ed1665715908295
   height = 220
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:eca2aab1-3c61-4df5-853a-1b2bf87fb8a11682143664313] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:eca2aab1-3c61-4df5-853a-1b2bf87fb8a11682143664313] = 194.153.216.157:25612
 }
 
 customization {
@@ -725,14 +725,14 @@ customization {
   action = addtexture
   actionid = bb0ce89e-4cc9-4d28-a127-5b9c6d3c86e71665651648476
   y = -10
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:abbbf15f-0908-459f-9e7a-50f4868305041682143664313] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:abbbf15f-0908-459f-9e7a-50f4868305041682143664313] = 194.153.216.157:25612
   height = 220
 }
 
 customization {
   path = resources/EyeLook/9.png
   orientation = element
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:bcb26130-d2fd-4fa8-ae95-2556754bdd461682143664314] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:bcb26130-d2fd-4fa8-ae95-2556754bdd461682143664314] = 194.153.216.157:25612
   orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
   x = 2
   width = 384
@@ -752,7 +752,7 @@ customization {
   action = addtexture
   actionid = 4b3d01e9-f866-4f10-94a3-3994660fc6b11665652063244
   y = -10
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:be6c0065-88fc-4a21-b836-38e39ec273df1682143664314] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:be6c0065-88fc-4a21-b836-38e39ec273df1682143664314] = 194.153.216.157:25612
   [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:c88a9c03-8dd8-4988-9633-fd9cd24caa1a1682143664314] = 1acf11f0-d4f8-4036-a9a7-3c7a59fdc1c31665714350515
   height = 220
 }
@@ -776,7 +776,7 @@ customization {
   name = closedeyeanim
   x = -234
   width = 452
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if_not][req_id:93d79284-bf46-4c8e-a083-88508d1ca4331682143664314] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if_not][req_id:93d79284-bf46-4c8e-a083-88508d1ca4331682143664314] = 194.153.216.157:25612
   actionid = 485fd773-2611-4f12-8e37-06bdcd2891701665987550242
   action = addanimation
   y = -199
@@ -786,7 +786,7 @@ customization {
 }
 
 customization {
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:8914e947-df09-474e-8700-c4980404e2121682143664314] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:8914e947-df09-474e-8700-c4980404e2121682143664314] = 194.153.216.157:25612
   orientation = element
   orientation_element = b11b3f54-0cee-4ea6-8ece-3eb36a6a73d21665650745167
   name = eyeanim
@@ -811,7 +811,7 @@ customization {
   actionid = 3b7fca3c-863d-450b-be34-4b9bf49e39461665989805030
   y = 41
   backgroundnormal = resources\EyeLook\buttontest.png
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if_not][req_id:ce0c6937-39e4-42e6-86ed-7c6b866f5a311682143664314] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if_not][req_id:ce0c6937-39e4-42e6-86ed-7c6b866f5a311682143664314] = 194.153.216.157:25612
   height = 132
 }
 
@@ -835,7 +835,7 @@ customization {
 customization {
   orientation = element
   restartbackgroundanimations = true
-  buttonaction = joinserver;108.93.58.161:25565%btnaction_splitter_fm%
+  buttonaction = joinserver;194.153.216.157:25612%btnaction_splitter_fm%
   backgroundhovered = resources\EyeLook\buttontest.png
   label = 
   loopbackgroundanimations = true

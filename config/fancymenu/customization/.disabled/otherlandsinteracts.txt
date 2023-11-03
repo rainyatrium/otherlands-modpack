@@ -279,7 +279,7 @@ customization {
 customization {
   orientation = element
   restartbackgroundanimations = true
-  buttonaction = joinserver;108.93.58.161:25565%btnaction_splitter_fm%
+  buttonaction = joinserver;194.153.216.157:25612%btnaction_splitter_fm%
   backgroundhovered = resources\EyeLook\buttontest.png
   label = 
   loopbackgroundanimations = true
@@ -324,17 +324,17 @@ customization {
   actionid = 6af399ca-f07c-4ddd-9af9-007e3763cb5d1665985254741
   y = 41
   backgroundnormal = resources\EyeLook\buttontest.png
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if_not][req_id:ad98f769-99a5-4f7d-8925-f754fffc95821682142652650] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if_not][req_id:ad98f769-99a5-4f7d-8925-f754fffc95821682142652650] = 194.153.216.157:25612
   height = 132
 }
 
 customization {
   orientation = mid-centered
   restartbackgroundanimations = true
-  buttonaction = joinserver;108.93.58.161:25565%btnaction_splitter_fm%
+  buttonaction = joinserver;194.153.216.157:25612%btnaction_splitter_fm%
   backgroundhovered = resources\EyeLook\buttontest.png
   label = 
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:a02b415f-6755-4775-99a3-8f2bf186976b1682142652652] = 108.93.58.161:25565
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:a02b415f-6755-4775-99a3-8f2bf186976b1682142652652] = 194.153.216.157:25612
   loopbackgroundanimations = true
   x = -65
   width = 114
