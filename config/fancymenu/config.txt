@@ -32,7 +32,7 @@ S:customgameintroskiptext = 'space : skip';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'OTHERLANDS: STORM SEASON';
+S:customwindowtitle = 'OTHERLANDS: SUN SEASON';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 
