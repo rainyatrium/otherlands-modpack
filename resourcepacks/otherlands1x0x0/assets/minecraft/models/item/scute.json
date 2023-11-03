@@ -142,6 +142,9 @@
 		{ "predicate": { "custom_model_data": 326}, "model": "item/cosmetic/mask_spirit" 								},
 		{ "predicate": { "custom_model_data": 327}, "model": "item/cosmetic/mask_spirit_occlude" 					},
 		{ "predicate": { "custom_model_data": 328}, "model": "item/cosmetic/mask_growth" 							},
-		{ "predicate": { "custom_model_data": 329}, "model": "item/cosmetic/amethyst_blade" 						}
+		{ "predicate": { "custom_model_data": 329}, "model": "item/cosmetic/amethyst_blade" 						},
+		{ "predicate": { "custom_model_data": 330}, "model": "item/monster/botany_beast_head" 					},
+		{ "predicate": { "custom_model_data": 331}, "model": "item/monster/botany_beast_body_part_triangle" },
+		{ "predicate": { "custom_model_data": 332}, "model": "item/monster/botany_beast_body_part_square" 	}
 	]
 }

@@ -102,6 +102,14 @@
 			}
 		]
 	},
+	"otherlands.castle.botany_boss":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/botany_boss",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.afterlife":{
 		"sounds": [
 			{

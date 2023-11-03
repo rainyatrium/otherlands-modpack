@@ -23,11 +23,24 @@
 			}
 		]
 	},
+	"otherlands.purev":{
+		"sounds": [
+			{
+			"name": "otherlands/purev",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.rift.open":{
 		"sounds": [
 			{
 			"name": "otherlands/rift_open"
 			}
+		]
+	},
+	"otherlands.catalyst.laugh":{
+		"sounds": [
+			"otherlands/catalyst/briglaugh"
 		]
 	},
 	"otherlands.snail_world":{
@@ -266,11 +279,6 @@
 			"otherlands/wynn/wynn4"
 		]
 	},
-			"otherlands.catalyst.laugh":{
-		"sounds": [
-			"otherlands/catalyst/briglaugh"
-		]
-	},
 			"otherlands.catalyst.wynnleave":{
 		"sounds": [
 			"otherlands/wynn/wynnleave"
@@ -288,6 +296,22 @@
 		"sounds": [
 			{
 			"name": "otherlands/catalyst/catalyststatic"
+
+			}
+		]
+	},
+				"otherlands.catalyst.subway_arrive":{
+		"sounds": [
+			{
+			"name": "otherlands/catalyst/subway_arrive"
+
+			}
+		]
+	},
+	"otherlands.catalyst.subway_end":{
+		"sounds": [
+			{
+			"name": "otherlands/catalyst/subway_end"
 
 			}
 		]
@@ -556,6 +580,13 @@
 			"otherlands/castle/exterior_additions_b",
 			"otherlands/castle/exterior_additions_c",
 			"otherlands/castle/exterior_additions_d"
+		]
+	},
+	"otherlands.botany_beast.laugh":{
+		"sounds": [
+			"otherlands/botany_beast/laugh_0",
+			"otherlands/botany_beast/laugh_1",
+			"otherlands/botany_beast/laugh_2"
 		]
 	},
 	"otherlands.castle.jim_voice":{
