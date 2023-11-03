@@ -14,52 +14,6 @@ customization {
 }
 
 customization {
-  orientation = top-left
-  hidden = true
-  x = 2
-  width = 262
-  action = deep_customization_element:title_screen_branding
-  actionid = ca0c0ba2-83c9-4b26-95d4-3647842caccc1665993710754
-  y = 478
-  height = 10
-}
-
-customization {
-  orientation = top-left
-  hidden = true
-  x = 523
-  width = 13
-  action = deep_customization_element:title_screen_realms_notification
-  actionid = 4b7318ca-a25f-4aad-99b9-88945ceb78dc1665993710754
-  y = 222
-  height = 13
-}
-
-customization {
-  orientation = top-left
-  hidden = true
-  x = 283
-  width = 274
-  action = deep_customization_element:title_screen_logo
-  actionid = b73be355-c3b7-463d-8bad-dc1e151b7d231665993710754
-  y = 30
-  height = 52
-}
-
-customization {
-  orientation = original
-  splash_color = #ffff00
-  hidden = true
-  x = 0
-  width = 60
-  splash_rotation = -20
-  action = deep_customization_element:title_screen_splash
-  actionid = 39d2bdec-4bd9-4342-99a0-5ca609186a231665993710754
-  y = 0
-  height = 30
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   action = hidebutton
 }
@@ -105,13 +59,59 @@ customization {
 }
 
 customization {
-  path = resources/vignette.png
+  path = resources/curtainsmall.gif
   orientation = top-left
   x = 0
   width = %guiwidth%
   action = addtexture
-  actionid = e362df38-9a1d-45d0-ad03-3e6a6d95c46f1665993728187
+  actionid = 6e9f6f9b-b899-4ac6-b539-3da604b2e7671691939179547
   y = 0
   height = %guiheight%
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 226
+  action = deep_customization_element:title_screen_branding
+  actionid = 795c3ce7-d737-48d0-8364-c435fbcc3a751691939162341
+  y = 553
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 49340c40-03cc-4a74-bb29-f82ad81b19a91691939162341
+  y = 241
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 1b66dafb-0f0b-4236-aa60-80db07df07071691939162341
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 35c0d1b0-0cd2-49a1-ba09-a98ec77fed491691939162341
+  y = 0
+  height = 30
 }
 
