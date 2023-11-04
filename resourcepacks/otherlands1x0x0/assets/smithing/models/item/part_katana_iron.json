@@ -1,0 +1,98 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [16, 64],
+	"textures": {
+		"0": "simplyswords:custom/iron_katana",
+		"particle": "simplyswords:custom/iron_katana"
+	},
+	"elements": [
+		{
+			"from": [6.5, 0, 7.5],
+			"to": [9.5, 15, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 0]},
+			"faces": {
+				"north": {"uv": [1, 7.25, 4, 11], "texture": "#0"},
+				"east": {"uv": [0, 7.25, 1, 11], "texture": "#0"},
+				"south": {"uv": [5, 7.25, 8, 11], "texture": "#0"},
+				"west": {"uv": [4, 7.25, 5, 11], "texture": "#0"},
+				"up": {"uv": [4, 7.25, 1, 7], "texture": "#0"},
+				"down": {"uv": [7, 7, 4, 7.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.5, 15, 7.5],
+			"to": [8.5, 28, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 0]},
+			"faces": {
+				"north": {"uv": [1, 4, 4, 7.25], "texture": "#0"},
+				"east": {"uv": [0, 4, 1, 7.25], "texture": "#0"},
+				"south": {"uv": [5, 4, 8, 7.25], "texture": "#0"},
+				"west": {"uv": [4, 4, 5, 7.25], "texture": "#0"},
+				"up": {"uv": [4, 4, 1, 3.75], "texture": "#0"},
+				"down": {"uv": [7, 3.75, 4, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.5, 28, 7.5],
+			"to": [7.5, 30, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 0]},
+			"faces": {
+				"north": {"uv": [1, 4, 3, 4.5], "texture": "#0"},
+				"east": {"uv": [0, 4, 1, 4.5], "texture": "#0"},
+				"south": {"uv": [4, 4, 6, 4.5], "texture": "#0"},
+				"west": {"uv": [3, 4, 4, 4.5], "texture": "#0"},
+				"up": {"uv": [3, 4, 1, 3.75], "texture": "#0"},
+				"down": {"uv": [5, 3.75, 3, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.5, 30, 7.5],
+			"to": [6.5, 31, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 0]},
+			"faces": {
+				"north": {"uv": [11, 7.25, 13, 7.5], "texture": "#0"},
+				"east": {"uv": [10, 7.25, 11, 7.5], "texture": "#0"},
+				"south": {"uv": [14, 7.25, 16, 7.5], "texture": "#0"},
+				"west": {"uv": [13, 7.25, 14, 7.5], "texture": "#0"},
+				"up": {"uv": [13, 7.25, 11, 7], "texture": "#0"},
+				"down": {"uv": [15, 7, 13, 7.25], "texture": "#0"}
+			}
+		}
+	],
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/cosmetic/tenfold_powerful_blade"}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 100, 0],
+			"translation": [0, -4.25, -0.75],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -80, 0],
+			"translation": [0, -3.5, -0.75],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"firstperson_righthand": {
+			"rotation": [168.75, 80, -165],
+			"translation": [1, 0, 0.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [175.25, 80, -165],
+			"translation": [1, 0, 0]
+		},
+		"ground": {
+			"rotation": [83, 11, 45],
+			"translation": [0, 2.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [18.51, -42.49, -52.97],
+			"translation": [-3.25, -3.75, 0]
+		},
+		"fixed": {
+			"translation": [0, -16, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}
