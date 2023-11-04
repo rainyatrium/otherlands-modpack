@@ -525,12 +525,27 @@
 	},
 	"otherlands.culture.speak":{
 		"sounds": [
-			"otherlands/aktine/culturespeak"
+			"otherlands/culture/culturespeak"
 		]
 	},
-	"otherlands.aktine.spawn":{
+	"otherlands.culture.hiwob":{
 		"sounds": [
-			"otherlands/aktine/spawn"
+			"otherlands/culture/ambient_3"
+		]
+	},
+	"otherlands.culture.lowob":{
+		"sounds": [
+			"otherlands/culture/ambient_2"
+		]
+	},
+	"otherlands.culture.roar":{
+		"sounds": [
+			"otherlands/culture/ambient_0"
+		]
+	},
+	"otherlands.culture.angy":{
+		"sounds": [
+			"otherlands/culture/spawn"
 		]
 	},
 	"otherlands.architect.ringl":{
