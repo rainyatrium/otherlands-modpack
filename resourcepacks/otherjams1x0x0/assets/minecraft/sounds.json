@@ -102,7 +102,7 @@
 			}
 		]
 	},
-	"otherlands.castle.botany_boss":{
+		"otherlands.castle.botany_boss":{
 		"sounds": [
 			{
 			"name": "otherjams/castle/botany_boss",
@@ -434,7 +434,7 @@
 	"otherlands.valraven_alt":{
 		"sounds": [
 			{
-			"name": "otherjams/valraven",
+			"name": "otherjams/valraven2",
 			"stream": true
 			}
 		]
@@ -442,7 +442,7 @@
 	"otherlands.valraven":{
 		"sounds": [
 			{
-			"name": "otherjams/healingtemple",
+			"name": "otherjams/valraven",
 			"stream": true
 			}
 		]
