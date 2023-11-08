@@ -145,6 +145,23 @@
 		{ "predicate": { "custom_model_data": 329}, "model": "item/cosmetic/amethyst_blade" 						},
 		{ "predicate": { "custom_model_data": 330}, "model": "item/monster/botany_beast_head" 					},
 		{ "predicate": { "custom_model_data": 331}, "model": "item/monster/botany_beast_body_part_triangle" },
-		{ "predicate": { "custom_model_data": 332}, "model": "item/monster/botany_beast_body_part_square" 	}
+		{ "predicate": { "custom_model_data": 332}, "model": "item/monster/botany_beast_body_part_square" 	},
+		{ "predicate": { "custom_model_data": 333}, "model": "item/monster/botany_beast_head_dendro" 						},
+		{ "predicate": { "custom_model_data": 334}, "model": "item/monster/botany_beast_body_part_triangle_dendro" 	},
+		{ "predicate": { "custom_model_data": 335}, "model": "item/monster/botany_beast_body_part_square_dendro" 		},
+		{ "predicate": { "custom_model_data": 336}, "model": "item/monster/botany_beast_head_electro" 						},
+		{ "predicate": { "custom_model_data": 337}, "model": "item/monster/botany_beast_body_part_triangle_electro" 	},
+		{ "predicate": { "custom_model_data": 338}, "model": "item/monster/botany_beast_body_part_square_electro" 		},
+		{ "predicate": { "custom_model_data": 339}, "model": "item/monster/botany_beast_head_hydro" 							},
+		{ "predicate": { "custom_model_data": 340}, "model": "item/monster/botany_beast_body_part_triangle_hydro" 		},
+		{ "predicate": { "custom_model_data": 341}, "model": "item/monster/botany_beast_body_part_square_hydro" 		},
+		{ "predicate": { "custom_model_data": 342}, "model": "item/monster/botany_beast_head_obscuro" 						},
+		{ "predicate": { "custom_model_data": 343}, "model": "item/monster/botany_beast_body_part_triangle_obscuro" 	},
+		{ "predicate": { "custom_model_data": 344}, "model": "item/monster/botany_beast_body_part_square_obscuro" 	},
+		{ "predicate": { "custom_model_data": 345}, "model": "item/monster/botany_beast_head_pyro" 							},
+		{ "predicate": { "custom_model_data": 346}, "model": "item/monster/botany_beast_body_part_triangle_pyro" 		},
+		{ "predicate": { "custom_model_data": 347}, "model": "item/monster/botany_beast_body_part_square_pyro" 			},
+		{ "predicate": { "custom_model_data": 348}, "model": "item/monster/botany_beast_book" 					},
+		{ "predicate": { "custom_model_data": 349}, "model": "item/monster/botany_hp" 								}
 	]
 }
