@@ -571,6 +571,14 @@
 			}
 		]
 	},
+	"otherlands.architect.office":{
+		"sounds": [
+			{
+			"name": "otherlands/architect/architect_phone",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.valraven.warp":{
 		"sounds": [
 			"otherlands/valraven/warp"

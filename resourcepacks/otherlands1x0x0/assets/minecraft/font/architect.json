@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:architect.ttf",
+            "shift": [0, 0],
+            "size": 14.0,
+            "oversample": 10.0
+        }
+    ]
+}

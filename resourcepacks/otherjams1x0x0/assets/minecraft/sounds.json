@@ -214,6 +214,14 @@
 			}
 		]
 	},
+		"otherlands.happy_together":{
+		"sounds": [
+			{
+			"name": "otherjams/happytogether",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.obscuro_doom":{
 		"sounds": [
 			{
