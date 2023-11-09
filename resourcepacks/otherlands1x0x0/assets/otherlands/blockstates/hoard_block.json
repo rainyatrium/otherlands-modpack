@@ -1,0 +1,206 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "yttr:block/ruined_construct_rc_1",
+        "y": 0, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_construct_rc_1",
+        "y": 90, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_construct_rc_1",
+        "y": 180, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_construct_rc_1",
+        "y": 270, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_construct_rc_1",
+        "y": 0, "weight": 100
+      },
+	  {
+        "model": "yttr:block/ruined_construct_rc_1",
+        "y": 0, "weight": 100
+      },
+	  	  {
+        "model": "yttr:block/ruined_construct_rc_1",
+        "y": 0, "weight": 100
+      },
+	  	  {
+        "model": "yttr:block/ruined_construct_rc_1",
+        "y": 0, "weight": 100
+      },
+	  	  {
+        "model": "yttr:block/ruined_construct_rc_1",
+        "y": 0, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_construct_rc_2",
+        "y": 90, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_construct_rc_2",
+        "y": 180, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_construct_rc_2",
+        "y": 270, "weight": 100
+      },
+      {
+        "model": "yttr:block/ruined_container",
+        "y": 0, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_container",
+        "y": 90, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_container",
+        "y": 180, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_container",
+        "y": 270, "weight": 100
+      },
+      {
+        "model": "yttr:block/ruined_device_bc_1",
+        "y": 0, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_device_bc_1",
+        "y": 90, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_device_bc_1",
+        "y": 180, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_device_bc_1",
+        "y": 270, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_device_gt_1",
+        "y": 0, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_device_gt_1",
+        "y": 90, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_device_gt_1",
+        "y": 180, "weight": 100
+      },
+	        {
+        "model": "yttr:block/ruined_device_gt_1",
+        "y": 180, "weight": 100
+      },
+	  	        {
+        "model": "yttr:block/ruined_device_rp_1",
+        "y": 90, "weight": 100
+      },
+	  	        {
+        "model": "yttr:block/ruined_device_rp_1",
+        "y": 180, "weight": 100
+      },
+	  	        {
+        "model": "yttr:block/ruined_device_rp_1",
+        "y": 270, "weight": 100
+      },
+	  	        {
+        "model": "yttr:block/ruined_device_rp_1",
+        "y": 0, "weight": 100
+      },
+	  {
+        "model": "ic2:block/generator/electric/generator",
+         "weight": 1
+      },
+	  {
+        "model": "ic2:block/machine/processing/basic/compressor",
+        "y": 0, "weight": 1
+      },
+	  	  {
+        "model": "ic2:block/machine/processing/basic/compressor",
+        "y": 90, "weight": 5
+      },
+	  	  {
+        "model": "ic2:block/machine/processing/basic/compressor",
+        "y": 180, "weight": 5
+      },
+	  	  {
+        "model": "ic2:block/machine/processing/basic/compressor",
+        "y": 270, "weight": 5
+      },
+	  {
+        "model": "ic2:block/machine/processing/basic/electric_furnace",
+        "y": 0, "weight": 5
+      },
+	  	  {
+        "model": "ic2:block/machine/processing/basic/electric_furnace",
+        "y": 90, "weight": 5
+      },
+	  	  {
+        "model": "ic2:block/machine/processing/basic/electric_furnace",
+        "y": 180, "weight": 5
+      },
+	  	  {
+        "model": "ic2:block/machine/processing/basic/electric_furnace",
+        "y": 270, "weight": 5
+      },
+	  {
+        "model": "otherlands:block/ae2_controller",
+        "y": 0, "weight": 300
+      },
+	  {
+        "model": "minecraft:block/blast_furnace",
+        "y": 0, "weight": 100
+      },
+	  {
+        "model": "minecraft:block/exposed_copper",
+        "y": 0, "weight": 100
+      },
+	  {
+        "model": "minecraft:block/exposed_cut_copper",
+        "y": 0, "weight": 100
+      },
+	  	  {
+        "model": "mekanism:block/crusher",
+        "y": 90, "weight": 100
+      },
+	  	  {
+        "model": "mekanism:block/crusher",
+        "y": 180, "weight": 100
+      },
+	  	  {
+        "model": "mekanism:block/crusher",
+        "y": 270, "weight": 100
+      },
+	  	  {
+        "model": "mekanism:block/crusher",
+        "y": 0, "weight": 100
+      },
+	  {
+        "model": "mekanism:block/enrichment_chamber",
+        "y": 0, "weight": 100
+      },
+	  	  {
+        "model": "mekanism:block/enrichment_chamber",
+        "y": 90, "weight": 100
+      },
+	  	  {
+        "model": "mekanism:block/enrichment_chamber",
+        "y": 180, "weight": 100
+      },
+	  	  {
+        "model": "mekanism:block/enrichment_chamber",
+        "y": 270, "weight": 100
+      },
+	  {
+        "model": "minecraft:block/soul_soil",
+        "y": 0, "weight": 100
+      }
+    ]
+  }
+}
