@@ -571,10 +571,34 @@
 			}
 		]
 	},
+	"otherlands.architect.idumea":{
+		"sounds": [
+			{
+			"name": "otherlands/architect/idumea",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.architect.office":{
 		"sounds": [
 			{
-			"name": "otherlands/architect/architect_phone",
+			"name": "otherlands/architect/office",
+			"stream": true
+			}
+		]
+	},
+		"otherlands.architect.bigboom":{
+		"sounds": [
+			{
+			"name": "otherlands/architect/big_boom",
+			"stream": true
+			}
+		]
+	},
+			"otherlands.architect.spotlight":{
+		"sounds": [
+			{
+			"name": "otherlands/architect/spotlight",
 			"stream": true
 			}
 		]
