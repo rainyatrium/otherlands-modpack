@@ -16,6 +16,7 @@
 		{ "predicate": { "custom_model_data": 10}, "model": "item/cosmetic/cane_dexter" 					},
 		{ "predicate": { "custom_model_data": 11}, "model": "item/cosmetic/parasol" 							},
 		{ "predicate": { "custom_model_data": 12}, "model": "item/cosmetic/npc_kalamazoo_wand" 		},
+		{ "predicate": { "custom_model_data": 13}, "model": "item/cosmetic/pc_kathryn_parasol" 		},
 		{ "predicate": { "custom_model_data": 100}, "model": "item/cosmetic/wooden_figurines/blank" 		},
 		{ "predicate": { "custom_model_data": 101}, "model": "item/cosmetic/wooden_figurines/dexter" 		},
 		{ "predicate": { "custom_model_data": 102}, "model": "item/cosmetic/wooden_figurines/germaine" 	},
