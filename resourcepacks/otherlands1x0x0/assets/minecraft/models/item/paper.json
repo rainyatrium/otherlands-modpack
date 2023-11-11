@@ -5,6 +5,7 @@
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/library_ticket" 				},
-		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/newspaper" 				}
+		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/newspaper" 				},
+		{ "predicate": { "custom_model_data": 3}, "model": "item/magic/enchantment_cloth" 				}
 	]
 }
