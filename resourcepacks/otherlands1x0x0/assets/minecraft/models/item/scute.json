@@ -163,6 +163,8 @@
 		{ "predicate": { "custom_model_data": 346}, "model": "item/monster/botany_beast_body_part_triangle_pyro" 		},
 		{ "predicate": { "custom_model_data": 347}, "model": "item/monster/botany_beast_body_part_square_pyro" 			},
 		{ "predicate": { "custom_model_data": 348}, "model": "item/monster/botany_beast_book" 					},
-		{ "predicate": { "custom_model_data": 349}, "model": "item/monster/botany_hp" 								}
+		{ "predicate": { "custom_model_data": 349}, "model": "item/monster/botany_hp" 								},
+		{ "predicate": { "custom_model_data": 350}, "model": "item/object/ancient_train_exterior_front" 			},
+		{ "predicate": { "custom_model_data": 351}, "model": "item/object/ancient_train_exterior_back" 			}
 	]
 }

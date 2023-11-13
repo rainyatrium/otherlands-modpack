@@ -31,6 +31,29 @@
 			}
 		]
 	},
+	"otherlands.ancient.metro.ambient":{
+		"sounds": [
+			"otherlands/ancient/ambient"
+		]
+	},
+	"otherlands.ancient.metro.additions":{
+		"sounds": [
+			"otherlands/ancient/additions_0",
+			"otherlands/ancient/additions_1",
+			"otherlands/ancient/additions_2",
+			"otherlands/ancient/additions_3",
+			"otherlands/ancient/additions_4",
+			"otherlands/ancient/additions_5"
+		]
+	},
+	"otherlands.ancient.siren":{
+		"sounds": [
+			{
+			"name": "otherlands/ancient/siren",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.engine":{
 		"sounds": [
 			{
