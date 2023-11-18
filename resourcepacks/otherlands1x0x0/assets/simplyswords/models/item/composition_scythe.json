@@ -3,8 +3,8 @@
 	"parent": "halberd",
 	"texture_size": [24, 48],
 	"textures": {
-		"0": "simplyswords:custom/iron_scythe",
-		"particle": "simplyswords:custom/iron_scythe"
+		"0": "simplyswords:custom/composition_scythe",
+		"particle": "simplyswords:custom/composition_scythe"
 	},
 	"elements": [
 		{
@@ -74,6 +74,9 @@
 		}
 	],
 	"gui_light": "front",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/cosmetic/crazy_scythe"}
+	],
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, 15, 0]
@@ -103,9 +106,5 @@
 			"translation": [0, -18, -2],
 			"scale": [1.6, 1.6, 1.6]
 		}
-	},
-	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/crazy_scythe" 					},
-		{ "predicate": { "custom_model_data": 2}, "model": "simplyswords:item/composition_scythe" 	}
-	]
+	}
 }

@@ -118,10 +118,26 @@
 			}
 		]
 	},
+	"otherlands.moss_fight":{
+		"sounds": [
+			{
+			"name": "otherjams/moss_fight",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.dexter_apartment":{
 		"sounds": [
 			{
 			"name": "otherjams/dexter_apartment",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.happy_together":{
+		"sounds": [
+			{
+			"name": "otherjams/happytogether",
 			"stream": true
 			}
 		]
@@ -210,14 +226,6 @@
 		"sounds": [
 			{
 			"name": "otherjams/ile",
-			"stream": true
-			}
-		]
-	},
-		"otherlands.happy_together":{
-		"sounds": [
-			{
-			"name": "otherjams/happytogether",
 			"stream": true
 			}
 		]
@@ -455,10 +463,18 @@
 			}
 		]
 	},
-	"otherlands.ending":{
+	"otherlands.ending.story":{
 		"sounds": [
 			{
-			"name": "otherjams/ending",
+			"name": "otherjams/ending_story",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.ending.build":{
+		"sounds": [
+			{
+			"name": "otherjams/ending_build",
 			"stream": true
 			}
 		]
