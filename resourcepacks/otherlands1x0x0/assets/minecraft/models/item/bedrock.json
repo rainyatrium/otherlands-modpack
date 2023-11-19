@@ -1,6 +1,30 @@
 {
   "parent": "minecraft:block/bedrock",
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "item/monster/dexter_portal" 					}
+		{ "predicate": { "custom_model_data": 1 }, "model": "item/monster/bedrock/0" 					},
+		{ "predicate": { "custom_model_data": 2 }, "model": "item/monster/bedrock/1" 					},
+		{ "predicate": { "custom_model_data": 3 }, "model": "item/monster/bedrock/2" 					},
+		{ "predicate": { "custom_model_data": 4 }, "model": "item/monster/bedrock/3" 					},
+		{ "predicate": { "custom_model_data": 5 }, "model": "item/monster/bedrock/4" 					},
+		{ "predicate": { "custom_model_data": 6 }, "model": "item/monster/bedrock/5" 					},
+		{ "predicate": { "custom_model_data": 7 }, "model": "item/monster/bedrock/6" 					},
+		{ "predicate": { "custom_model_data": 8 }, "model": "item/monster/bedrock/7" 					},
+		{ "predicate": { "custom_model_data": 9 }, "model": "item/monster/bedrock/8" 					},
+		{ "predicate": { "custom_model_data": 10 }, "model": "item/monster/bedrock/9" 					},
+		{ "predicate": { "custom_model_data": 11 }, "model": "item/monster/bedrock/10" 					},
+		{ "predicate": { "custom_model_data": 12 }, "model": "item/monster/bedrock/11" 					},
+		{ "predicate": { "custom_model_data": 13 }, "model": "item/monster/bedrock/12" 					},
+		{ "predicate": { "custom_model_data": 14 }, "model": "item/monster/bedrock/13" 					},
+		{ "predicate": { "custom_model_data": 15 }, "model": "item/monster/bedrock/14" 					},
+		{ "predicate": { "custom_model_data": 16 }, "model": "item/monster/bedrock/15" 					},
+		{ "predicate": { "custom_model_data": 17 }, "model": "item/monster/bedrock/16" 					},
+		{ "predicate": { "custom_model_data": 18 }, "model": "item/monster/bedrock/17" 					},
+		{ "predicate": { "custom_model_data": 19 }, "model": "item/monster/bedrock/18" 					},
+		{ "predicate": { "custom_model_data": 20 }, "model": "item/monster/bedrock/19" 					},
+		{ "predicate": { "custom_model_data": 21 }, "model": "item/monster/bedrock/20" 					},
+		{ "predicate": { "custom_model_data": 22 }, "model": "item/monster/bedrock/21" 					},
+		{ "predicate": { "custom_model_data": 23 }, "model": "item/monster/bedrock/22" 					},
+		{ "predicate": { "custom_model_data": 24 }, "model": "item/monster/bedrock/23" 					},
+		{ "predicate": { "custom_model_data": 25 }, "model": "item/monster/bedrock/24" 					}
 	]
 }
