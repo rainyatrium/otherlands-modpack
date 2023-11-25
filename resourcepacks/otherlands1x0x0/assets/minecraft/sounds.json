@@ -602,14 +602,6 @@
 			}
 		]
 	},
-	"otherlands.architect.idumea":{
-		"sounds": [
-			{
-			"name": "otherlands/architect/idumea",
-			"stream": true
-			}
-		]
-	},
 	"otherlands.architect.office":{
 		"sounds": [
 			{

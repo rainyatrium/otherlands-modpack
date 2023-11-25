@@ -134,14 +134,6 @@
 			}
 		]
 	},
-	"otherlands.happy_together":{
-		"sounds": [
-			{
-			"name": "otherjams/happytogether",
-			"stream": true
-			}
-		]
-	},
 	"otherlands.void.etude_pour_piano":{
 		"sounds": [
 			{
