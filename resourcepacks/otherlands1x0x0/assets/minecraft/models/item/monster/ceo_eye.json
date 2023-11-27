@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "ceo_full",
+	"texture_size": [72, 72],
+	"textures": {
+		"0": "custom/ceo",
+		"particle": "custom/ceo"
+	},
+	"elements": [
+		{
+			"from": [5.5, 5.5, 5.75],
+			"to": [10.5, 10.5, 10.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8.25]},
+			"faces": {
+				"north": {"uv": [6.66667, 12.22222, 7.77778, 13.33333], "texture": "#0"},
+				"east": {"uv": [5.55556, 12.22222, 6.66667, 13.33333], "texture": "#0"},
+				"south": {"uv": [4.44444, 12.22222, 5.55556, 13.33333], "texture": "#0"},
+				"west": {"uv": [7.77778, 12.22222, 8.88889, 13.33333], "texture": "#0"},
+				"up": {"uv": [6.66667, 12.22222, 5.55556, 11.11111], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [7.77778, 11.11111, 6.66667, 12.22222], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -7.25, 0]
+		}
+	}
+}

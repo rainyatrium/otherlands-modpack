@@ -3,8 +3,8 @@
 	"parent": "ceo",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "custom/ceo",
-		"particle": "custom/ceo"
+		"0": "custom/early_ceo",
+		"particle": "custom/early_ceo"
 	},
 	"elements": [
 		{

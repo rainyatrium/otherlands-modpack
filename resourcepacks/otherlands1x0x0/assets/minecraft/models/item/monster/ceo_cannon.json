@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "ceo_full",
+	"texture_size": [72, 72],
+	"textures": {
+		"0": "custom/ceo",
+		"particle": "custom/ceo"
+	},
+	"elements": [
+		{
+			"name": "cannon",
+			"from": [7.5, 6, 7.5],
+			"to": [8.5, 8, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.5, 5, -2]},
+			"faces": {
+				"north": {"uv": [9.77778, 9.55556, 10, 10], "texture": "#0"},
+				"east": {"uv": [9.55556, 9.55556, 9.77778, 10], "texture": "#0"},
+				"south": {"uv": [9.33333, 9.55556, 9.55556, 10], "texture": "#0"},
+				"west": {"uv": [10, 9.55556, 10.22222, 10], "texture": "#0"},
+				"up": {"uv": [9.77778, 9.55556, 9.55556, 9.33333], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [10, 9.33333, 9.77778, 9.55556], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -4.75, 0]
+		}
+	}
+}
