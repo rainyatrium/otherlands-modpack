@@ -62,6 +62,14 @@
 			}
 		]
 	},
+	"otherlands.engine.drums":{
+		"sounds": [
+			{
+			"name": "otherlands/engine_drums",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.rift.open":{
 		"sounds": [
 			{

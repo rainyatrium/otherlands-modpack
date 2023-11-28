@@ -15,7 +15,8 @@
 		"snailsky",
 		"spacedesert",
 		"architectsky",
-		"nebula"
+		"nebula",
+		"enginesky"
 		],
 	"environment": {
 		"fog_color": {
