@@ -6,6 +6,7 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "otherlands:item/keystone/chess_world"			},
 		{"predicate": {"custom_model_data": 2}, "model": "otherlands:item/keystone/blackeye_dungeon"	},
-		{"predicate": {"custom_model_data": 3}, "model": "otherlands:item/keystone/void_lab"					}
+		{"predicate": {"custom_model_data": 3}, "model": "otherlands:item/keystone/void_lab"					},
+		{"predicate": {"custom_model_data": 4}, "model": "otherlands:item/keystone/minor_temple"			}
 	]
 }

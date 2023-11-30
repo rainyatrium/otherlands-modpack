@@ -18,6 +18,6 @@
 			{ "predicate": { "custom_model_data": 11}, "model": "item/cosmetic/steppe_sword"			},
 			{ "predicate": { "custom_model_data": 12}, "model": "item/cosmetic/pc_wynngreatsword" 	},
 			{ "predicate": { "custom_model_data": 13}, "model": "item/cosmetic/amarynsword" 			},
-			{ "predicate": { "custom_model_data": 14}, "model": "item/cosmetic/cane_sword_weapon" 	}
+			{ "predicate": { "custom_model_data": 14}, "model": "item/cosmetic/artifact/cane_sword_weapon" 	}
 	]
 }
