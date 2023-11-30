@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"bottom": "magnumtorch:block/magnum_torch_bottom",
+		"top": "magnumtorch:block/magnum_torch_top",
+		"particle": "magnumtorch:block/diamond_magnum_torch",
+		"texture": "magnumtorch:block/diamond_magnum_torch"
+	},
+	"elements": [
+		{
+			"from": [6, 12, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [6, 12, 10, 16], "texture": "#texture"},
+				"east": {"uv": [10, 12, 6, 16], "texture": "#texture"},
+				"south": {"uv": [6, 12, 10, 16], "texture": "#texture"},
+				"west": {"uv": [10, 12, 6, 16], "texture": "#texture"},
+				"up": {"uv": [11, 16, 15, 12], "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [0, 16, 4, 12], "texture": "#texture", "cullface": "down"}
+			}
+		},
+		{
+			"name": "lower",
+			"from": [6.7, 1.7, 6.7],
+			"to": [9.3, 12.3, 9.3],
+			"faces": {
+				"north": {"uv": [6, 0, 8, 10], "texture": "#texture"},
+				"east": {"uv": [8, 0, 6, 10], "texture": "#texture"},
+				"south": {"uv": [6, 0, 8, 10], "texture": "#texture"},
+				"west": {"uv": [8, 0, 6, 10], "texture": "#texture"},
+				"up": {"uv": [6, 16, 10, 10], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [6, 16, 10, 10], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [5.7, -0.3, 5.7],
+			"to": [10.3, 2.3, 10.3],
+			"faces": {
+				"north": {"uv": [4, 0, 0, 2], "texture": "#texture"},
+				"east": {"uv": [0, 0, 4, 2], "texture": "#texture"},
+				"south": {"uv": [4, 0, 0, 2], "texture": "#texture"},
+				"west": {"uv": [0, 0, 4, 2], "texture": "#texture"},
+				"up": {"uv": [0, 2, 4, 6], "texture": "#texture"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#texture"}
+			}
+		}
+	]
+}

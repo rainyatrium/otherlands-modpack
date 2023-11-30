@@ -1,0 +1,15 @@
+{
+  "block.magnumtorch.diamond_magnum_torch": "Good Dream Lantern",
+  "block.magnumtorch.emerald_magnum_torch": "Emerald Dream Lantern",
+  "block.magnumtorch.amethyst_magnum_torch": "Amethyst Dream Lantern",
+  "block.magnumtorch.magnum_torch.info": "Keeps the bad ones away.",
+  "block.magnumtorch.magnum_torch.info.more": "Hold %s for more information",
+  "block.magnumtorch.magnum_torch.info.shift": "Shift",
+  "block.magnumtorch.magnum_torch.info.mob_types": "Targets: %s",
+  "block.magnumtorch.magnum_torch.info.blacklist": "Blacklist: %s",
+  "block.magnumtorch.magnum_torch.info.whitelist": "Whitelist: %s",
+  "block.magnumtorch.magnum_torch.info.shape_type": "Shape: %s",
+  "block.magnumtorch.magnum_torch.info.horizontal_range": "Horizontal Range: %s",
+  "block.magnumtorch.magnum_torch.info.vertical_range": "Vertical Range: %s",
+  "itemGroup.magnumtorch.main": "Magnum Torch"
+}
