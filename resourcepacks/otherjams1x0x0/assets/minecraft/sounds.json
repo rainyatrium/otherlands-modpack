@@ -198,6 +198,22 @@
 			}
 		]
 	},
+	"otherlands.crafter":{
+		"sounds": [
+			{
+			"name": "otherjams/crafter",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.victory":{
+		"sounds": [
+			{
+			"name": "otherjams/victory",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.eos":{
 		"sounds": [
 			{

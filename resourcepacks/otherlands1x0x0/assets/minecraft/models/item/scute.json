@@ -184,6 +184,7 @@
 		{ "predicate": { "custom_model_data": 360}, "model": "item/cosmetic/artifact/toyhouse" 						},
 		{ "predicate": { "custom_model_data": 361}, "model": "item/cosmetic/artifact/ancient_minelayer" 			},
 		{ "predicate": { "custom_model_data": 362}, "model": "item/cosmetic/artifact/ancient_minelayer_detonator" 	},
-		{ "predicate": { "custom_model_data": 363}, "model": "item/cosmetic/artifact/ancient_mine" 					}
+		{ "predicate": { "custom_model_data": 363}, "model": "item/cosmetic/artifact/ancient_mine" 					},
+		{ "predicate": { "custom_model_data": 364}, "model": "item/monster/crafting_table" 							}
 	]
 }
