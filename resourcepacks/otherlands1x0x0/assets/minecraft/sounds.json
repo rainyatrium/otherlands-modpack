@@ -587,6 +587,11 @@
 			"otherlands/culture/spawn"
 		]
 	},
+	"otherlands.culture.quick":{
+		"sounds": [
+			"otherlands/culture/quick"
+		]
+	},
 	"otherlands.architect.ringl":{
 		"sounds": [
 			"otherlands/architect/architect_ring_long"
