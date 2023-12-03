@@ -80,7 +80,11 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "item/cosmetic/npc_dexter_lamphat" 				},
 		{ "predicate": { "custom_model_data": 2 }, "model": "item/cosmetic/coinwall" 									},
-		{ "predicate": { "custom_model_data": 3 }, "model": "item/object/spirit_train_engine" 					},
-		{ "predicate": { "custom_model_data": 4 }, "model": "item/object/spirit_train_car" 						}
+		{ "predicate": { "custom_model_data": 3 }, "model": "item/object/spirit_train_engine" 						},
+		{ "predicate": { "custom_model_data": 4 }, "model": "item/object/spirit_train_car" 							},
+		{ "predicate": { "custom_model_data": 500 }, "model": "item/cosmetic/afterlife/pangloss" 				},
+		{ "predicate": { "custom_model_data": 501 }, "model": "item/cosmetic/afterlife/tomar" 					},
+		{ "predicate": { "custom_model_data": 502 }, "model": "item/cosmetic/afterlife/wayland" 					},
+		{ "predicate": { "custom_model_data": 503 }, "model": "item/cosmetic/afterlife/ashdown" 				}
 	]
 }
