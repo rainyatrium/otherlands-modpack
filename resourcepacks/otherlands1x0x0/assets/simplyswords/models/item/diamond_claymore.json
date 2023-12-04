@@ -4,6 +4,7 @@
     "layer0": "simplyswords:item/diamond_claymore"
   },
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/pc_wynngreatsword" 			}
+		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/pc_wynngreatsword" 			},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/steppe_sword" 					}
 	]
 }

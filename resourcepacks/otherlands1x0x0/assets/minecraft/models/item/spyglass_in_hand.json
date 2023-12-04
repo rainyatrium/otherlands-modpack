@@ -50,7 +50,8 @@
         }
     },
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/magnifying_glass_in_hand" 			},
-		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/antique_spyglass" 			}
+		{ "predicate": { "custom_model_data": 1}, "model": "item/cosmetic/magnifying_glass_in_hand" 	},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/cosmetic/antique_spyglass" 				},
+		{ "predicate": { "custom_model_data": 3}, "model": "item/cosmetic/tree_spyglass_in_hand" 		}
 	]
 }

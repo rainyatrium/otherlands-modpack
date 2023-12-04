@@ -222,6 +222,14 @@
 			}
 		]
 	},
+	"otherlands.ethereality":{
+		"sounds": [
+			{
+			"name": "otherjams/ethereality",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.new_void":{
 		"sounds": [
 			{
