@@ -126,6 +126,14 @@
 			}
 		]
 	},
+	"otherlands.moss_fight.final":{
+		"sounds": [
+			{
+			"name": "otherjams/moss_fight_final",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.dexter_apartment":{
 		"sounds": [
 			{
