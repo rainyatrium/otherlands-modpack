@@ -82,6 +82,7 @@
 		{ "predicate": { "custom_model_data": 2 }, "model": "item/cosmetic/coinwall" 									},
 		{ "predicate": { "custom_model_data": 3 }, "model": "item/object/spirit_train_engine" 						},
 		{ "predicate": { "custom_model_data": 4 }, "model": "item/object/spirit_train_car" 							},
+		{ "predicate": { "custom_model_data": 5 }, "model": "item/object/roekoe_gameshow_sign" 				},
 		{ "predicate": { "custom_model_data": 500 }, "model": "item/cosmetic/afterlife/pangloss" 				},
 		{ "predicate": { "custom_model_data": 501 }, "model": "item/cosmetic/afterlife/tomar" 					},
 		{ "predicate": { "custom_model_data": 502 }, "model": "item/cosmetic/afterlife/wayland" 					},
