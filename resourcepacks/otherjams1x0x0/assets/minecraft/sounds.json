@@ -118,6 +118,22 @@
 			}
 		]
 	},
+	"otherlands.castle.gameshow":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/gameshow",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.castle.water_room":{
+		"sounds": [
+			{
+			"name": "otherjams/castle/water_room",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.moss_fight":{
 		"sounds": [
 			{
