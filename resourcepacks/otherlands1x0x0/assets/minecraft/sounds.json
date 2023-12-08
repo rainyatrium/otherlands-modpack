@@ -96,6 +96,20 @@
 			}
 		]
 	},
+	"otherlands.gameshow.board_fill":{
+		"sounds": [
+			{
+			"name": "otherlands/castle/gameshow_board_fill"
+			}
+		]
+	},
+	"otherlands.gameshow.round_end":{
+		"sounds": [
+			{
+			"name": "otherlands/castle/gameshow_round_end"
+			}
+		]
+	},
 	"otherlands.tractor_beam.get_out":{
 		"sounds": [
 			{

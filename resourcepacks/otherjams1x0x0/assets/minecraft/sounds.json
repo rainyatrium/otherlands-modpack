@@ -519,6 +519,14 @@
 			}
 		]
 	},
+	"otherlands.ending.special":{
+		"sounds": [
+			{
+			"name": "otherjams/ending_special",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.ending.build":{
 		"sounds": [
 			{
