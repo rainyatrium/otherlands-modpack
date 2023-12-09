@@ -15,6 +15,8 @@
 		{ "predicate": { "custom_model_data": 9 }, "model": "item/object/orrery_moon_6" 	},
 		{ "predicate": { "custom_model_data": 10 }, "model": "item/object/orrery_moon_7" 	},
 		{ "predicate": { "custom_model_data": 11 }, "model": "item/object/orrery_star" 		},
-		{ "predicate": { "custom_model_data": 67}, "model": "item/object/jbbeam" 				}
+		{ "predicate": { "custom_model_data": 67}, "model": "item/object/jbbeam" 				},
+		{ "predicate": { "custom_model_data": 12 }, "model": "item/cosmetic/catalyst_bauble_cut"},
+		{ "predicate": { "custom_model_data": 13 }, "model": "item/cosmetic/catalyst_bauble_open"}
 	]
 }
