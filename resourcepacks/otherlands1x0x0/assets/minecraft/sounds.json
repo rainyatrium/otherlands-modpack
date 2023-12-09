@@ -658,6 +658,11 @@
 			"otherlands/valraven/warp"
 		]
 	},
+	"otherlands.valraven.eat":{
+		"sounds": [
+			"otherlands/valraven/eat"
+		]
+	},
 	"otherlands.castle.jim_crying":{
 		"sounds": [
 			"otherlands/castle/crying"
