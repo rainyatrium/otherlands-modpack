@@ -102,6 +102,14 @@
 			}
 		]
 	},
+	"otherlands.cryogenics":{
+		"sounds": [
+			{
+			"name": "otherjams/cryogenics",
+			"stream": true
+			}
+		]
+	},
 		"otherlands.castle.botany_boss":{
 		"sounds": [
 			{

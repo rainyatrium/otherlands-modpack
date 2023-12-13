@@ -299,6 +299,136 @@
 			"otherlands/beeps/dark_tone_4"
 		]
 	},
+	"otherlands.pierrot.a":{
+		"sounds": [
+			"otherlands/pierrot/a"
+		]
+	},
+	"otherlands.pierrot.b":{
+		"sounds": [
+			"otherlands/pierrot/b"
+		]
+	},
+	"otherlands.pierrot.c":{
+		"sounds": [
+			"otherlands/pierrot/c"
+		]
+	},
+	"otherlands.pierrot.d":{
+		"sounds": [
+			"otherlands/pierrot/d"
+		]
+	},
+	"otherlands.pierrot.e":{
+		"sounds": [
+			"otherlands/pierrot/e"
+		]
+	},
+	"otherlands.pierrot.f":{
+		"sounds": [
+			"otherlands/pierrot/f"
+		]
+	},
+	"otherlands.pierrot.g":{
+		"sounds": [
+			"otherlands/pierrot/g"
+		]
+	},
+	"otherlands.pierrot.h":{
+		"sounds": [
+			"otherlands/pierrot/h"
+		]
+	},
+	"otherlands.pierrot.i":{
+		"sounds": [
+			"otherlands/pierrot/i"
+		]
+	},
+	"otherlands.pierrot.j":{
+		"sounds": [
+			"otherlands/pierrot/j"
+		]
+	},
+	"otherlands.pierrot.k":{
+		"sounds": [
+			"otherlands/pierrot/k"
+		]
+	},
+	"otherlands.pierrot.l":{
+		"sounds": [
+			"otherlands/pierrot/l"
+		]
+	},
+	"otherlands.pierrot.m":{
+		"sounds": [
+			"otherlands/pierrot/m"
+		]
+	},
+	"otherlands.pierrot.n":{
+		"sounds": [
+			"otherlands/pierrot/n"
+		]
+	},
+	"otherlands.pierrot.o":{
+		"sounds": [
+			"otherlands/pierrot/o"
+		]
+	},
+	"otherlands.pierrot.p":{
+		"sounds": [
+			"otherlands/pierrot/p"
+		]
+	},
+	"otherlands.pierrot.q":{
+		"sounds": [
+			"otherlands/pierrot/q"
+		]
+	},
+	"otherlands.pierrot.r":{
+		"sounds": [
+			"otherlands/pierrot/r"
+		]
+	},
+	"otherlands.pierrot.s":{
+		"sounds": [
+			"otherlands/pierrot/s"
+		]
+	},
+	"otherlands.pierrot.t":{
+		"sounds": [
+			"otherlands/pierrot/t"
+		]
+	},
+	"otherlands.pierrot.u":{
+		"sounds": [
+			"otherlands/pierrot/u"
+		]
+	},
+	"otherlands.pierrot.v":{
+		"sounds": [
+			"otherlands/pierrot/v"
+		]
+	},
+	"otherlands.pierrot.w":{
+		"sounds": [
+			"otherlands/pierrot/w"
+		]
+	},
+	"otherlands.pierrot.x":{
+		"sounds": [
+			"otherlands/pierrot/x"
+		]
+	},
+	"otherlands.pierrot.y":{
+		"sounds": [
+			"otherlands/pierrot/y"
+		]
+	},
+	"otherlands.pierrot.z":{
+		"sounds": [
+			"otherlands/pierrot/z"
+		]
+	},
 	"otherlands.unwrap":{
 		"sounds": [
 			"otherlands/unwrap"
