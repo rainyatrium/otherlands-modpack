@@ -110,6 +110,30 @@
 			}
 		]
 	},
+		"otherlands.ancient_fleet.spacewalk":{
+		"sounds": [
+			{
+			"name": "otherjams/ancient_fleet_spacewalk",
+			"stream": true
+			}
+		]
+	},
+		"otherlands.ancient_fleet.colony":{
+		"sounds": [
+			{
+			"name": "otherjams/ancient_fleet_colony",
+			"stream": true
+			}
+		]
+	},
+		"otherlands.ancient_fleet.boss":{
+		"sounds": [
+			{
+			"name": "otherjams/ancient_fleet_boss",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.afterlife":{
 		"sounds": [
 			{
