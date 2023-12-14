@@ -126,6 +126,14 @@
 			}
 		]
 	},
+		"otherlands.ceo":{
+		"sounds": [
+			{
+			"name": "otherjams/ceo",
+			"stream": true
+			}
+		]
+	},
 		"otherlands.ancient_fleet.colony":{
 		"sounds": [
 			{
