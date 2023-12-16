@@ -822,5 +822,21 @@
 			"stream": true
 			}
 		]
+	},
+	"otherlands.basin.wind":{
+		"sounds": [
+			{
+			"name": "otherjams/basin_wind",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.basin.town":{
+		"sounds": [
+			{
+			"name": "otherjams/basin_town",
+			"stream": true
+			}
+		]
 	}
 }
