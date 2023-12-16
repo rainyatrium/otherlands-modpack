@@ -134,6 +134,14 @@
 			}
 		]
 	},
+		"otherlands.klarkson":{
+		"sounds": [
+			{
+			"name": "otherjams/klarkson",
+			"stream": true
+			}
+		]
+	},
 		"otherlands.ancient_fleet.colony":{
 		"sounds": [
 			{
