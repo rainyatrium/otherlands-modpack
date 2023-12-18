@@ -102,6 +102,14 @@
 			}
 		]
 	},
+	"otherlands.minor_challenge":{
+		"sounds": [
+			{
+			"name": "otherjams/minor_challenge",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.cryogenics":{
 		"sounds": [
 			{

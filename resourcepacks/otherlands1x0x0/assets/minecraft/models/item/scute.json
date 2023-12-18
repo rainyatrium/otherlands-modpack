@@ -188,6 +188,11 @@
 		{ "predicate": { "custom_model_data": 361}, "model": "item/cosmetic/artifact/ancient_minelayer" 			},
 		{ "predicate": { "custom_model_data": 362}, "model": "item/cosmetic/artifact/ancient_minelayer_detonator" 	},
 		{ "predicate": { "custom_model_data": 363}, "model": "item/cosmetic/artifact/ancient_mine" 					},
-		{ "predicate": { "custom_model_data": 364}, "model": "item/monster/crafting_table" 							}
+		{ "predicate": { "custom_model_data": 364}, "model": "item/monster/crafting_table" 							},
+		{ "predicate": { "custom_model_data": 365}, "model": "item/cosmetic/artifact/dasa_headband" 			},
+		{ "predicate": { "custom_model_data": 366}, "model": "item/cosmetic/artifact/dasa_headband_fists_neutral" 			},
+		{ "predicate": { "custom_model_data": 367}, "model": "item/cosmetic/artifact/dasa_headband_fists_punch_left" 		},
+		{ "predicate": { "custom_model_data": 368}, "model": "item/cosmetic/artifact/dasa_headband_fists_punch_right" 	},
+		{ "predicate": { "custom_model_data": 369}, "model": "item/cosmetic/artifact/dasa_headband_fists_block" 			}
 	]
 }
