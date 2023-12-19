@@ -736,6 +736,16 @@
 			"otherlands/culture/quick"
 		]
 	},
+		"otherlands.architect.local_pickup":{
+		"sounds": [
+			"otherlands/architect/local_pickup"
+		]
+	},
+		"otherlands.architect.local_hangup":{
+		"sounds": [
+			"otherlands/architect/local_hangup"
+		]
+	},
 	"otherlands.architect.ringl":{
 		"sounds": [
 			"otherlands/architect/architect_ring_long"
