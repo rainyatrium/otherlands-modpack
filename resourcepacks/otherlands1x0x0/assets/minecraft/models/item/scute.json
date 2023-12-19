@@ -67,6 +67,7 @@
 		{ "predicate": { "custom_model_data": 90}, "model": "item/object/sundial_shadow" 				},
 		{ "predicate": { "custom_model_data": 91}, "model": "item/monster/tamaco" 						},
 		{ "predicate": { "custom_model_data": 92}, "model": "item/cosmetic/viskal_puppet" 				},
+		{ "predicate": { "custom_model_data": 93}, "model": "item/cosmetic/innate_blank" 				},
 		{ "predicate": { "custom_model_data": 100}, "model": "item/monster/investigator" 				},
 		{ "predicate": { "custom_model_data": 101}, "model": "item/monster/cop_flashlight" 			},
 		{ "predicate": { "custom_model_data": 102}, "model": "item/monster/cop_desk" 					},

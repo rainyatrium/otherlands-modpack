@@ -509,6 +509,14 @@
 			"otherlands/assemble_block_start"
 		]
 	},
+	"otherlands.signal.ancient":{
+		"sounds": [
+			{
+			"name": "otherlands/signals/ancient",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.signal.0":{
 		"sounds": [
 			{
