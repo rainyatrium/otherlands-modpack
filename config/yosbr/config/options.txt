@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:5
 renderClouds:true
-resourcePacks:["vanilla","loadmyresources.hiddenpack","file/aSolid Grass b1.16.5","file/otherjams1x0x0","file/otherlands1x0x0"]
+resourcePacks:["vanilla","Fabric Mods","loadmyresources.hiddenpack","file/aSolid Grass b1.16.5","file/otherjams1x0x0","file/otherlands1x0x0"]
 incompatibleResourcePacks:["file/aSolid Grass b1.16.5"]
 lastServer:
 lang:en_us
