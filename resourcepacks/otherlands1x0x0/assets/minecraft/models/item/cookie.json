@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cookie"
+  },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/cooking/food/cookie_frosted" 					},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/cooking/food/cookie_frosted_dendro" 		},
+		{ "predicate": { "custom_model_data": 3}, "model": "item/cooking/food/cookie_frosted_electro" 		},
+		{ "predicate": { "custom_model_data": 4}, "model": "item/cooking/food/cookie_frosted_hydro" 		},
+		{ "predicate": { "custom_model_data": 5}, "model": "item/cooking/food/cookie_frosted_obscuro" 	},
+		{ "predicate": { "custom_model_data": 6}, "model": "item/cooking/food/cookie_frosted_pyro" 			},
+		{ "predicate": { "custom_model_data": 7}, "model": "item/cooking/food/cookie_frosted_crafting_table" 			}
+	]
+}

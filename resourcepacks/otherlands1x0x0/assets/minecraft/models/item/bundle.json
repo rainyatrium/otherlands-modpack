@@ -14,6 +14,8 @@
 		{ "predicate": { "custom_model_data": 6 }, "model": "item/cosmetic/architect_briefcase" 							},
 		{ "predicate": { "custom_model_data": 7 }, "model": "item/cosmetic/npc_sinister_suitcase" 						},
 		{ "predicate": { "custom_model_data": 8}, "model": "item/cosmetic/gift_open" 										},
-		{ "predicate": { "custom_model_data": 8, "filled": 0.0000001 }, "model": "item/cosmetic/gift_closed" 			}
+		{ "predicate": { "custom_model_data": 8, "filled": 0.0000001 }, "model": "item/cosmetic/gift_closed" 			},
+		{ "predicate": { "custom_model_data": 9}, "model": "item/cosmetic/envelope_purple_open" 									},
+		{ "predicate": { "custom_model_data": 9, "filled": 0.0000001 }, "model": "item/cosmetic/envelope_purple_closed" 	}
     ]
 }
