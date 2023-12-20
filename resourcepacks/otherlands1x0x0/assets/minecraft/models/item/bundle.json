@@ -12,6 +12,8 @@
 		{ "predicate": { "custom_model_data": 4 }, "model": "item/cosmetic/briefcase" 										},
 		{ "predicate": { "custom_model_data": 5 }, "model": "item/cosmetic/bottle_wine_empty" 							},
 		{ "predicate": { "custom_model_data": 6 }, "model": "item/cosmetic/architect_briefcase" 							},
-		{ "predicate": { "custom_model_data": 7 }, "model": "item/cosmetic/npc_sinister_suitcase" 						}
+		{ "predicate": { "custom_model_data": 7 }, "model": "item/cosmetic/npc_sinister_suitcase" 						},
+		{ "predicate": { "custom_model_data": 8}, "model": "item/cosmetic/gift_open" 										},
+		{ "predicate": { "custom_model_data": 8, "filled": 0.0000001 }, "model": "item/cosmetic/gift_closed" 			}
     ]
 }
