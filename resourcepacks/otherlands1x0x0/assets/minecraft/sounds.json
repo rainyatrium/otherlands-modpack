@@ -1002,6 +1002,11 @@
 			"otherlands/ultramass"
 		]
 	},
+	"otherlands.sleighbell":{
+		"sounds": [
+			"otherlands/sleigh-bell"
+		]
+	},
 	"otherlands.marketplace_crowd":{
 		"sounds": [
 			"otherlands/marketplace_crowd"
