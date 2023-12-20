@@ -302,6 +302,14 @@
 			}
 		]
 	},
+	"otherlands.eternal_dawn":{
+		"sounds": [
+			{
+			"name": "otherjams/eternal_dawn",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.ethereality":{
 		"sounds": [
 			{

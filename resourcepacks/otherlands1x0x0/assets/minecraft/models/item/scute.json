@@ -194,6 +194,8 @@
 		{ "predicate": { "custom_model_data": 366}, "model": "item/cosmetic/artifact/dasa_headband_fists_neutral" 			},
 		{ "predicate": { "custom_model_data": 367}, "model": "item/cosmetic/artifact/dasa_headband_fists_punch_left" 		},
 		{ "predicate": { "custom_model_data": 368}, "model": "item/cosmetic/artifact/dasa_headband_fists_punch_right" 	},
-		{ "predicate": { "custom_model_data": 369}, "model": "item/cosmetic/artifact/dasa_headband_fists_block" 			}
+		{ "predicate": { "custom_model_data": 369}, "model": "item/cosmetic/artifact/dasa_headband_fists_block" 			},
+				{ "predicate": { "custom_model_data": 370}, "model": "item/cosmetic/artifact/blue_chest" 									},
+				{ "predicate": { "custom_model_data": 371}, "model": "item/object/monkeyidol" 			}
 	]
 }
