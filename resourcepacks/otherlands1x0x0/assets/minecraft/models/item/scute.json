@@ -197,6 +197,8 @@
 		{ "predicate": { "custom_model_data": 369}, "model": "item/cosmetic/artifact/dasa_headband_fists_block" 			},
 		{ "predicate": { "custom_model_data": 370}, "model": "item/cosmetic/artifact/blue_chest" 									},
 		{ "predicate": { "custom_model_data": 371}, "model": "item/object/monkeyidol" 									},
-		{ "predicate": { "custom_model_data": 372}, "model": "item/monster/moss" 										}
+		{ "predicate": { "custom_model_data": 372}, "model": "item/monster/moss" 										},
+		{ "predicate": { "custom_model_data": 373}, "model": "item/cosmetic/left_wayfinder" 							},
+		{ "predicate": { "custom_model_data": 374}, "model": "item/cosmetic/right_wayfinder" 							}
 	]
 }
