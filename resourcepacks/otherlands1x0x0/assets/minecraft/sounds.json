@@ -1021,5 +1021,10 @@
 		"sounds": [
 			"otherlands/healingcrossbow/arrow_impact_crossbow_heal"
 		]
+	},
+			"otherlands.volcano_eruption":{
+		"sounds": [
+			"otherlands/volcano"
+		]
 	}
 }
