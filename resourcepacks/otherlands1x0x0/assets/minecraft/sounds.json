@@ -1022,6 +1022,106 @@
 			"otherlands/healingcrossbow/arrow_impact_crossbow_heal"
 		]
 	},
+		"otherlands.brighella.1":{
+		"sounds": [
+			"otherlands/brighella/ah"
+		]
+	},
+		"otherlands.brighella.2":{
+		"sounds": [
+			"otherlands/brighella/buh"
+		]
+	},
+		"otherlands.brighella.3":{
+		"sounds": [
+			"otherlands/brighella/ss"
+		]
+	},
+		"otherlands.brighella.9":{
+		"sounds": [
+			"otherlands/brighella/ch"
+		]
+	},
+		"otherlands.brighella.4":{
+		"sounds": [
+			"otherlands/brighella/duh"
+		]
+	},
+		"otherlands.brighella.5":{
+		"sounds": [
+			"otherlands/brighella/eh"
+		]
+	},
+		"otherlands.brighella.f":{
+		"sounds": [
+			"otherlands/brighella/erh"
+		]
+	},
+		"otherlands.brighella.6":{
+		"sounds": [
+			"otherlands/brighella/ff"
+		]
+	},
+		"otherlands.brighella.7":{
+		"sounds": [
+			"otherlands/brighella/guh"
+		]
+	},
+		"otherlands.brighella.b":{
+		"sounds": [
+			"otherlands/brighella/luh"
+		]
+	},
+			"otherlands.brighella.a":{
+		"sounds": [
+			"otherlands/brighella/kuh"
+		]
+	},
+			"otherlands.brighella.j":{
+		"sounds": [
+			"otherlands/brighella/yuh"
+		]
+	},
+		"otherlands.brighella.8":{
+		"sounds": [
+			"otherlands/brighella/heh"
+		]
+	},
+		"otherlands.brighella.hoh":{
+		"sounds": [
+			"otherlands/brighella/hoh"
+		]
+	},
+		"otherlands.brighella.i":{
+		"sounds": [
+			"otherlands/brighella/kss"
+		]
+	},
+		"otherlands.brighella.c":{
+		"sounds": [
+			"otherlands/brighella/nuh"
+		]
+	},
+		"otherlands.brighella.d":{
+		"sounds": [
+			"otherlands/brighella/ouh"
+		]
+	},
+		"otherlands.brighella.e":{
+		"sounds": [
+			"otherlands/brighella/peh"
+		]
+	},
+		"otherlands.brighella.g":{
+		"sounds": [
+			"otherlands/brighella/tih"
+		]
+	},
+		"otherlands.brighella.h":{
+		"sounds": [
+			"otherlands/brighella/wuh"
+		]
+	},
 			"otherlands.volcano_eruption":{
 		"sounds": [
 			"otherlands/volcano"
