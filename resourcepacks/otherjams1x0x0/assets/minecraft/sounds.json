@@ -150,6 +150,14 @@
 			}
 		]
 	},
+		"otherlands.ancient.elevator":{
+		"sounds": [
+			{
+			"name": "otherjams/ancient/elevator",
+			"stream": true
+			}
+		]
+	},
 		"otherlands.klarkson":{
 		"sounds": [
 			{

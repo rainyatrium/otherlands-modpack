@@ -36,6 +36,11 @@
 			"otherlands/ancient/ambient"
 		]
 	},
+	"otherlands.ancient.boot_up":{
+		"sounds": [
+			"otherlands/ancient/boot"
+		]
+	},
 	"otherlands.ancient.metro.additions":{
 		"sounds": [
 			"otherlands/ancient/additions_0",
