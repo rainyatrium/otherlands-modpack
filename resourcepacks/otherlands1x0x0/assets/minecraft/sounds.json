@@ -41,6 +41,11 @@
 			"otherlands/ancient/boot"
 		]
 	},
+	"otherlands.ancient.elevator_door_open":{
+		"sounds": [
+			"otherlands/ancient/elevator_door_open"
+		]
+	},
 	"otherlands.ancient.metro.additions":{
 		"sounds": [
 			"otherlands/ancient/additions_0",
