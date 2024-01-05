@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "otherlands:block/blueberry_pillar",
+    "north": "otherlands:block/blueberry_pillar",
+    "south": "otherlands:block/blueberry_pillar",
+    "east": "otherlands:block/blueberry_pillar",
+    "west": "otherlands:block/blueberry_pillar",
+    "up": "otherlands:block/blueberry_pillar_top",
+    "down": "otherlands:block/blueberry_pillar_top"
+  }
+}
