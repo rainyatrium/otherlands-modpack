@@ -38,7 +38,7 @@
 	},
 	"otherlands.ancient.boot_up":{
 		"sounds": [
-			"otherlands/ancient/boot"
+			"otherlands/ancient/computerboot"
 		]
 	},
 	"otherlands.ancient.elevator_door_open":{

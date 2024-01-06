@@ -270,6 +270,14 @@
 			}
 		]
 	},
+	"otherlands.dendro.lobby":{
+		"sounds": [
+			{
+			"name": "otherjams/dendro_lobby",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.sinister_scary":{
 		"sounds": [
 			{
