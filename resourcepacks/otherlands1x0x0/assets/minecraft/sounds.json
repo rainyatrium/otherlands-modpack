@@ -38,7 +38,7 @@
 	},
 	"otherlands.ancient.boot_up":{
 		"sounds": [
-			"otherlands/ancient/computerboot"
+			"otherlands/ancient/boot"
 		]
 	},
 	"otherlands.ancient.elevator_door_open":{
@@ -62,6 +62,59 @@
 			"name": "otherlands/ancient/siren",
 			"stream": true
 			}
+		]
+	},
+	"otherlands.ancient.hums.fan":{
+		"sounds": [
+			{
+			"name": "otherlands/ancient/hums_0",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.ancient.hums.fan_rattle":{
+		"sounds": [
+			{
+			"name": "otherlands/ancient/hums_1",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.ancient.hums.fluoresce":{
+		"sounds": [
+			{
+			"name": "otherlands/ancient/hums_2",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.ancient.hums.extractor":{
+		"sounds": [
+			{
+			"name": "otherlands/ancient/hums_3",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.ancient.creak":{
+		"sounds": [
+			"otherlands/ancient/creak_0",
+			"otherlands/ancient/creak_1",
+			"otherlands/ancient/creak_2"
+		]
+	},
+	"otherlands.ancient.creak.distant":{
+		"sounds": [
+			"otherlands/ancient/creak_distant_0",
+			"otherlands/ancient/creak_distant_1",
+			"otherlands/ancient/creak_distant_2"
+		]
+	},
+	"otherlands.ancient.pa":{
+		"sounds": [
+			"otherlands/ancient/speakers_0",
+			"otherlands/ancient/speakers_1",
+			"otherlands/ancient/speakers_2"
 		]
 	},
 	"otherlands.engine":{
