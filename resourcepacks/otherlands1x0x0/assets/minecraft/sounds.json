@@ -23,6 +23,13 @@
 			}
 		]
 	},
+	"otherlands.composition_laugh":{
+		"sounds": [
+			{
+			"name": "otherlands/composition_laugh"
+			}
+		]
+	},
 	"otherlands.purev":{
 		"sounds": [
 			{
