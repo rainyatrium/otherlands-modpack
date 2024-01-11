@@ -1,0 +1,8 @@
+{
+  "animation": {
+	"width": 36,
+	"height": 16,
+    "interpolate": true,
+    "frametime": 4
+  }
+}

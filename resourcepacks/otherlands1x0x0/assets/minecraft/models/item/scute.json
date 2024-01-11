@@ -202,6 +202,16 @@
 		{ "predicate": { "custom_model_data": 371}, "model": "item/object/monkeyidol" 									},
 		{ "predicate": { "custom_model_data": 372}, "model": "item/monster/moss" 										},
 		{ "predicate": { "custom_model_data": 373}, "model": "item/cosmetic/left_wayfinder" 							},
-		{ "predicate": { "custom_model_data": 374}, "model": "item/cosmetic/right_wayfinder" 							}
+		{ "predicate": { "custom_model_data": 374}, "model": "item/cosmetic/right_wayfinder" 						},
+		{ "predicate": { "custom_model_data": 380}, "model": "item/cosmetic/ancient_backup_off" 					},
+		{ "predicate": { "custom_model_data": 381}, "model": "item/cosmetic/ancient_backup_on_0" 				},
+		{ "predicate": { "custom_model_data": 382}, "model": "item/cosmetic/ancient_backup_on_1" 				},
+		{ "predicate": { "custom_model_data": 383}, "model": "item/cosmetic/ancient_backup_on_2" 				},
+		{ "predicate": { "custom_model_data": 384}, "model": "item/cosmetic/ancient_backup_on_3" 				},
+		{ "predicate": { "custom_model_data": 385}, "model": "item/cosmetic/ancient_backup_on_4" 				},
+		{ "predicate": { "custom_model_data": 386}, "model": "item/cosmetic/ancient_backup_on_5" 				},
+		{ "predicate": { "custom_model_data": 387}, "model": "item/cosmetic/ancient_backup_on_6" 				},
+		{ "predicate": { "custom_model_data": 388}, "model": "item/cosmetic/ancient_backup_on_7" 				}
+		
 	]
 }
