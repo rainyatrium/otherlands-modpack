@@ -814,6 +814,43 @@
 			"otherlands/culture/quick"
 		]
 	},
+	"otherlands.verdant.inside":{
+		"sounds": [
+			"otherlands/culture/v_inside"
+		]
+	},
+	"otherlands.verdant.landing":{
+		"sounds": [
+			"otherlands/culture/v_landing"
+		]
+	},
+		"otherlands.verdant.takeoff":{
+		"sounds": [
+			"otherlands/culture/v_takeoff"
+		]
+	},
+		"otherlands.verdant.takeoff_out":{
+		"sounds": [
+			"otherlands/culture/v_takeoff_outside"
+		]
+	},
+		"otherlands.verdant.landing_out":{
+		"sounds": [
+			"otherlands/culture/v_landing_outside"
+		]
+	},
+	"otherlands.verdant.landing_final":{
+		"sounds": [
+			"otherlands/culture/v_landing_final"
+		]
+	},
+		"otherlands.verdant.misc":{
+		"sounds": [
+			"otherlands/culture/v_misc1",
+			"otherlands/culture/v_misc2",
+			"otherlands/culture/v_misc3"
+		]
+		},
 		"otherlands.architect.local_pickup":{
 		"sounds": [
 			"otherlands/architect/local_pickup"
