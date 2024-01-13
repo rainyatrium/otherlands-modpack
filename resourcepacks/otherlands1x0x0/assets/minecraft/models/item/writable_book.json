@@ -27,6 +27,7 @@
 		{ "predicate": { "custom_model_data": 21}, "model": "item/cosmetic/book_menu" 		},
 		{ "predicate": { "custom_model_data": 22}, "model": "item/cosmetic/book_01" 			},
 		{ "predicate": { "custom_model_data": 23}, "model": "item/cosmetic/book_wanderer" 	},
-		{ "predicate": { "custom_model_data": 24}, "model": "item/cosmetic/book_slate" 			}
+		{ "predicate": { "custom_model_data": 24}, "model": "item/cosmetic/book_slate" 			},
+		{ "predicate": { "custom_model_data": 25}, "model": "item/cosmetic/book_ancient" 			}
 	]
 }
