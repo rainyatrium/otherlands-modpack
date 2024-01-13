@@ -18,7 +18,10 @@
 		"nebula",
 		"enginesky",
 		"voidgarden",
-		"afterlife"
+		"afterlife",
+		"space",
+		"turnaround_orbit",
+		"moon_orbit"
 		],
 	"environment": {
 		"fog_color": {

@@ -844,6 +844,11 @@
 			"otherlands/culture/v_landing_final"
 		]
 	},
+		"otherlands.steam":{
+		"sounds": [
+			"otherlands/steam"
+		]
+	},
 		"otherlands.verdant.misc":{
 		"sounds": [
 			"otherlands/culture/v_misc1",
