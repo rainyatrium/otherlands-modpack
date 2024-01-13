@@ -102,6 +102,22 @@
 			}
 		]
 	},
+	"otherlands.garden_district":{
+		"sounds": [
+			{
+			"name": "otherjams/garden_district",
+			"stream": true
+			}
+		]
+	},
+	"otherlands.frozen_moon":{
+		"sounds": [
+			{
+			"name": "otherjams/frozen_moon",
+			"stream": true
+			}
+		]
+	},
 	"otherlands.minor_challenge":{
 		"sounds": [
 			{
